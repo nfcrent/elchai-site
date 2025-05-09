@@ -9,24 +9,6 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay } from 'swiper/modules';
 import 'swiper/css/autoplay'
 
-const LibraryData = [
-    {
-        name: 'Tensorflow',
-        image: '/images/tensorflow-white.png',
-        url: '/'
-    },
-    {
-        name: 'PyTorch',
-        image: '/images/pytorch.png',
-        url: '/'
-    },
-    {
-        name: 'OpenAI',
-        image: '/images/openai.png',
-        url: '/'
-    }
-]
-
 interface TechIconsI {
     name: string,
     logo: string

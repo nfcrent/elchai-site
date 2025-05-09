@@ -65,31 +65,19 @@ export function SubsidiaryCard({ subsidiary }: { subsidiary: Subsidiary }) {
     )
 }
 
-export function SubsidiariesSection() {
-    const subsidiaries: Subsidiary[] = [{
-        id: "nfc-rent",
-        title: 'NFC',
-        url: 'https://nfcrent.com',
-        description: 'Revolutionizing digital asset management with NFT & blockchain technology',
-        imageUrl: '/images/nfc-car.png',
-        logoUrl: '/images/nfc-rent.svg',
-    }, {
-        id: "The Universe Eye",
-        title: 'The Universe Eye',
-        url: 'https://theuniverseye.com',
-        description: 'Crafting immersive worlds through advanced AR, VR, MR and AI-driven environments',
-        imageUrl: '/images/universe-eye.png',
-        logoUrl: '/images/the-universe-eye.svg',
-    }]
+export function SubsidiariesSection({ subsidiaries }: { subsidiaries: Record<string, any> }) {
+    const items = Object.values(subsidiaries?.data?.data) as Subsidiary[]
+    const h6 = subsidiaries?.h6?.content ?? "subsidiaries.h6.content"
+    const h1 = subsidiaries?.h1?.content ?? "subsidiaries.h1.content"
 
     return (
         <div className="py-8 lg:py-16 cursor-pointer">
             <div className="main-container">
-                <p className="text-center max-w-[782px] font-bold uppercase mx-auto mb-8">Elchai is a team of dedicated developers specializing in al, metaverse, blockchain, and web3 technologies-passionate about crafting extraordinary, intelligent digital solutions that redefine what's possible</p>
+                <p className="text-center max-w-[782px] font-bold uppercase mx-auto mb-8">{h6}</p>
 
-                <h2 className="main-title mb-12 text-center lg:text-left">Explore Our <span>Innovative Subsidiaries</span></h2>
+                <h2 className="main-title mb-12 text-center lg:text-left">{h1?.split("-")[0]} <span>{h1?.split("-")[1]}</span></h2>
                 <div className="grid sm:grid-cols-2 gap-8">
-                    {subsidiaries.map((subsidiary) => (
+                    {items?.map((subsidiary: Subsidiary) => (
                         <SubsidiaryCard key={subsidiary.id} subsidiary={subsidiary} />
                     ))}
                 </div>

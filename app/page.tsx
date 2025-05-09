@@ -8,70 +8,76 @@ import HeroHeader from "../inc/HeroHeader";
 import AnimatedHeroText from "./_components/AnimatedHeroText";
 import Solutions from "./_components/Solutions";
 import { SubsidiariesSection } from "./_components/Subsidiaries";
+import { getPageById } from "@/lib/actions/page.actions";
+import { notFound } from "next/navigation";
+import { formatSections, formatSEO, useRender } from "@/utils/render";
+import { ImageAsset } from "@/types/page";
+import { Metadata } from "next";
 
-export default function Home() {
+export async function generateMetadata(): Promise<Metadata> {
+	const res = await getPageById("681b46c11ee55eb9d4dc0994")
+	if (!res.success) {
+		return notFound()
+	}
+	const { seo } = res.data
+	return formatSEO(seo)
+}
 
 
+export default async function Home() {
+
+	const res = await getPageById("681b46c11ee55eb9d4dc0994")
+
+	if (!res.success) {
+		notFound()
+	}
+	const r = useRender(formatSections(res.data.sections || []))
+
+	console.log(r("projects.gallery.images"))
 
 	return (
 		<>
-			<HeroHeader video="/videos/main-hero-video.mp4" mheight="min-h-[90vh]" className="max-w-[666px]" title={<AnimatedHeroText />} />
+			<HeroHeader video={r("hero.video.url")} mheight="min-h-[90vh]" className="max-w-[666px]" title={
+				<AnimatedHeroText
+					description={r("hero.cta.text")}
+					h1={r("hero.cta.heading").split("-")[0]}
+					h2={r("hero.cta.heading").split("-")[1]}
+					links={r("hero.cta.links")}
+				/>} />
 
 			<div className="border-b border-foreground/50 max-w-screen-lg mx-auto"></div>
 
 			<div className="py-16 lg:py-0 -mt-90 lg:-mt-30 pb-10 relative z-40 lg:mb-8">
 				<div className="main-container">
 					<div className="grid grid-cols-1 lg:grid-cols-4 gap-4">
-						<div className="flex lg:items-center lg:justify-center">
-							<Link href={'/'} className="flex items-center gap-3">
-								<div className="w-12 lg:w-20">
-									<Image src={'/images/ai.svg'} alt="Artificial Intelligence" width={200} height={200} className="aspect-square object-contain object-center w-full h-full" />
-								</div>
-								<span className="font-bold uppercase text-center lg:text-left">Artificial Intelligence</span>
-							</Link>
-						</div>
-						<div className="flex lg:items-center lg:justify-center">
-							<Link href={'/'} className="flex items-center gap-3">
-								<div className="w-12 lg:w-20">
-									<Image src={'/images/metaverse-home.svg'} alt="Metaverse" width={200} height={200} className="aspect-square object-contain object-center w-full h-full" />
-								</div>
-								<span className="font-bold uppercase text-center lg:text-left">Metaverse</span>
-							</Link>
-						</div>
-						<div className="flex lg:items-center lg:justify-center">
-							<Link href={'/'} className="flex items-center gap-3">
-								<div className="w-12 lg:w-20">
-									<Image src={'/images/blockchain.svg'} alt="Blockchain" width={200} height={200} className="aspect-square object-contain object-center w-full h-full" />
-								</div>
-								<span className="font-bold uppercase">Blockchain</span>
-							</Link>
-						</div>
-						<div className="flex items-center lg:justify-center">
-							<Link href={'/'} className="flex items-center gap-3">
-								<div className="w-12 lg:w-20">
-									<Image src={'/images/web3.svg'} alt="Web3" width={200} height={200} className="aspect-square object-contain object-center w-full h-full" />
-								</div>
-								<span className="font-bold uppercase">Web3</span>
-							</Link>
-						</div>
+						{r("hero.image-list").images.map((img: ImageAsset, i: number) => (
+							<div key={img.url + i} className="flex items-center lg:justify-center">
+								<Link href={'/'} className="flex items-center gap-3">
+									<div className="w-12 lg:w-20">
+										<Image src={img.url} alt={img.alt} width={img.height || 200} height={img.width || 200} className="aspect-square object-contain object-center w-full h-full" />
+									</div>
+									<span className="font-bold uppercase">{img.caption}</span>
+								</Link>
+							</div>
+						))}
 					</div>
 				</div>
 			</div>
-			<SubsidiariesSection/>
+			<SubsidiariesSection subsidiaries={r("subsidiaries")} />
 			<div className="py-8 lg:py-16">
 				<div className="main-container">
 					<div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
 						<div className="flex flex-col justify-center order-2 lg:order-1">
-							<h2 className="main-title mb-4 !ml-0">Who <span>we are?</span></h2>
-							<p className="text-base mb-6">Elchai is a visionary team of developers, Al engineers, and blockchain experts building next-gen digital experiences. With a core focus on Al, metaverse, Web3, and loT, we blend immersive technologies with real-world solutions. Our mission: empower businesses through innovation, decentralization, and intelligent transformation.</p>
+							<h2 className="main-title mb-4 !ml-0">{r("who-we-are.h1.content")} <span>{r("who-we-are.h2.content")}</span></h2>
+							<p className="text-base mb-6">{r("who-we-are.description.content")}</p>
 							<ul className="main-lists table mx-auto space-y-1.5">
-								<li>Pioneers in AI, Blockchain & Immersive technologies</li>
-								<li>10+ years of successful global projects</li>
-								<li>10+ years of successful global projects</li>
+								{Object.values(r("who-we-are.list").data).map((v, i) => (
+									<li key={(v as string + i)}>{v as string}</li>
+								))}
 							</ul>
 						</div>
 						<div className="flex justify-center order-1 lg:order-2">
-							<Image src={'/images/metaverse-home.png'} alt="" width={768} height={768} />
+							<img src={"https://www.elchaigroup.com/_next/image?url=%2Fimages%2Fmetaverse-home.png&w=1920&q=75"} alt={("who-we-are.image.image.alt")} width={768} height={768} />
 						</div>
 					</div>
 				</div>
@@ -144,7 +150,7 @@ export default function Home() {
 				<div className="main-container">
 					<h2 className="main-title mb-12 text-center max-w-[548px]">Discover Our Signature <span>Metaverse Projects</span></h2>
 					<div className="grid grid-cols-1 gap-6">
-						<SignatureProjects />
+						<SignatureProjects images={r("projects.gallery.images")} />
 					</div>
 				</div>
 			</div>
@@ -171,9 +177,6 @@ export default function Home() {
 					<div className="pt-16">
 						<h3 className="text-center font-bold text-eblue text-xl mb-6">A Global Collaboration</h3>
 						<p className="text-center max-w-[815px] mx-auto mb-6">With operations across Dubal, Milan, Shenzhen, and New Delhi, this partnership amplifies our global mission to lead with Al-first innovation.</p>
-						{/* <div className="text-center">
-							<Link href={'/'} className="btn btn-main">Learn More About Our Partnership <FaChevronCircleRight /></Link>
-						</div> */}
 					</div>
 				</div>
 			</div>

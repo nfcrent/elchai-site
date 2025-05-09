@@ -1,0 +1,46 @@
+export interface BaseResponse {
+  message: string
+  status: number
+}
+
+export interface ErrorResponse extends BaseResponse {
+  success?: false
+  error: {
+    type?: string
+    detail?: string
+    instance?: string
+    timestamp?: string
+    code?: string
+    stack?: string
+  }
+  data?: undefined
+}
+
+export interface ResponsePaginated<T> extends BaseResponse {
+  meta: {
+    limit: number
+    page: number
+    totalCount: number
+    filterCount: number
+    sort_by: string
+    sort_dir: string
+  }
+  data: T[]
+  success?: true
+}
+
+export interface ResponseDefault<T> extends BaseResponse {
+  data: T
+  success?: true
+}
+
+export enum ApiResponseTypes {
+  Default = 0,
+  Error = 1,
+  Paginated = 2,
+}
+
+export type ApiResponse<T, Type extends ApiResponseTypes = ApiResponseTypes.Default> =
+  | (Type extends ApiResponseTypes.Default ? ResponseDefault<T> : never)
+  | (Type extends ApiResponseTypes.Error ? ErrorResponse : never)
+  | (Type extends ApiResponseTypes.Paginated ? ResponsePaginated<T> : never)

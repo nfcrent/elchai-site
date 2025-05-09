@@ -16,7 +16,7 @@ const Solutions = () => {
                     <span className="lg:absolute left-[105%] top-[75%] text-nowrap">AR/VR/MR Experiences </span>
                 </div>
 
-                <ul className="table mx-auto space-y-4 lg:hidden">
+                {/* <ul className="table mx-auto space-y-4 lg:hidden">
                     <li className="text-xl font-semibold relative min-h-[60px] pl-18 flex items-center">
                         <Image src={'/images/solutions1.svg'} alt="" width={60} height={60} className="absolute top-0 left-0" />
                         Metaverse Development
@@ -49,7 +49,7 @@ const Solutions = () => {
                         <Image src={'/images/solutions8.svg'} alt="" width={60} height={60} className="absolute top-0 left-0" />
                         AR/VR/MR Experiences
                     </li>
-                </ul>
+                </ul> */}
             </div>
         </>
     )
