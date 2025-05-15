@@ -21,6 +21,11 @@ export async function getPageById(id: string) {
   return res
 }
 
+export async function getFullPage(slug: string) {
+  const res = await API.get<Page>(`/pages/slug/${slug}`)
+  return res
+}
+
 export async function createPage(formData: FormData) {
   const title = formData.get("title") as string
   const slug = slugify(formData.get("slug") as string)

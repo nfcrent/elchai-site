@@ -8,16 +8,18 @@ import HeroHeader from "../inc/HeroHeader";
 import AnimatedHeroText from "./_components/AnimatedHeroText";
 import Solutions from "./_components/Solutions";
 import { SubsidiariesSection } from "./_components/Subsidiaries";
-import { getPageById } from "@/lib/actions/page.actions";
+import { getFullPage } from "@/lib/actions/page.actions";
 import { notFound } from "next/navigation";
 import { formatSections, formatSEO, useRender } from "@/utils/render";
 import { ImageAsset } from "@/types/page";
 import { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
-	const res = await getPageById("681b46c11ee55eb9d4dc0994")
+	const res = await getFullPage("home")
 	if (!res.success) {
-		return notFound()
+		return {
+			title: `${res.status} | ${res.message}`,
+		}
 	}
 	const { seo } = res.data
 	return formatSEO(seo)
@@ -26,17 +28,16 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function Home() {
 
-	const res = await getPageById("681b46c11ee55eb9d4dc0994")
+	const res = await getFullPage("home")
 
 	if (!res.success) {
-		notFound()
+		return <div className="mx-auto py-28">{res.message}</div>
 	}
 	const r = useRender(formatSections(res.data.sections || []))
 
-	console.log(r("projects.gallery.images"))
-
 	return (
 		<>
+			<img src="http://127.0.0.1:5000/api/v1/files/images/ai-development-services.png" />
 			<HeroHeader video={r("hero.video.url")} mheight="min-h-[90vh]" className="max-w-[666px]" title={
 				<AnimatedHeroText
 					description={r("hero.cta.text")}
