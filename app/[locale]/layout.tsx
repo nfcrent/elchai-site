@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
 import Header from "@/inc/Header";
@@ -6,6 +5,9 @@ import Footer from "@/inc/Footer";
 import 'swiper/css';
 import { getSiteData } from "@/lib/utils";
 import GradientBackground from "@/inc/GradientBackground";
+import { hasLocale, NextIntlClientProvider } from "next-intl";
+import { routing } from "@/i18n/routing";
+import { notFound } from "next/navigation";
 
 const montserrat = Montserrat({
   subsets: ["latin"]
@@ -37,20 +39,30 @@ export const metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
+  params
 }: Readonly<{
   children: React.ReactNode;
+  params: Promise<{ locale: string }>;
 }>) {
+
+  const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) {
+    notFound();
+  }
+
   return (
     <html lang="en">
       <body
         className={`${montserrat.className} antialiased`}
       >
-        <GradientBackground/>
-        <Header />
-        {children}
-        <Footer />
+        <NextIntlClientProvider>
+          <GradientBackground />
+          <Header />
+          {children}
+          <Footer />
+        </NextIntlClientProvider>
       </body>
     </html>
   );

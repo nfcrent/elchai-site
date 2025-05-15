@@ -1,5 +1,5 @@
 import Image from "next/image"
-import HeroHeader from "../../inc/HeroHeader"
+import HeroHeader from "../../../inc/HeroHeader"
 import { CardStyleOne } from "@/inc/Containers"
 import Link from "next/link"
 import { FaChevronCircleRight } from "react-icons/fa";
@@ -71,7 +71,7 @@ const AboutUsPage = () => {
 				</div>
 			</div>
 
-			<VideoBackgroundSection/>
+			<VideoBackgroundSection />
 
 			<div className="py-8 lg:py-16">
 				<div className="main-container">

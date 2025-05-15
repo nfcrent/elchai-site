@@ -1,8 +1,8 @@
-import { clsx, type ClassValue } from "clsx"
-import { twMerge } from "tailwind-merge"
+import { clsx, type ClassValue } from "clsx";
+import { twMerge } from "tailwind-merge";
 
 export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs))
+  return twMerge(clsx(inputs));
 }
 
 export function getSiteData() {
@@ -27,7 +27,8 @@ export function getSiteData() {
       phone: "+971501080066",
     },
     address: {
-      street: "34CV+JCM-Cluster G -Jumeirah Lake Towers-Dubai-Emirati Arabi Uniti",
+      street:
+        "34CV+JCM-Cluster G -Jumeirah Lake Towers-Dubai-Emirati Arabi Uniti",
       city: "Dubai",
       country: "United Arab Emirates",
       postalCode: "12345",

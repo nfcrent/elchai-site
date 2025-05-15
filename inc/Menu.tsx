@@ -2,7 +2,7 @@
 
 import { getSiteData } from "@/lib/utils"
 import Link from "next/link"
-import { ServicesData, ServicesI } from "@/app/services/_components/ServicesData"
+import { ServicesData, ServicesI } from "@/app/[locale]/services/_components/ServicesData"
 import { useRouter } from 'next/navigation'
 import { FaAngleDown } from "react-icons/fa6";
 import { useState } from "react"
@@ -37,7 +37,7 @@ const getServicesMenuData = () => {
         }
     })
 
-    return [{name: 'All Services', url: '/services'}, ...servicesMenuData]
+    return [{ name: 'All Services', url: '/services' }, ...servicesMenuData]
 }
 
 const MainMenuData: MenusI[] = [
@@ -158,23 +158,23 @@ const ContactMenuData: MenusI[] = [
 const SocialMediaData: MenusI[] = [
     {
         name: 'LinkedIn',
-        url:getSiteData().socialMedia.linkedin
+        url: getSiteData().socialMedia.linkedin
     },
     {
         name: 'Twitter',
-        url:getSiteData().socialMedia.twitter
+        url: getSiteData().socialMedia.twitter
     },
     {
         name: 'Facebook',
-        url:getSiteData().socialMedia.facebook
+        url: getSiteData().socialMedia.facebook
     },
     {
         name: 'Instagram',
-        url:getSiteData().socialMedia.instagram
+        url: getSiteData().socialMedia.instagram
     },
     {
         name: 'YouTube',
-        url:getSiteData().socialMedia.youtube
+        url: getSiteData().socialMedia.youtube
     },
 ]
 
@@ -238,7 +238,7 @@ export const AboutElchaiMenu = () => {
     )
 }
 
-export const MobileMenu = ({toggleMenu}: {toggleMenu: () => void}) => {
+export const MobileMenu = ({ toggleMenu }: { toggleMenu: () => void }) => {
 
     MainMenuData.length = 4
     const router = useRouter()
@@ -269,7 +269,7 @@ export const MobileMenu = ({toggleMenu}: {toggleMenu: () => void}) => {
                             <><li key={index} className="text-center text-3xl font-semibold" onClick={toggleMenu}><Link href={menu.url} className={pathname === menu.url ? 'active' : ''}>{menu.name}</Link></li></>
                         )}
                     </>
-                    
+
                 )}
             </ul>
         </>

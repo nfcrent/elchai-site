@@ -4,10 +4,10 @@ import Link from "next/link";
 import { FaChevronCircleRight } from "react-icons/fa";
 import SignatureProjects from "./_components/SignatureProjects";
 import LibraryStack from "./_components/LibraryStack";
-import HeroHeader from "../inc/HeroHeader";
 import AnimatedHeroText from "./_components/AnimatedHeroText";
 import Solutions from "./_components/Solutions";
 import { SubsidiariesSection } from "./_components/Subsidiaries";
+import HeroHeader from "@/inc/HeroHeader";
 
 export default function Home() {
 
@@ -57,7 +57,7 @@ export default function Home() {
 					</div>
 				</div>
 			</div>
-			<SubsidiariesSection/>
+			<SubsidiariesSection />
 			<div className="py-8 lg:py-16">
 				<div className="main-container">
 					<div className="grid grid-cols-1 lg:grid-cols-2 gap-12">

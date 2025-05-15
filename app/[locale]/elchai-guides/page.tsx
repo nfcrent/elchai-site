@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import HeroHeader from "../../inc/HeroHeader";
+import HeroHeader from "../../../inc/HeroHeader";
 import Link from "next/link";
 import { FaChevronCircleRight } from "react-icons/fa";
 import GuideItem from "./_components/GuideItem";
