@@ -38,7 +38,7 @@ const AboutUsPage = () => {
 	return (
 		<>
 
-			<HeroHeader image="/images/about.png" className="max-w-[707px]" title={<><strong>Empowering Innovation</strong> <span className="text-[#50a6d7]">Shaping</span> <span className="text-[#f5daed]">The</span> <span className="text-[#b9e6e9]">Future</span></>} />
+			<HeroHeader imgHeight={500} imgWidth={500} containerClass="lg:min-h-[65vh] min-h-[10vh]" imgClass="absolute  object-center   z-10" image="/images/about.png" className="max-w-[707px]" title={<><strong>Empowering Innovation</strong> <span className="text-[#50a6d7]">Shaping</span> <span className="text-[#f5daed]">The</span> <span className="text-[#b9e6e9]">Future</span></>} />
 
 			<div className="border-b border-foreground/50 max-w-screen-lg mx-auto"></div>
 			<div className="py-16">

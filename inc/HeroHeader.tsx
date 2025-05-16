@@ -1,19 +1,32 @@
 import { cn } from "@/lib/utils"
 import Image from "next/image"
 
+interface HeroHeaderProps {
+    image?: string,
+    video?: string,
+    title: React.ReactNode,
+    className?: string,
+    mheight?: string,
+    overlay?: "lg" | "md" | "sm" | "none"
+    imgClass?: string
+    videoClass?: string
+    containerClass?: string
+    imgHeight?: number,
+    imgWidth?: number
+}
 
-const HeroHeader = ({ image, video, overlay = "none", title, className, mheight = 'min-h-[60vh]' }: { image?: string, video?: string, title: React.ReactNode, className?: string, mheight?: string, overlay?: "lg" | "md" | "sm" | "none" }) => {
+const HeroHeader = ({ image, video, overlay = "none", title, className, mheight = 'min-h-[60vh]', imgClass, containerClass, videoClass, imgHeight = 1920, imgWidth = 1920 }: HeroHeaderProps) => {
     return (
         <>
-            <div className={`relative pt-28 backdrop-blur-${overlay} ${mheight} lg:min-h-[100vh]`}>
+            <div className={cn(`relative pt-28 lg:min-h-[100vh]`, `backdrop-blur-${overlay} ${mheight}`, containerClass)}>
 
                 <LightingOverLay overlay={overlay} />
 
                 {image ? (
-                    <Image src={image || ''} width={1920} height={1920} alt="Elchai" className="absolute top-0 right-0 bottom-0 left-0 object-center object-cover w-full h-full z-10" />
+                    <Image src={image || ''} width={imgWidth} height={imgHeight} alt="Elchai" className={cn("absolute top-0 right-0 bottom-0 left-0 object-center object-cover w-full h-full z-10", imgClass)} />
                 ) : (
                     <>
-                        {video && <video autoPlay muted loop playsInline controls={false} className="absolute top-0 right-0 bottom-0 left-0 object-center object-cover w-full h-full z-10">
+                        {video && <video autoPlay muted loop playsInline controls={false} className={cn("absolute top-0 right-0 bottom-0 left-0 object-center object-cover w-full h-full z-10", videoClass)}>
                             <source src={video || ''} type="video/mp4" />
                         </video>}
                     </>
