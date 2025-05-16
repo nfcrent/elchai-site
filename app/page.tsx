@@ -57,7 +57,7 @@ export default function Home() {
 					</div>
 				</div>
 			</div>
-			<SubsidiariesSection/>
+			<SubsidiariesSection />
 			<div className="py-8 lg:py-16">
 				<div className="main-container">
 					<div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -151,7 +151,7 @@ export default function Home() {
 
 			<div className="py-8 lg:py-16">
 				<div className="main-container">
-					<h2 className="main-title mb-4 text-center max-w-[770px]">Partnering with Rob Rockefeller <span>SC to Build the Digital Future</span></h2>
+					<h2 className="main-title mb-4 text-center max-w-[610px]">Partnering with The Rob Rockefeller <span>SC to Build the Digital Future</span></h2>
 					<p className="text-center max-w-[818px] mx-auto">Elchai has joined forces with global sionary Rab Rockefeller SC to co develop world-shaping digital ecosystems powered by Al, blockchain, and sustainability tech.</p>
 					<div className="grid lg:grid-cols-2 gap-4 mt-12">
 						<div className="flex justify-center items-center">
