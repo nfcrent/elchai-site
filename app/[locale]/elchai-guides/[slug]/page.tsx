@@ -1,72 +1,65 @@
-import { GuidesData, GuidesI } from "../_components/GuidesData"
 import Image from "next/image";
-import { CardStyleOne } from "@/inc/Containers";
 import Link from "next/link";
-import { FaChevronCircleRight } from "react-icons/fa";
+import { getTranslations } from "next-intl/server";
+import { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { Guide, GuidesContent, GuidesFooterCard } from "@/components/guides";
 
-export async function generateStaticParams() {
-    return GuidesData.map((guide: GuidesI) => ({
-        slug: guide.slug
-    }))
+interface GuideDetailsProps {
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateMetadata({
-    params,
+  params,
 }: {
-    params: Promise<{ slug: string }>
+  params: Promise<{ slug: string }>;
 }) {
-    const {slug} = await params
-    const guideitem = await GuidesData.find((guide) => guide.slug === slug);
+  const { slug } = await params;
+  const t = await getTranslations("GUIDES.items");
+  const guideitem = t.raw(slug) as Guide;
 
-    if (!guideitem) {
-        return {
-            title: "Guide Not Found",
-            description: "The guide you are looking for does not exist.",
-        };
-    }
+  if (!guideitem) {
+    return notFound();
+  }
 
-    return {
-        title: `${guideitem.title} | Elchai Guides`,
-        description: guideitem.description,
-    };
+  return {
+    title: `${guideitem.title} | Elchai Guides`,
+    description: guideitem.description,
+  };
 }
 
-
-const GuidePage = async({
-    params,
+export default async function GuideDetailsPage({
+  params,
 }: {
-    params: Promise<{ slug: string }>
-}) => {
-
-    const {slug} = await params
-    const guideitem = await GuidesData.find((guide) => guide.slug === slug);
-
-    return (
-        <>
-            <div className="pt-36 pb-8 lg:pb-16">
-                <div className="max-w-3xl mx-auto space-y-12 px-4">
-                    <Image src={guideitem?.image || ''} alt={guideitem?.title || ''} width={992} height={992} className="aspect-video object-center object-cover w-full rounded-4xl" />
-                    <h1 className="text-3xl lg:text-5xl text-center font-bold bg-linear-to-r from-eblue to-epurple text-transparent bg-clip-text uppercase">{guideitem?.title || ''}</h1>
-                    <div className="content">
-                        {guideitem?.content || <></>}
-                    </div>
-                </div>
-            </div>
-            <div className="py-8 lg:py-16">
-				<div className="main-container">
-					<CardStyleOne>
-						<div className="pt-7 pb-10">
-							<h2 className="main-title no-decoration mb-2 text-center">Stay Ahead in the <span>Digital World</span></h2>
-							<p className="max-w-[703px] text-center mx-auto mb-8">Subscribe to Elchai Guides for ongoing insights, expert tips, and latest trends directly to your inbox.</p>
-							<div className="flex items-center justify-center gap-4">
-								<Link href={'/contact-us'} className="btn btn-main">Subscribe Now <FaChevronCircleRight /></Link>
-							</div>	
-						</div>
-					</CardStyleOne>
-				</div>
-			</div>
-        </>
-    )
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug } = await params;
+  const t = await getTranslations("GUIDES");
+  const guideitem = { ...(t.raw(`items.${slug}`) || {}), slug } as Guide;
+  return (
+    <>
+      <div className="pt-36 pb-8 lg:pb-16">
+        <div className="max-w-3xl mx-auto space-y-12 px-4">
+          <Image
+            src={guideitem?.image || ""}
+            alt={guideitem?.title || ""}
+            width={992}
+            height={992}
+            className="aspect-video object-center object-cover w-full rounded-4xl"
+          />
+          <h1 className="text-3xl lg:text-5xl text-center font-bold bg-linear-to-r from-eblue to-epurple text-transparent bg-clip-text uppercase">
+            {guideitem?.title || ""}
+          </h1>
+          <GuidesContent content={guideitem.content as any} />
+        </div>
+      </div>
+      <div className="py-8 lg:py-16">
+        <GuidesFooterCard
+          title={t.raw("footerCard.title")}
+          link={t("footerCard.link")}
+          description={t("footerCard.description")}
+        />
+      </div>
+    </>
+  );
 }
-
-export default GuidePage
