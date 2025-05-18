@@ -15,8 +15,8 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const t = await getTranslations("GUIDES.items");
-  const guideitem = t.raw(slug) as Guide;
+  const t = await getTranslations("GUIDES");
+  const guideitem = t.raw(`items.${slug}`) as Guide;
 
   if (!guideitem) {
     return notFound();

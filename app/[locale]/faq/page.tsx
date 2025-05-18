@@ -40,7 +40,6 @@ export const metadata: Metadata = {
 
 export default async function FaqPage() {
   const t = await getTranslations("FAQ");
-  let items = t.raw("items") as { question: string; answer: string }[];
   return (
     <>
       {" "}
@@ -53,7 +52,7 @@ export default async function FaqPage() {
           <div className="pt-16 space-y-8">
             <div className="border border-white/20 p-6 rounded-2xl content">
               <Accordion type="single" collapsible className="w-full">
-                {items.map((faq, i) => (
+                {(t.raw("items") as { question: string; answer: string }[]).map((faq, i) => (
                   <AccordionItem value={i + faq.question} key={i + 1}>
                     <AccordionTrigger>{faq.question}</AccordionTrigger>
                     <AccordionContent>{faq.answer}</AccordionContent>
