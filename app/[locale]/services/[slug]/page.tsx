@@ -25,7 +25,7 @@ export async function generateMetadata({
   };
 }
 
-export async function ServiceDetailsPage({
+export default async function ServiceDetailsPage({
   params,
 }: {
   params: Promise<{ slug: string }>;
