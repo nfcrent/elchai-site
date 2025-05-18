@@ -23,7 +23,7 @@ export interface CaseStudiesI {
 
 export const CaseStudiesData: CaseStudiesI[] = [
     {
-        title:  'Tarality',
+        title: 'Tarality',
         subtitle: 'Comprehensive Crypto Ecosystem & Exchange Platform',
         description: 'Tarality provides a robust blockchain ecosystem including cryptocurrency exchange, trading, investment solutions, and crypto banking services. Learn how Elchai developed a secure, compliant, and versatile crypto infrastructure, strengthening Tarality’s position in the global blockchain marketplace.',
         image: '/images/tarality.webp',
@@ -405,3 +405,312 @@ export const CaseStudiesData: CaseStudiesI[] = [
         },
     },
 ]
+
+
+
+function CaseBlock({ icon, title, description }: { icon: string; title: string; description: string }) {
+    return (
+        <div className="service-content-item">
+            <div className="service-content-icon">
+                <Image src={icon} alt="" width={320} height={320} />
+            </div>
+            <h3 className="font-bold uppercase text-epurple mb-3">{title}</h3>
+            <p>{description}</p>
+        </div>
+    )
+}
+
+
+export function getCaseStudiesData(tStudies: any): CaseStudiesI[] {
+    return [
+        {
+            title: tStudies("tarality.title"),
+            subtitle: tStudies("tarality.subtitle"),
+            description: tStudies("tarality.description"),
+            image: "/images/tarality.webp",
+            slug: "tarality",
+            content: (
+                <>
+                    <h2 className="main-title mb-16">
+                        {tStudies("tarality.content.heading").split(" <span>").map((part: string, index: number) =>
+                            index === 1 ? <span key={index}>{part.replace("</span>", "")}</span> : part
+                        )}
+                    </h2>
+                    <div className="space-y-8 service-content-container mb-16">
+                        <CaseBlock
+                            icon="/images/metaverse.svg"
+                            title="Overview:"
+                            description={tStudies("tarality.content.overview")}
+                        />
+                        <CaseBlock
+                            icon="/images/artificial-intelligence.svg"
+                            title="Challenges & Solutions:"
+                            description={tStudies("tarality.content.challenges")}
+                        />
+                        <CaseBlock
+                            icon="/images/vr-glasses.svg"
+                            title="Results:"
+                            description={tStudies("tarality.content.results")}
+                        />
+                    </div>
+                </>
+            ),
+            technologyStack: [
+                { name: "Ethereum", media: "/images/ethereum-blockchain.svg" },
+                { name: "Solidity", media: "/images/solidity.svg" },
+                { name: "ReactJS", media: "/images/reactjs.svg" },
+                { name: "NodeJS", media: "/images/nodejs.svg" },
+                { name: "AWS", media: "/images/aws.svg" },
+            ],
+            actioninner: {
+                name: tStudies("tarality.actioninner"),
+                url: "/contact-us",
+            },
+            action: {
+                name: tStudies("tarality.action"),
+                url: "/case-studies/tarality",
+            },
+        },
+        {
+            title: tStudies("blyncc.title"),
+            subtitle: tStudies("blyncc.subtitle"),
+            description: tStudies("blyncc.description"),
+            image: "/images/blyncc.webp",
+            slug: "blyncc",
+            content: (
+                <>
+                    <h2 className="main-title mb-16">
+                        {tStudies("blyncc.content.heading").split(" <span>").map((part: string, index: number) =>
+                            index === 1 ? <span key={index}>{part.replace("</span>", "")}</span> : part
+                        )}
+                    </h2>
+                    <div className="space-y-8 service-content-container mb-16">
+                        <CaseBlock
+                            icon="/images/metaverse.svg"
+                            title="Overview:"
+                            description={tStudies("blyncc.content.overview")}
+                        />
+                        <CaseBlock
+                            icon="/images/artificial-intelligence.svg"
+                            title="Challenges & Solutions:"
+                            description={tStudies("blyncc.content.challenges")}
+                        />
+                        <CaseBlock
+                            icon="/images/vr-glasses.svg"
+                            title="Results:"
+                            description={tStudies("blyncc.content.results")}
+                        />
+                    </div>
+                </>
+            ),
+            technologyStack: [
+                { name: "Ethereum", media: "/images/ethereum-blockchain.svg" },
+                { name: "Hyperledger", media: "/images/hyperledger.svg" },
+                { name: "Solidity", media: "/images/solidity.svg" },
+                { name: "ReactJS", media: "/images/reactjs.svg" },
+                { name: "NodeJS", media: "/images/nodejs.svg" },
+                { name: "AWS", media: "/images/aws.svg" },
+            ],
+            actioninner: {
+                name: tStudies("blyncc.actioninner"),
+                url: "/contact-us",
+            },
+            action: {
+                name: tStudies("blyncc.action"),
+                url: "/case-studies/blyncc",
+            },
+        },
+        {
+            title: tStudies("bbEstate.title"),
+            subtitle: tStudies("bbEstate.subtitle"),
+            description: tStudies("bbEstate.description"),
+            image: "/images/bb-estate.webp",
+            slug: "bb-estate",
+            content: (
+                <>
+                    <h2 className="main-title mb-16">
+                        {tStudies("bbEstate.content.heading").split(" <span>").map((part: string, index: number) =>
+                            index === 1 ? <span key={index}>{part.replace("</span>", "")}</span> : part
+                        )}
+                    </h2>
+                    <div className="space-y-8 service-content-container mb-16">
+                        <CaseBlock
+                            icon="/images/metaverse.svg"
+                            title="Overview:"
+                            description={tStudies("bbEstate.content.overview")}
+                        />
+                        <CaseBlock
+                            icon="/images/artificial-intelligence.svg"
+                            title="Challenges & Solutions:"
+                            description={tStudies("bbEstate.content.challenges")}
+                        />
+                        <CaseBlock
+                            icon="/images/vr-glasses.svg"
+                            title="Results:"
+                            description={tStudies("bbEstate.content.results")}
+                        />
+                    </div>
+                </>
+            ),
+            technologyStack: [
+                { name: "Ethereum", media: "/images/ethereum-blockchain.svg" },
+                { name: "Solidity", media: "/images/solidity.svg" },
+                { name: "Polygon", media: "/images/polygon.svg" },
+                { name: "ReactJS", media: "/images/reactjs.svg" },
+                { name: "AWS", media: "/images/aws.svg" },
+            ],
+            actioninner: {
+                name: tStudies("bbEstate.actioninner"),
+                url: "/contact-us",
+            },
+            action: {
+                name: tStudies("bbEstate.action"),
+                url: "/case-studies/bb-estate",
+            },
+        },
+        {
+            title: tStudies("cryptoEtrade.title"),
+            subtitle: tStudies("cryptoEtrade.subtitle"),
+            description: tStudies("cryptoEtrade.description"),
+            image: "/images/crypto-etrade.webp",
+            slug: "crypto-etrade",
+            content: (
+                <>
+                    <h2 className="main-title mb-16">
+                        {tStudies("cryptoEtrade.content.heading").split(" <span>").map((part: string, index: number) =>
+                            index === 1 ? <span key={index}>{part.replace("</span>", "")}</span> : part
+                        )}
+                    </h2>
+                    <div className="space-y-8 service-content-container mb-16">
+                        <CaseBlock
+                            icon="/images/metaverse.svg"
+                            title="Overview:"
+                            description={tStudies("cryptoEtrade.content.overview")}
+                        />
+                        <CaseBlock
+                            icon="/images/artificial-intelligence.svg"
+                            title="Challenges & Solutions:"
+                            description={tStudies("cryptoEtrade.content.challenges")}
+                        />
+                        <CaseBlock
+                            icon="/images/vr-glasses.svg"
+                            title="Results:"
+                            description={tStudies("cryptoEtrade.content.results")}
+                        />
+                    </div>
+                </>
+            ),
+            technologyStack: [
+                { name: "Ethereum", media: "/images/ethereum-blockchain.svg" },
+                { name: "Binance", media: "/images/binance.svg" },
+                { name: "Solidity", media: "/images/solidity.svg" },
+                { name: "ReactJS", media: "/images/reactjs.svg" },
+                { name: "AWS", media: "/images/aws.svg" },
+            ],
+            actioninner: {
+                name: tStudies("cryptoEtrade.actioninner"),
+                url: "/contact-us",
+            },
+            action: {
+                name: tStudies("cryptoEtrade.action"),
+                url: "/case-studies/crypto-etrade",
+            },
+        },
+        {
+            title: tStudies("fintex.title"),
+            subtitle: tStudies("fintex.subtitle"),
+            description: tStudies("fintex.description"),
+            image: "/images/fintex.webp",
+            slug: "fintex",
+            content: (
+                <>
+                    <h2 className="main-title mb-16">
+                        {tStudies("fintex.content.heading").split(" <span>").map((part: string, index: number) =>
+                            index === 1 ? <span key={index}>{part.replace("</span>", "")}</span> : part
+                        )}
+                    </h2>
+                    <div className="space-y-8 service-content-container mb-16">
+                        <CaseBlock
+                            icon="/images/metaverse.svg"
+                            title="Overview:"
+                            description={tStudies("fintex.content.overview")}
+                        />
+                        <CaseBlock
+                            icon="/images/artificial-intelligence.svg"
+                            title="Challenges & Solutions:"
+                            description={tStudies("fintex.content.challenges")}
+                        />
+                        <CaseBlock
+                            icon="/images/vr-glasses.svg"
+                            title="Results:"
+                            description={tStudies("fintex.content.results")}
+                        />
+                    </div>
+                </>
+            ),
+            technologyStack: [
+                { name: "Ethereum", media: "/images/ethereum-blockchain.svg" },
+                { name: "Binance", media: "/images/binance.svg" },
+                { name: "Solidity", media: "/images/solidity.svg" },
+                { name: "ReactJS", media: "/images/reactjs.svg" },
+                { name: "NodeJS", media: "/images/nodejs.svg" },
+                { name: "AWS", media: "/images/aws.svg" },
+            ],
+            actioninner: {
+                name: tStudies("fintex.actioninner"),
+                url: "/contact-us",
+            },
+            action: {
+                name: tStudies("fintex.action"),
+                url: "/case-studies/fintex",
+            },
+        },
+        {
+            title: tStudies("flexcube.title"),
+            subtitle: tStudies("flexcube.subtitle"),
+            description: tStudies("flexcube.description"),
+            image: "/images/flexcube.webp",
+            slug: "flexcube",
+            content: (
+                <>
+                    <h2 className="main-title mb-16">
+                        {tStudies("flexcube.content.heading").split(" <span>").map((part: string, index: number) =>
+                            index === 1 ? <span key={index}>{part.replace("</span>", "")}</span> : part
+                        )}
+                    </h2>
+                    <div className="space-y-8 service-content-container mb-16">
+                        <CaseBlock
+                            icon="/images/metaverse.svg"
+                            title="Overview:"
+                            description={tStudies("flexcube.content.overview")}
+                        />
+                        <CaseBlock
+                            icon="/images/artificial-intelligence.svg"
+                            title="Challenges & Solutions:"
+                            description={tStudies("flexcube.content.challenges")}
+                        />
+                        <CaseBlock
+                            icon="/images/vr-glasses.svg"
+                            title="Results:"
+                            description={tStudies("flexcube.content.results")}
+                        />
+                    </div>
+                </>
+            ),
+            technologyStack: [
+                { name: "Unity 3D", media: "/images/unity-engine.svg" },
+                { name: "Unreal Engine", media: "/images/unreal-engine.svg" },
+                { name: "Arkit, ARcore", media: "/images/arkit-arcore.svg" },
+                { name: "AWS", media: "/images/aws.svg" },
+            ],
+            actioninner: {
+                name: tStudies("flexcube.actioninner"),
+                url: "/contact-us",
+            },
+            action: {
+                name: tStudies("flexcube.action"),
+                url: "/case-studies/flexcube",
+            },
+        }
+    ];
+}
