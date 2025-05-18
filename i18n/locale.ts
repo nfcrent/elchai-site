@@ -1,2 +1,2 @@
-export const supportedLanguages = ["en", "fr", "es", "it", "zh", "ru", "ar"];
+export const supportedLanguages = ["en", "it"];
 export const defaultDefaultLocale = "en";

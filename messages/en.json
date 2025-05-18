@@ -1,3 +1,1166 @@
 {
-    "Home": "Abanda"
+  "HOME": {
+    "hero": {
+      "t1": "Building The Future of",
+      "t2": "AI",
+      "t3": "Metaverse",
+      "t4": "&Web3",
+      "description": "Elchai is a team of dedicated developers specializing in AI, metaverse, blockchain, and Web3 technologies—passionate about crafting extraordinary, intelligent digital solutions that redefine what's possible.",
+      "cta": "Contact Us",
+      "ai": "Artificial Intelligence",
+      "metaverse": "Metaverse",
+      "blockchain": "Blockchain",
+      "web3": "Web3"
+    },
+    "subsidiaries": {
+      "title": "Explore Our <span>Innovative Subsidiaries</span>",
+      "description": "Elchai is a team of dedicated developers specializing in al, metaverse, blockchain, and web3 technologies-passionate about crafting extraordinary, intelligent digital solutions that redefine what's possible",
+      "nfcText": "Revolutionizing digital asset management with NFT & blockchain technology",
+      "universeText": "Crafting immersive worlds through advanced AR, VR, MR and AI-driven environments"
+    },
+    "section3": {
+      "title": "Who <span>we are?</span>",
+      "description": "Elchai is a visionary team of developers, Al engineers, and blockchain experts building next-gen digital experiences. With a core focus on Al, metaverse, Web3, and loT, we blend immersive technologies with real-world solutions. Our mission: empower businesses through innovation, decentralization, and intelligent transformation.",
+      "list": [
+        "Pioneers in AI, Blockchain & Immersive technologies",
+        "10+ years of successful global projects"
+      ]
+    },
+    "section4": {
+      "title": "Comprehensive Solutions Tailored <span>For The Digital Future</span>",
+      "metaverse": "Metaverse Development",
+      "web3": "Web3 Development",
+      "blockchain": "Blockchain Development",
+      "ai": "Al Integration & Development",
+      "smart": "Smart Contract Development",
+      "ar": "AR/VR/MR Experiences",
+      "vr": "AR/VR/MR Experiences",
+      "iot": "IoT Solutions"
+    },
+    "section5": {
+      "title": "Shaping The Future With AI & <span>Intelligent Technologies</span>",
+      "description": "At Elchai, Al is not just a tool-it's at the heart of our innovation. From intelligent automation to advanced analytics, our Al-powered solutions drive smarter decisions and futuristic digital experiences across industries",
+      "solutionsTitle": "AI-Powered Solutions We Offer",
+      "solutionsList": [
+        "Predictive Analytics & Data Intelligence",
+        "Generative Al & Content Automation",
+        "Smart Chatbots & Virtual Assistants",
+        "Al-driven Cybersecurity Solutions",
+        "Al for Blockchain & Web3 Applications"
+      ],
+      "whyAITitle": "Why AI Matters for Businesses?",
+      "whyAIDescription": "Al enables smarter, faster, and more scalable outcomes. At Elchai, we help organizations harness Al for competitive advantage—enhancing engagement, streamlining operations, and unlocking innovation.",
+      "aiCTA": "Discover Our AI Capabilities"
+    },
+    "section6": {
+      "title": "Why Businesses <span>Choose Elchai</span>",
+      "list": [
+        "10+ Years of Blockchain & Al-driven development.",
+        "Custom-built digital strategies for real-world success",
+        "Deep expertise in Al, Metaverse & Web3 environments",
+        "Experts in decentralized platforms and smart tech ecosystems",
+        "Trusted by Fortune 500s and startups alike",
+        "Market-smart, innovation-first approach"
+      ]
+    },
+    "section7": {
+      "title": "Discover Our Signature <span>Metaverse Projects</span>",
+      "real": "Real Estate metaverse Solutions",
+      "dubai": "Dubai's Virtual City Replicas",
+      "virtual": "Virtual Car Club",
+      "3d": "3D Avatar Development"
+    },
+    "section8": {
+      "title": "Partnering with The Rob Rockefeller <span>SC to Build the Digital Future</span>",
+      "description": "Elchai has joined forces with global visionary Rob Rockefeller SC to co-develop world-shaping digital ecosystems powered by Al, blockchain, and sustainability tech.",
+      "solutionsTitle": "AI-Powered Solutions We Offer",
+      "solutionsList": [
+        "AI Robotics",
+        "Blockchain Based Carbon Credit Systems",
+        "Cyber Security & Advanced Tech Research",
+        "Metaverse Development & Digital transformation"
+      ],
+      "collabTitle": "A Global Collaboration",
+      "collabDescription": "With operations across Dubai, Milan, Shenzhen, and New Delhi, this partnership amplifies our global mission to lead with Al-first innovation."
+    },
+    "section9": {
+      "title": "Our Cutting-<span>Edge Tech Stack</span>"
+    },
+    "section10": {
+      "title": "Join The Revolution <span>In Digital Innovation</span>",
+      "description": "Partner with Elchai to build intelligent, immersive digital platforms across metaverse, Al, blockchain, and Web3. Your vision, powered by innovation.",
+      "cta": {
+        "explore": "Explore Our Services",
+        "contact": "Contact Us"
+      }
+    }
+  },
+  "ABOUT": {
+    "hero": {
+      "t1": "Empowering Innovation",
+      "t2": "Shaping",
+      "t3": "The",
+      "t4": "Future"
+    },
+    "intro": {
+      "p1": "At elchai, we are more than just technology experts we are visionaries dedicated to pioneering groundbreaking solutions in metaverse, blockchain, and web3. Driven by passion, experience, and a commitment to excellence, our mission is to redefine digital experiences and unlock limitless possibilities for businesses worldwide.",
+      "h2": "Empowering Innovation In Metaverse",
+      "h2_span": "Blockchain, and Web3",
+      "p2": "Elchai is a passionate and visionary team of developers dedicated to creating exceptional digital experiences through cutting-edge technologies. Specializing in Metaverse, Blockchain, and Web3, we build innovative and extraordinary solutions utilizing advanced capabilities such as loT, Al, ML, AR, VR, and MR. Our goal is to redefine the digital landscape, enabling businesses globally to unlock their full potential."
+    },
+    "message": {
+      "h2": "Message from our",
+      "h2_span": "Chairman & Founder",
+      "quote": "At Elchai, innovation drives us. Our vision is not just to build digital worlds, but to reshape how businesses engage and thrive in the age of decentralization. Our dedicated team works tirelessly to pioneer solutions that inspire, empower, and set new standards across industries. Join us as we continue to turn visionary ideas into groundbreaking realities",
+      "name": "Flavio Elia",
+      "title": "Chairman & Founder, Elchai Group"
+    },
+    "whyChoose": {
+      "h2": "Why Global Leaders",
+      "h2_span": "Choose Elchai",
+      "items": {
+        "stayAhead": {
+          "title": "Stay Ahead",
+          "desc": "Strategic execution ensuring our clients consistently outperform competitors"
+        },
+        "decentralization": {
+          "title": "Decentralization",
+          "desc": "Proven capability in integrating decentralized apps (dApps) for enhanced transparency, automation, and efficiency"
+        },
+        "gettingViral": {
+          "title": "Getting Viral",
+          "desc": "Innovative marketing strategies tailored to enhance the visibility of Web3 products"
+        },
+        "reputation": {
+          "title": "Reputation",
+          "desc": "Over 10 years delivering exceptional blockchain and metaverse solutions"
+        },
+        "productDelivery": {
+          "title": "Product Delivery",
+          "desc": "Specialized expertise in crafting global-standard blockchain solutions"
+        },
+        "advancedDevelopment": {
+          "title": "Advanced Development",
+          "desc": "Expertise ranging from enterprise solutions to complex metaverse development"
+        }
+      }
+    },
+    "journey": {
+      "h2": "From Vision to Reality",
+      "h2_span": "Our Fantastic Journey",
+      "items": {
+        "visionaryIdea": {
+          "title": "Visionary Idea",
+          "desc": "Began with an ambition to redefine digital interactions through revolutionary metaverse and Web3 solutions"
+        },
+        "coreValues": {
+          "title": "Core Values",
+          "desc": "Prioritized personalization, ownership, and composability for engaging digital experiences."
+        },
+        "metaverseEcosystem": {
+          "title": "Metaverse Ecosystem",
+          "desc": "Successfully developed a comprehensive, scalable metaverse ecosystem integrated with blockchain and advanced technologies"
+        },
+        "digitalImpact": {
+          "title": "Digital Impact",
+          "desc": "Grew into a recognized expert company, significantly influencing the global digital landscape."
+        }
+      }
+    },
+    "expertise": {
+      "h2": "Decades of Innovation",
+      "h2_span": "& Expertise",
+      "desc": "Elchai's dedicated developers possess decades of combined experience in delivering cutting-edge blockchain, metaverse, and Web3 solutions. Our expert teams manage projects seamlessly-from initial concept through full deployment-offering tailor-made solutions trusted by startups and Fortune 500 corporations alike.",
+      "bullets": [
+        "Proven track record in next-gen technological solutions",
+        "End-to-end management of innovative projects.",
+        "Tailored digital transformation solutions across industries"
+      ]
+    },
+    "partners": {
+      "h2": "Our Esteemed",
+      "h2_span": "Partners"
+    },
+    "cta": {
+      "h2": "Join The Revolution",
+      "h2_span": "In Digital Innovation",
+      "desc": "Partner with Elchai to build intelligent, immersive digital platforms across metaverse, Al, blockchain, and Web3. Your vision, powered by innovation",
+      "services": "Explore Our Services",
+      "contact": "Contact Us"
+    },
+    "leadership": {
+      "CEO": "Chairman & Founder",
+      "CTO": "Chief Technology Officer",
+      "CFO": "Chief Financial Officer",
+      "CMO": "Chief Marketing Officer",
+      "ITLead": "IT Lead"
+    },
+    "team": {
+      "tabs": {
+        "skills": "Skills Distribution",
+        "leadership": "Leadership"
+      },
+      "skills": {
+        "backend": "Backend Developers",
+        "frontend": "Frontend Developers",
+        "uiux": "UI/UX Designers",
+        "blockchain": "Blockchain Developers",
+        "unity": "Unity 3D/UR Developers",
+        "devops": "DevOps Engineers",
+        "pm": "Project Managers",
+        "artists": "3D Artists"
+      }
+    }
+  },
+  "SERVICES": {
+    "title": "Innovative Digital Solutions Built for Tomorrow",
+    "t1": "Innovative Digital",
+    "t2": "Solutions Built",
+    "t3": "for Tomorrow",
+    "description": "",
+    "intro": {
+      "title": "Our <span>Services</span>",
+      "description": "Elchai offers comprehensive, advanced digital solutions that position your business at the forefront of innovation in AI-driven, Metaverse, Blockchain, Web3, and beyond.",
+      "cta": "Explore our extensive services below:"
+    },
+    "cta": {
+      "title": "Ready <span>to begin?</span>",
+      "subtitle": "Contact our team today, and let’s bring your vision to life.",
+      "button": "Contact Our Experts"
+    },
+    "all": "All Services",
+    "metaverse": {
+      "title": "Metaverse Integration Solutions",
+      "slug": "metaverse-integration-solutions",
+      "description": {
+        "p": "Seamlessly integrate your brand into immersive metaverse environments, creating interactive and engaging experiences accessible across all platforms",
+        "items": [
+          "Virtual Events & Experiences",
+          "Cross-Platform Metaverse Integration",
+          "Custom Interactive Solutions"
+        ]
+      },
+      "hero": {
+        "strong": "Bring Your Brand into",
+        "s1": "The",
+        "s2": "Metaverse",
+        "s3": "World"
+      },
+      "intro": "Elchai expertly integrates your business into immersive metaverse platforms, connecting you with global audiences in powerful, innovative ways. From virtual conferences to digital showrooms, we ensure your transition to the metaverse is seamless and impactful.",
+      "content": {
+        "title": "Metaverse Integration <span>Solutions</span>",
+        "subtitle": "Custom Metaverse Environments",
+        "description": "   Our expert developers craft personalized, interactive metaverse spaces uniquely tailored to represent your brand. Enhance user engagement with environments that encourage exploration, interaction, and meaningful connections. Whether for events, meetings, or retail, we bring your ideas vividly to life.",
+        "footer": {
+          "t1": "Cross-Platform Compatibility",
+          "t2": "Metaverse Event Solutions",
+          "d1": " We ensure your virtual worlds are easily accessible and provide a consistent experience across various devices, including desktops, mobile phones, and VR headsets. Users can effortlessly engage with your content, ensuring maximum reach and engagement.",
+          "d2": "Host captivating virtual events, product launches, or networking opportunities that offer immersive experiences to attendees around the globe. We design spaces to facilitate real-time interaction, digital networking, and seamless communication among users."
+        }
+      },
+      "cta": "Book a Meeting to Start your Metaverse Journey now"
+    },
+    "realEstateMetaverse": {
+      "title": "Real Estate Metaverse Development",
+      "slug": "real-estate-metaverse-development",
+      "description": {
+        "p": "Transform traditional real estate with immersive virtual experiences, interactive property showcases, and blockchain-based property investments.",
+        "items": [
+          "Virtual Property Showcases",
+          "Tokenized Real Estate Investments",
+          "Virtual City Replicas (e.g., Dubai)"
+        ]
+      },
+      "hero": {
+        "strong": "Virtual Real",
+        "s1": "Estate",
+        "s2": "Solutions",
+        "s3": "Redefined"
+      },
+      "intro": "Elchai transforms traditional real estate by creating immersive virtual property experiences. From lifelike virtual tours to blockchain-based tokenized investments, our metaverse solutions set a new standard for property marketing and transactions.",
+      "content": {
+        "title": "Real Estate Metaverse <span>Development</span>",
+        "subtitle": "Virtual Property Tours",
+        "description": "We create immersive 3D property tours allowing potential buyers to explore real estate projects from anywhere worldwide. Showcase detailed interiors, amenities, and interactive walkthroughs, significantly enhancing customer engagement and accelerating sales processes.",
+        "footer": {
+          "t1": "Tokenized Real Estate Investment",
+          "t2": "Detailed City Replicas",
+          "d1": "Our blockchain experts develop secure platforms for fractional real estate ownership through tokenization, enabling broader market accessibility. Investors can seamlessly buy, sell, and manage property tokens, increasing liquidity, reducing transaction friction, and promoting transparency.",
+          "d2": "Elchai specializes in meticulously crafted virtual replicas of iconic locations, such as Dubai's Palm Jumeirah and Bluewaters Island. These cityscapes offer unique opportunities for real estate developers, investors, and tourism sectors, redefining virtual exploration and engagement."
+        }
+      },
+      "cta": "Book a Meeting to Explore Real Estate Metaverse Solutions"
+    },
+    "metaverseAvatar": {
+      "title": "Metaverse 3D Avatar & Space Development",
+      "slug": "metaverse-3d-avatar-and-space-development",
+      "description": {
+        "p": "Create customized digital identities (avatars) and tailored immersive 3D spaces to elevate brand engagement and interaction in virtual worlds.",
+        "items": [
+          "Custom 3D Avatars",
+          "Interactive Virtual Spaces",
+          "Branded Metaverse Environments"
+        ]
+      },
+      "hero": {
+        "strong": "Personalized Avatars",
+        "s1": "&",
+        "s2": "Immersive",
+        "s3": "Spaces"
+      },
+      "intro": "At Elchai, we empower your digital presence with custom-built avatars and tailored virtual environments. Enhance user interactions, brand presence, and immersive experiences through expertly designed avatars and engaging 3D spaces.",
+      "content": {
+        "title": "Metaverse 3D Avatar & <span>Space Development</span>",
+        "subtitle": "Custom 3D Avatar Creation",
+        "description": "We design unique, detailed avatars reflecting brand identity or personal style. Each avatar is meticulously crafted to enhance interaction, social engagement, and personalization in digital experiences, providing a deeper connection with your audience.",
+        "footer": {
+          "t1": "Interactive Virtual Spaces",
+          "t2": "Avatar-Driven Engagement",
+          "d1": "Create stunning virtual environments tailored to your brand vision, capable of hosting events, digital storefronts, or collaborative spaces. Each space we design ensures optimal interactivity, intuitive navigation, and immersive experiences for your users.",
+          "d2": "We integrate interactive avatars within immersive spaces, enabling meaningful user engagement, live interactions, and enhanced communication. This fosters active participation and long-term audience loyalty within your virtual community."
+        }
+      },
+      "cta": "Book a Meeting for Avatar & 3D Space Development"
+    },
+    "blockchain": {
+      "title": "Blockchain Development",
+      "slug": "blockchain-development",
+      "description": {
+        "p": "Harness robust blockchain solutions tailored specifically for your business to enhance transparency, security, and operational efficiency.",
+        "items": [
+          "Custom Blockchain Platforms",
+          "Smart Contract Development",
+          "Enterprise Blockchain Solutions",
+          "Supply Chain Blockchain Solutions"
+        ]
+      },
+      "hero": {
+        "strong": "Advanced Blockchain Solutions",
+        "s1": "Tailored",
+        "s2": "for Your",
+        "s3": "Business"
+      },
+      "intro": "Elchai develops robust blockchain solutions designed to enhance your business transparency, security, and operational efficiency. From custom blockchain networks to smart contracts, we empower your operations through decentralized technology.",
+      "content": {
+        "title": "Blockchain <span>Development</span>",
+        "subtitle": "Custom Blockchain Platforms",
+        "description": "We build scalable, secure, and tailored blockchain platforms, specifically aligned with your business objectives. Our solutions streamline your workflows, enhance security, and facilitate transparency throughout your operations.",
+        "footer": {
+          "t1": "Smart Contract Development",
+          "t2": "Enterprise & Supply Chain Solutions",
+          "d1": "Automate processes securely and efficiently with our custom smart contract development services. We create robust smart contracts that reduce operational risks, eliminate intermediaries, and enhance compliance across your business processes.",
+          "d2": "Implement blockchain solutions to optimize supply chain operations, ensure data integrity, and facilitate seamless transactions. Our enterprise-grade blockchain solutions offer unmatched transparency and traceability in complex business ecosystems."
+        }
+      },
+      "cta": "Book a Meeting for Custom Blockchain Solutions"
+    },
+    "coin": {
+      "title": "Coin Development",
+      "slug": "coin-development",
+      "description": {
+        "p": "Secure, compliant, and innovative crypto coin development solutions designed to suit your specific business needs and goals.",
+        "items": [
+          "ICO/IDO Development",
+          "Asset Tokenization",
+          "Stablecoin & Security Token Development",
+          "Crypto Asset Management"
+        ]
+      },
+      "hero": {
+        "strong": "Custom Cryptocurrency Solutions",
+        "s1": "Built",
+        "s2": "for Your",
+        "s3": "Business"
+      },
+      "intro": "Elchai offers comprehensive coin and token development solutions designed for secure, compliant, and efficient cryptocurrency management. From ICO launches to asset tokenization, we enable your business to seamlessly integrate digital currencies.",
+      "content": {
+        "title": "Coin <span>Development</span>",
+        "subtitle": "ICO & IDO Launch Solutions",
+        "description": "We assist businesses in planning, developing, and launching secure ICO and IDO campaigns. Our experts ensure regulatory compliance, robust security, and effective marketing strategies, helping you attract investors and raise capital effectively.",
+        "footer": {
+          "t1": "Asset Tokenization",
+          "t2": "Stablecoin & Security Token Development",
+          "d1": "Convert traditional assets like real estate, art, or commodities into blockchain-based digital tokens. Tokenization enhances liquidity, facilitates fractional ownership, and provides transparent and secure management of valuable assets.",
+          "d2": "We develop secure, stable cryptocurrencies pegged to fiat currencies or commodities, ideal for reducing volatility. Additionally, our security tokens meet regulatory requirements, providing secure, compliant, and transparent investment instruments."
+        }
+      },
+      "cta": "Book a Meeting to Develop Your Coin or Token"
+    },
+    "cryptoWallet": {
+      "title": "Crypto Wallet Development",
+      "slug": "crypto-wallet-development",
+      "description": {
+        "p": "Provide secure storage and seamless management of digital assets through custom-built crypto wallets for businesses and end-users.",
+        "items": [
+          "Hot & Cold Wallet Solutions",
+          "Centralized & Decentralized Wallets",
+          "Multicurrency Wallet Development"
+        ]
+      },
+      "hero": {
+        "strong": "Secure Your Digital Assets",
+        "s1": "with",
+        "s2": "Advanced",
+        "s3": "Wallets"
+      },
+      "intro": "Elchai designs and develops advanced cryptocurrency wallets that offer unmatched security and seamless asset management. Our wallet solutions include hot, cold, centralized, decentralized, and multicurrency wallets tailored to user needs.",
+      "content": {
+        "title": "Crypto Wallet <span>Development</span>",
+        "subtitle": "Secure Wallet Solutions",
+        "description": "We build industry-leading crypto wallets with multi-layered encryption, secure key management, and regular security audits. Protect your assets against hacks and theft while ensuring easy access and usability.",
+        "footer": {
+          "t1": "Centralized & Decentralized Wallets",
+          "t2": "Multicurrency Integration",
+          "d1": "Choose between centralized wallets with robust custodial services or decentralized wallets that put full control directly in users' hands. Our decentralized solutions prioritize user autonomy, privacy, and security.",
+          "d2": "Our wallets support a wide range of cryptocurrencies, ensuring effortless management and seamless transactions across multiple blockchain networks from one secure platform."
+        }
+      },
+      "cta": "Book a Meeting for Custom Crypto Wallet Development"
+    },
+    "aiDevelopment": {
+      "title": "AI Development Services",
+      "slug": "ai-development-services",
+      "description": {
+        "p": "Incorporate powerful AI-driven solutions for smarter decision-making, streamlined operations, and intelligent automation.",
+        "items": [
+          "Machine Learning & Predictive Analytics",
+          "Generative AI Development",
+          "Robotic Process Automation (RPA)",
+          "Custom AI Solutions & Integrations"
+        ]
+      },
+      "hero": {
+        "strong": "Empowering Businesses through",
+        "s1": "Intelligent",
+        "s2": "AI",
+        "s3": "Solutions"
+      },
+      "intro": "Elchai harnesses artificial intelligence to optimize your operations, enhance decision-making, and drive innovation. Our customized AI solutions enable intelligent automation, predictive insights, and data-driven growth.",
+      "content": {
+        "title": "AI Development <span>Services</span>",
+        "subtitle": "Machine Learning & Predictive Analytics",
+        "description": "Our machine learning solutions analyze vast datasets to deliver actionable insights, helping you forecast trends, improve efficiency, and make strategic business decisions with confidence.",
+        "footer": {
+          "t1": "Generative AI & Automation",
+          "t2": "Custom AI Integrations",
+          "d1": "Automate your business processes with generative AI, streamlining content creation, customer interactions, and routine tasks. Our automation solutions increase productivity and operational efficiency across your organization.",
+          "d2": "We integrate advanced AI technologies seamlessly within your existing infrastructure, enhancing your workflows, data management, and business intelligence to give your organization a competitive edge."
+        }
+      },
+      "cta": "Book a Meeting for AI-Driven Business Solutions"
+    },
+    "decentralizedIdentifiers": {
+      "title": "Decentralized Identifiers (DIDs)",
+      "slug": "decentralized-identifiers-dids",
+      "description": {
+        "p": "Empower secure and decentralized identity management, giving users control of their digital identities without compromising security.",
+        "items": [
+          "Decentralized Identity Management",
+          "Blockchain-Based DIDs",
+          "Identity Verification & Authentication"
+        ]
+      },
+      "hero": {
+        "strong": "Secure Digital Identities",
+        "s1": "with",
+        "s2": "Decentralized",
+        "s3": "Solutions"
+      },
+      "intro": "Elchai enables secure, user-controlled digital identities through Decentralized Identifiers (DIDs), empowering individuals with privacy and seamless identity management using blockchain technology.",
+      "content": {
+        "title": "Decentralized Identifiers <span>(DIDs)</span>",
+        "subtitle": "Decentralized Identity Management",
+        "description": "Our decentralized solutions give users complete ownership and control of their digital identities, enhancing privacy, security, and trust across digital platforms and transactions.",
+        "footer": {
+          "t1": "Blockchain-Based Authentication",
+          "t2": "User Privacy & Compliance",
+          "d1": "Implement blockchain-powered authentication systems that verify identities securely and transparently, reducing fraud and enhancing trust for businesses and consumers.",
+          "d2": "We provide DID solutions ensuring compliance with global privacy regulations (e.g., GDPR), allowing businesses to securely manage identity verification processes without compromising user privacy."
+        }
+      },
+      "cta": "Book a Meeting for Decentralized Identity Solutions"
+    },
+    "cbdc": {
+      "title": "Central Bank Digital Currencies (CBDCs)",
+      "slug": "central-bank-digital-currencies-cbdcs",
+      "description": {
+        "p": "Support central banks and financial institutions with secure and efficient digital currency solutions using advanced blockchain technology.",
+        "items": [
+          "CBDC Infrastructure Development",
+          "Digital Currency Management Platforms",
+          "Secure & Compliant CBDC Solutions"
+        ]
+      },
+      "hero": {
+        "strong": "Innovative &",
+        "s1": "Compliant",
+        "s2": "CBDC",
+        "s3": "Solutions"
+      },
+      "intro": "Elchai supports financial institutions with secure, efficient, and compliant Central Bank Digital Currency solutions. From issuance to management, our platforms ensure seamless integration and robust security.",
+      "content": {
+        "title": "Central Bank Digital Currencies <span>(CBDCs)</span>",
+        "subtitle": "CBDC Infrastructure Development",
+        "description": "We develop advanced blockchain-based CBDC platforms ensuring secure currency issuance, transparent transactions, and efficient management aligned with regulatory standards.",
+        "footer": {
+          "t1": "Secure Transaction Platforms",
+          "t2": "Regulatory Compliance & Management",
+          "d1": "Provide secure and transparent platforms that facilitate seamless CBDC transactions, supporting financial stability, improved traceability, and enhanced public trust.",
+          "d2": "Our solutions ensure full compliance with relevant financial regulations, enabling central banks to confidently manage digital currencies within existing monetary frameworks."
+        }
+      },
+      "cta": "Book a Meeting for CBDC Development"
+    },
+    "defiCefi": {
+      "title": "DeFi/CeFi/CeDeFi Solutions",
+      "slug": "deficeficedefi-solutions",
+      "description": {
+        "p": "Offer groundbreaking decentralized and hybrid finance solutions that bridge traditional and digital finance effectively and securely.",
+        "items": [
+          "Decentralized Finance (DeFi) Platforms",
+          "Centralized Finance (CeFi) Integration",
+          "Hybrid CeDeFi Solutions",
+          "Crypto Lending & P2P Solutions"
+        ]
+      },
+      "hero": {
+        "strong": "Bridging Traditional",
+        "s1": "&",
+        "s2": "Decentralized",
+        "s3": "Finance"
+      },
+      "intro": "Elchai provides comprehensive decentralized finance (DeFi), centralized finance (CeFi), and hybrid (CeDeFi) solutions, enabling businesses to benefit from blockchain's advantages while maintaining ease of use and regulatory compliance.",
+      "content": {
+        "title": "DeFi/CeFi/CeDeFi <span>Solutions</span>",
+        "subtitle": "Decentralized Finance (DeFi)",
+        "description": "We build transparent, secure decentralized platforms for peer-to-peer lending, yield farming, decentralized exchanges (DEX), and automated market makers (AMM), revolutionizing traditional financial operations.",
+        "footer": {
+          "t1": "Centralized Finance (CeFi) Integration",
+          "t2": "Hybrid CeDeFi Solutions",
+          "d1": "Seamlessly integrate blockchain technology into traditional centralized finance systems, enhancing operational efficiency, security, and accessibility for users accustomed to conventional financial products.",
+          "d2": "Our innovative hybrid CeDeFi platforms blend decentralized transparency and efficiency with centralized usability, compliance, and familiarity, creating a balanced, user-friendly financial ecosystem."
+        }
+      },
+      "cta": "Book a Meeting for Your Finance Solutions"
+    }
+  },
+  "CONTACT": {
+    "hero": {
+      "titleBold": "Get In Touch",
+      "titleRest": "Elchai"
+    },
+    "intro": {
+      "quote": "Alone we can do so little; together we can do so much",
+      "message": "At elchai, we believe in the power of collaboration. Whether you're looking to innovate within the metaverse, explore blockchain possibilities, or simply want to discuss your digital transformation ideas, our team is ready to connect, listen, and help you succeed."
+    },
+    "collaboration": {
+      "heading": "Let's",
+      "headingSpan": "Collaborate",
+      "text": "We invite visionaries, innovators, and businesses to partner with us to shape the future of digital innovation. From Metaverse experiences to blockchain solutions, let's explore your project's potential together.",
+      "support": "Support",
+      "call": "Call Us",
+      "email": "Email Us",
+      "website": "Website",
+      "stayConnected": "Stay connected with us for the latest news, updates, and insights"
+    },
+    "form": {
+      "heading": "Please fill out the form below, and our team will reach out to you",
+      "name": "Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company",
+      "message": "Project Description / Message",
+      "submit": "Submit Here"
+    },
+    "cta": {
+      "title": "Ready To Discuss",
+      "titleSpan": "Your Project",
+      "text": "Reach out today, and together we'll unlock the full potential of your digital vision",
+      "button": "Book Your Meeting Now"
+    }
+  },
+  "CASESTUDIES": {
+    "title": "",
+    "description": "Explore how Elchai’s innovative blockchain, Metaverse, and advanced technology solutions have empowered businesses globally. Each case study demonstrates our ability to drive tangible results, optimize business processes, and create outstanding digital experiences.",
+    "hero": {
+      "t1": "Success Stories",
+      "t2": "Powered By",
+      "t3": "Innovation"
+    },
+    "details": {
+      "hero": {
+        "t1": "Case",
+        "t2": "Studies"
+      },
+      "stack": "Technology Stack",
+      "card": {
+        "title": "Stay Ahead in the <span>Digital World</span>",
+        "description": "Subscribe to Elchai Guides for ongoing insights, expert tips, and latest trends directly to your inbox.",
+        "cta": "Subscribe Now"
+      }
+    },
+    "tarality": {
+      "title": "Tarality",
+      "subtitle": "Comprehensive Crypto Ecosystem & Exchange Platform",
+      "description": "Tarality provides a robust blockchain ecosystem including cryptocurrency exchange, trading, investment solutions, and crypto banking services. Learn how Elchai developed a secure, compliant, and versatile crypto infrastructure, strengthening Tarality’s position in the global blockchain marketplace.",
+      "content": {
+        "heading": "Comprehensive Crypto Ecosystem & Exchange Platform",
+        "overview": "Tarality sought to provide a comprehensive crypto ecosystem with trading, investment, and crypto banking features, powered by its native cryptocurrency, Taral.",
+        "challenges": "Elchai designed secure, scalable blockchain infrastructure enabling seamless trading, secure asset management, and compliant crypto banking integrations.",
+        "results": "Successful launch of Tarality’s crypto ecosystem resulted in increased market adoption, streamlined user experience, and reinforced brand trust among global investors."
+      },
+      "action": "View Case Study",
+      "actioninner": "Book a Meeting to Develop Your Crypto Project"
+    },
+    "blyncc": {
+      "title": "Blyncc",
+      "subtitle": "Advanced Blockchain-Based B2B Payment Solution",
+      "description": "Blyncc revolutionized cross-border payments by implementing Elchai’s secure blockchain technology, resulting in instant, transparent, and cost-effective B2B transactions. Explore how we enhanced global financial interactions through decentralized innovation.",
+      "content": {
+        "heading": "Blockchain-Powered Cross-Border B2B Payments",
+        "overview": "Blyncc aimed to transform traditional B2B cross-border payments, making them faster, transparent, and secure through blockchain technology.",
+        "challenges": "Elchai developed a decentralized payment platform with integrated blockchain security, reducing transaction fees and delays significantly.",
+        "results": "Enhanced payment transparency, increased transaction speed, and considerable cost savings have made Blyncc a preferred choice for global B2B businesses."
+      },
+      "action": "View Case Study",
+      "actioninner": "Book a Meeting to Transform Your Payment Solutions"
+    },
+    "bbEstate": {
+      "title": "BB-Estate",
+      "subtitle": "Transforming Real Estate through Tokenization",
+      "description": "BB-Estate partnered with Elchai to tokenize real estate assets, enabling fractional ownership, liquidity, and transparency in property investments. Discover how we made real estate more accessible and attractive to global investors.",
+      "content": {
+        "heading": "Digitizing Real Estate Investment through Tokenization",
+        "overview": "BB-Estate sought innovative solutions to enhance liquidity, accessibility, and transparency in real estate investments.",
+        "challenges": "Elchai developed blockchain-based real estate tokenization, allowing fractional investments and secure management of digital property tokens.",
+        "results": "Increased liquidity, global investor accessibility, and secure, transparent asset management significantly improved BB-Estate’s real estate investment portfolio."
+      },
+      "action": "View Case Study",
+      "actioninner": "Book a Meeting for Real Estate Tokenization"
+    },
+    "cryptoEtrade": {
+      "title": "Crypto eTrade",
+      "subtitle": "Blockchain-Powered Digital Transformation for SMEs",
+      "description": "Crypto eTrade enables small and medium-sized enterprises (SMEs) to embrace digital transformation via blockchain. Elchai developed solutions facilitating asset tokenization, enhancing operational transparency, and creating growth opportunities for SMEs worldwide.",
+      "content": {
+        "heading": "Empowering SMEs with Blockchain Innovation",
+        "overview": "Crypto eTrade aimed to assist SMEs in their digital transformation, using blockchain technology to tokenize assets and increase transparency.",
+        "challenges": "Elchai delivered blockchain solutions that enabled seamless asset tokenization and secure, transparent tracking for SMEs globally.",
+        "results": "Enhanced transparency, operational efficiency, and digital readiness empowered numerous SMEs to thrive in the digital economy."
+      },
+      "action": "View Case Study",
+      "actioninner": "Book a Meeting to Digitize Your Business"
+    },
+    "fintex": {
+      "title": "Fintex",
+      "subtitle": "Secure Multi-chain Crypto Wallet Development",
+      "description": "Fintex is a secure, multi-chain crypto wallet that allows users to store, manage, and transact across various cryptocurrencies seamlessly. Elchai’s expert wallet development ensured security, ease of use, and robust performance, enhancing Fintex’s market competitiveness.",
+      "content": {
+        "heading": "Securing Digital Assets with Multi-chain Wallets",
+        "overview": "Fintex required secure, easy-to-use wallets supporting multiple blockchains for effective cryptocurrency management.",
+        "challenges": "Elchai developed advanced wallet solutions incorporating robust security measures, seamless multi-chain integration, and intuitive UI/UX designs.",
+        "results": "Significant growth in user adoption, increased user trust, and improved user experience elevated Fintex’s position in the crypto wallet market."
+      },
+      "action": "View Case Study",
+      "actioninner": "Book a Meeting for Crypto Wallet Development"
+    },
+    "flexcube": {
+      "title": "Flexcube",
+      "subtitle": "Immersive AR Experiences for Sports Engagement",
+      "description": "Flexcube leveraged Elchai’s expertise in augmented reality (AR) to create engaging, immersive sports experiences. Discover how our AR solutions boosted fan engagement, loyalty, and interaction across sports communities.",
+      "content": {
+        "heading": "AR Innovation Enhancing Sports Fan Experiences",
+        "overview": "Flexcube aimed to build immersive fan experiences through innovative AR-based interactions.",
+        "challenges": "Elchai delivered a customizable AR platform, creating real-time fan engagement, interactive content, and immersive sports experiences.",
+        "results": "Increased fan engagement, loyalty, and brand visibility positioned Flexcube as a leading innovator in AR-driven sports entertainment."
+      },
+      "action": "View Case Study",
+      "actioninner": "Book a Meeting for AR Development Solutions"
+    }
+  },
+  "MENU": {
+    "home": "Home",
+    "contact": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "resources": {
+      "faq": "FAQ",
+      "communityRules": "Community Rules",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfUse": "Terms of Use",
+      "supportCenter": "Support Center"
+    },
+    "about": {
+      "aboutUs": "About Us",
+      "ourTeam": "Our Team",
+      "elchaiGuides": "Elchai Guides",
+      "caseStudies": "Case Studies",
+      "techStack": "Tech Stack"
+    },
+    "footer": {
+      "about": "About",
+      "services": "Services",
+      "resources": "Resources",
+      "contact": "Contact Us",
+      "copyright": "All rights reserved"
+    }
+  },
+  "TECHSTACK": {
+    "title": "Leveraging Cutting-Edge Technologies",
+    "h2": "to Build Tomorrow",
+    "description": "At Elchai, continuous innovation drives our success. We leverage a diverse array of modern programming languages, blockchain platforms, development frameworks, and cloud technologies to deliver unparalleled digital solutions, ensuring our clients always remain ahead in a fast-evolving technological landscape.",
+    "items": {
+      "blockchain": {
+        "title": "Blockchain Platforms",
+        "description": "We build robust, secure, and scalable blockchain solutions using industry-leading blockchain platforms that ensure security, decentralization, and optimal performance:"
+      },
+      "languages": {
+        "title": "Programming Languages & Frameworks",
+        "description": "Our team of skilled developers employs powerful and versatile programming languages and frameworks to create responsive, efficient, and scalable applications:"
+      },
+      "metaverse": {
+        "title": "Metaverse, AR, VR, MR & 3D Development Tools",
+        "description": "We use the latest tools and software to craft immersive, interactive, and high-quality metaverse and 3D experiences, pushing the boundaries of digital interaction:"
+      },
+      "ai": {
+        "title": "Artificial Intelligence & Machine Learning",
+        "description": "Our AI experts harness industry-leading frameworks and platforms, ensuring intelligent automation, predictive analytics, and next-gen AI solutions:"
+      },
+      "iot": {
+        "title": "IoT Technologies & Platforms",
+        "description": "Elchai integrates advanced IoT solutions to seamlessly connect devices, improve data collection, and drive smart, connected ecosystems:"
+      },
+      "cloud": {
+        "title": "Cloud & DevOps Technologies",
+        "description": "Our cloud engineers and DevOps experts ensure scalable, secure, and high-performance solutions, employing leading cloud and DevOps tools:"
+      },
+      "security": {
+        "title": "Security & Compliance",
+        "description": "Security remains our priority across every solution we develop. We utilize advanced security frameworks and compliance practices:"
+      }
+    },
+    "footer": {
+      "title": "Continuous Learning <span>& Innovation</span>",
+      "description": "At Elchai, we prioritize continuous learning and skill enhancement. Our team actively participates in training, workshops, and certifications, ensuring we always leverage the most innovative technologies and stay ahead in rapidly changing industries.",
+      "footerCard": {
+        "title": "Ready to Leverage <span>Our Expertise?</span>",
+        "description": "Explore how our advanced technology stack can empower your next digital project. Schedule a consultation with Elchai’s experts today.",
+        "link": "Book Your Meeting Now"
+      }
+    }
+  },
+  "PRIVACYPOLICY": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: [Insert Date]",
+    "intro": "Elchai (\"we,\" \"us,\" or \"our\") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website or use our services.",
+    "sections": {
+      "infoCollected": {
+        "title": "1. Information Collected",
+        "description": "We may collect the following types of information:",
+        "personal": {
+          "title": "Personal Information:",
+          "items": [
+            "Name",
+            "Email address",
+            "Contact number",
+            "Company details (if provided)"
+          ]
+        },
+        "usage": {
+          "title": "Usage Information:",
+          "items": [
+            "Browser type and version",
+            "Device type",
+            "IP address",
+            "Pages visited on our website",
+            "Date and time of visits"
+          ]
+        },
+        "voluntary": {
+          "title": "Information Provided Voluntarily:",
+          "items": [
+            "Data submitted through contact forms or subscriptions.",
+            "Information provided during inquiries, support requests, or feedback."
+          ]
+        }
+      },
+      "usage": {
+        "title": "2. How Data is Used",
+        "description": "We use the information collected to:",
+        "items": [
+          "Provide and enhance our services.",
+          "Respond to your inquiries and customer service requests.",
+          "Communicate updates, news, promotional materials, or other information you’ve opted into.",
+          "Analyze website usage to improve user experience.",
+          "Ensure compliance with applicable laws and regulations."
+        ]
+      },
+      "cookies": {
+        "title": "3. Cookies & Tracking",
+        "description": "Our website uses cookies and similar tracking technologies to enhance your browsing experience, analyze website traffic, and understand user interactions.",
+        "typesTitle": "Types of cookies we use:",
+        "items": [
+          "Necessary Cookies: Essential for website functionality.",
+          "Analytics Cookies: Help us understand user interactions to improve our website.",
+          "Preference Cookies: Remember your settings and preferences."
+        ],
+        "note": "You can control cookie settings through your browser preferences. Disabling cookies may impact your user experience."
+      },
+      "rights": {
+        "title": "4. User Rights",
+        "description": "You have the following rights regarding your data:",
+        "items": [
+          "Access: Request access to your personal data.",
+          "Rectification: Request correction of inaccurate or incomplete data.",
+          "Deletion: Request deletion of your personal data.",
+          "Objection: Object to processing or use of your data.",
+          "Withdrawal: Withdraw your consent to data processing at any time."
+        ],
+        "note": "To exercise any of these rights, please contact us at [privacy@elchaigroup.com]."
+      },
+      "retention": {
+        "title": "5. Data Retention",
+        "description": "We retain your personal information only as long as necessary to provide our services or fulfill purposes outlined in this policy. Additionally, we may retain and use your information to comply with legal obligations, resolve disputes, or enforce agreements."
+      },
+      "security": {
+        "title": "6. Security of Your Data",
+        "description": "We implement robust security measures designed to protect your personal information from unauthorized access, disclosure, alteration, or destruction. We regularly update our security protocols to ensure compliance with industry standards."
+      },
+      "thirdParty": {
+        "title": "7. Third-Party Links",
+        "description": "Our website may include links to external sites not operated by us. We are not responsible for third-party privacy practices. We recommend reviewing the privacy policies of any external websites you visit."
+      },
+      "changes": {
+        "title": "8. Changes to This Privacy Policy",
+        "description": "We reserve the right to update or modify this Privacy Policy at any time. We will notify you about significant changes through email or by prominently posting a notice on our website. We encourage regular review of this policy for the latest information on our privacy practices."
+      },
+      "contact": {
+        "title": "9. Contact for Privacy Questions",
+        "description": "If you have any questions, concerns, or requests regarding our Privacy Policy or the handling of your data, please contact us at:",
+        "email": "info@elchaigroup.com",
+        "address": "[Insert Elchai’s Official Business Address]"
+      }
+    }
+  },
+  "COMMUNITYRULES": {
+    "title": "Elchai Community Rules & Guidelines",
+    "intro": "Welcome to Elchai's vibrant community! We encourage collaboration, creativity, and respectful interactions among our community members. Please familiarize yourself with our community guidelines below.",
+    "sections": {
+      "positive": {
+        "title": "Positive Engagement & Respect",
+        "description": "We value an inclusive, welcoming environment for everyone. When engaging within our community:",
+        "list": [
+          "Treat others with kindness, respect, and courtesy.",
+          "Foster constructive conversations and feedback.",
+          "Welcome and support new members.",
+          "Encourage diversity, tolerance, and inclusion.",
+          "Respect intellectual property and copyrights."
+        ]
+      },
+      "prohibited": {
+        "title": "Prohibited Behavior",
+        "description": "To maintain a safe and healthy community, the following behaviors are strictly prohibited:",
+        "list": [
+          "Harassment, bullying, threats, or abusive language.",
+          "Discrimination based on race, ethnicity, gender identity, sexual orientation, religion, disability, age, or nationality.",
+          "Spamming or flooding channels with irrelevant content or advertisements.",
+          "Sharing inappropriate or offensive materials (e.g., explicit content, violence, hate speech).",
+          "Attempting to disrupt, hack, or exploit community platforms.",
+          "Misrepresentation, impersonation, or deceptive practices."
+        ],
+        "note": "Violation of these guidelines may result in warnings, suspension, or permanent removal from the community."
+      },
+      "moderation": {
+        "title": "Moderation Policies",
+        "description": "Our community moderators work diligently to ensure a respectful environment:",
+        "list": [
+          "Moderators may edit, remove, or lock posts or discussions that violate guidelines.",
+          "Moderators may issue warnings for minor violations and escalate to suspensions or bans for repeated or severe offenses.",
+          "Decisions made by moderators are final; however, you can respectfully appeal or inquire about moderation decisions by contacting us directly."
+        ]
+      },
+      "reporting": {
+        "title": "How to Report Issues",
+        "description": "If you witness inappropriate behavior, violations, or have safety concerns:",
+        "list": [
+          "Immediately report the issue to our moderation team or community managers.",
+          "Provide clear details and screenshots (if possible) of the incident.",
+          "Report through direct messaging moderators or via email at"
+        ],
+        "note": "We take all reports seriously and will promptly investigate and take appropriate actions."
+      }
+    }
+  },
+  "GUIDES": {
+    "title": "<strong>Explore, Learn & Master</strong> the Future of Digital Innovation",
+    "description": "Elchai is a team of dedicated developers specializing in al, metaverse, blockchain, and web3 technologies-passionate about crafting extraordinary, intelligent digital solutions that redefine what's possible",
+    "footerCard": {
+      "title": "Stay Ahead in the <span>Digital World</span>",
+      "description": "Subscribe to Elchai Guides for ongoing insights, expert tips, and latest trends directly to your inbox.",
+      "link": "Subscribe Now"
+    },
+    "items": {
+      "beginners-guide-to-the-metaverse": {
+        "title": "Beginners' Guide to the Metaverse",
+        "description": "Understand the basics of the metaverse, its potential, and how to enter and thrive in this evolving digital universe.",
+        "image": "/images/beginners-guide-to-the-metaverse.webp",
+        "content": {
+          "intro": "The term Metaverse is increasingly popular, but what exactly does it mean? Simply put, the metaverse is a collective virtual shared space, a convergence of virtually enhanced physical reality and persistent virtual environments. Think of it as the next evolution of the internet, where users interact in immersive 3D digital worlds using customized avatars.",
+          "whyCare.heading": "Why Should You Care about the Metaverse?",
+          "whyCare.text": "The metaverse offers endless possibilities—virtual meetings, digital events, gaming, real estate, business applications, education, and much more. It represents an exciting frontier for creators, investors, and businesses alike.",
+          "gettingStarted.heading": "Getting Started in the Metaverse:",
+          "gettingStarted.platform": "<strong>Choose Your Platform:</strong> Popular options include Decentraland, Sandbox, Meta Horizon Worlds, and others.",
+          "gettingStarted.avatar": "<strong>Create Your Avatar:</strong> Customize your digital identity and express yourself uniquely.",
+          "gettingStarted.explore": "<strong>Explore & Engage:</strong> Attend virtual events, explore digital lands, connect socially, and even buy virtual real estate.",
+          "business.heading": "Business Opportunities in the Metaverse:",
+          "business.text": "Companies around the world are already leveraging the metaverse to create immersive brand experiences, virtual storefronts, and digital products.",
+          "invest.heading": "Investing in the Metaverse:",
+          "invest.realEstate": "<strong>Virtual Real Estate:</strong> Digital land parcels and virtual properties offer lucrative investment opportunities.",
+          "invest.avatar": "<strong>Create Your Avatar:</strong> Customize your digital identity and express yourself uniquely.",
+          "invest.nfts": "<strong>NFTs (Non-Fungible Tokens):</strong> Buy, sell, and create unique digital assets within the metaverse.",
+          "conclusion.heading": "Conclusion:",
+          "conclusion.text": "The metaverse is not just a concept—it’s a growing reality that will redefine how we live, work, and interact. Embrace it now and position yourself at the forefront of digital innovation."
+        }
+      },
+      "dubai-real-estate-tokenization-explained": {
+        "title": "Dubai Real Estate Tokenization Explained",
+        "description": "Dive into the world of real estate tokenization in Dubai—learn how blockchain is transforming property investment, ownership, and management.",
+        "image": "/images/dubai-real-estate-tokenization-explained.webp",
+        "content": {
+          "intro": "Real estate tokenization in Dubai involves converting property rights into digital tokens stored securely on blockchain technology. This innovation dramatically increases transparency, liquidity, and accessibility in the real estate market.",
+          "tokenization.heading": "What Exactly is Tokenization?",
+          "tokenization.text": "Tokenization divides property ownership into smaller, blockchain-backed digital shares or 'tokens,' allowing easier buying, selling, and trading, even with limited investment capital.",
+          "whyDubai.heading": "Why Dubai?",
+          "whyDubai.text": "Dubai has emerged as a global leader in blockchain adoption, creating regulatory frameworks that make property tokenization seamless and investor-friendly.",
+          "benefits.heading": "Benefits of Tokenizing Real Estate in Dubai:",
+          "benefits.accessibility": "<strong>Accessibility:</strong> Lower entry barriers, enabling global participation.",
+          "benefits.liquidity": "<strong>Liquidity:</strong> Easier and quicker buying, selling, or trading of property tokens.",
+          "benefits.transparency": "<strong>Transparency & Security:</strong> Blockchain ensures immutable records, secure transactions, and transparent ownership.",
+          "how.heading": "How Does It Work?",
+          "how.step1": "Property valuation & due diligence",
+          "how.step2": "Issuing digital tokens on blockchain platforms",
+          "how.step3": "Investing in tokenized real estate and earning returns",
+          "risks.heading": "Risks & Rewards:",
+          "risks.text": "While highly beneficial, investors should also consider market volatility, regulations, and legal compliance.",
+          "conclusion.heading": "Conclusion:",
+          "conclusion.text": "Dubai’s real estate market is transforming through tokenization, offering groundbreaking opportunities for investors worldwide. Tokenization is revolutionizing the property market—making Dubai the ultimate destination for digital real estate investment."
+        }
+      },
+      "setting-up-a-crypto-wallet": {
+        "title": "Setting Up a Crypto Wallet",
+        "description": "Step-by-step guidance on how to securely set up and manage your cryptocurrency wallet, protecting your digital assets.",
+        "image": "/images/setting-up-a-crypto-wallet.webp",
+        "content": {
+          "intro": "A crypto wallet allows you to securely store, manage, and transact cryptocurrencies like Bitcoin, Ethereum, and NFTs.",
+          "why.heading": "Why Do You Need a Crypto Wallet?",
+          "why.storage": "Secure storage of digital assets.",
+          "why.manage": "Send, receive, and manage crypto easily.",
+          "why.dapps": "Engage with decentralized applications (dApps).",
+          "setup.heading": "Step-by-Step Setup:",
+          "setup.step1.heading": "Choose a Wallet Type:",
+          "setup.step1.hot": "<strong>Hot Wallet (Software):</strong> Accessible online (e.g., MetaMask, Trust Wallet).",
+          "setup.step1.cold": "<strong>Cold Wallet (Hardware):</strong> Physical devices, more secure (e.g., Ledger, Trezor).",
+          "setup.step2.heading": "Download & Install:",
+          "setup.step2.text": "Go to the official website, download the app/software, and create a new wallet.",
+          "setup.step3.heading": "Backup & Secure Your Wallet:",
+          "setup.step3.seed": "Write down your recovery seed phrase. Never share it with anyone.",
+          "setup.step3.2fa": "Enable Two-Factor Authentication (2FA) if available.",
+          "setup.step4.heading": "Funding Your Wallet:",
+          "setup.step4.address": "Receive cryptocurrency by sharing your wallet address.",
+          "setup.step4.exchange": "Purchase cryptocurrencies through exchanges and transfer them to your wallet.",
+          "security.heading": "Security Best Practices:",
+          "security.update": "Regularly update your wallet software.",
+          "security.phishing": "Beware of phishing scams and suspicious links.",
+          "security.doublecheck": "Always double-check addresses before sending crypto.",
+          "conclusion.heading": "Conclusion:",
+          "conclusion.text": "Having a secure crypto wallet is essential for participating safely in blockchain ecosystems. By following these simple steps, you’ll safeguard your digital assets while smoothly navigating the crypto space."
+        }
+      },
+      "metaverse-integration-and-3d-space-development": {
+        "title": "Metaverse Integration & 3D Space Development",
+        "description": "Discover best practices for seamless metaverse integration, including the essentials of designing immersive, interactive 3D spaces.",
+        "image": "/images/metaverse-integration-and-3d-space-development.webp",
+        "content": {
+          "intro": "Building engaging virtual spaces within the metaverse can transform user experiences, elevate brand presence, and drive innovative business interactions.",
+          "definition.heading": "What is Metaverse Integration?",
+          "definition.text": "Integration involves embedding your business, product, or event seamlessly into virtual spaces accessible from anywhere. This process includes building interactive 3D environments and spaces that users can explore, interact with, and enjoy.",
+          "importance.heading": "The Importance of 3D Space Development:",
+          "importance.text": "Effective 3D space development enhances immersion and user engagement, boosting brand visibility and creating memorable experiences.",
+          "steps.heading": "Steps to Successful Metaverse Integration:",
+          "steps.step1.heading": "Define Your Objectives:",
+          "steps.step1.text": "Clearly outline your goals—brand awareness, community building, virtual events, etc.",
+          "steps.step2.heading": "Select Your Metaverse Platform:",
+          "steps.step2.text": "Evaluate popular platforms like Decentraland, The Sandbox, Spatial, or customized enterprise solutions.",
+          "steps.step3.heading": "Designing Your 3D Space:",
+          "steps.step3.text1": "Use professional software like Unity, Blender, or Unreal Engine for high-quality visuals.",
+          "steps.step3.text2": "Ensure your space aligns with brand identity and user engagement goals.",
+          "steps.step4.heading": "Interactive Elements & Customization:",
+          "steps.step4.text": "Create interactive features (avatars, digital assets, virtual events) for immersive experiences.",
+          "steps.step5.heading": "Launch & Promotion:",
+          "steps.step5.text": "Market your metaverse space through social media, targeted campaigns, and influencer partnerships.",
+          "useCases.heading": "Practical Use Cases:",
+          "useCases.events": "Virtual events and product launches",
+          "useCases.showrooms": "Digital showrooms and immersive brand experiences",
+          "useCases.realEstate": "Real estate virtual tours",
+          "useCases.education": "Education and training simulations",
+          "conclusion.heading": "Conclusion:",
+          "conclusion.text": "Metaverse integration and 3D space development provide extraordinary opportunities for business growth and innovation. Begin your digital transformation today and redefine your audience’s experience in immersive virtual environments."
+        }
+      }
+    }
+  },
+  "SUPPORT": {
+    "title": "Contact Support",
+    "description": "If you encounter technical issues, require assistance, or have questions about our services, please reach out directly",
+    "contact": {
+      "email": "Email Support",
+      "hotline": "Support Hotline: [+ (country code) (phone number)] (if applicable)"
+    },
+    "faq": {
+      "title": "Troubleshooting & FAQs",
+      "description": "Below are answers to frequently asked questions to help resolve common issues quickly:",
+      "accordion": {
+        "1": {
+          "question": "How do I access my Elchai Metaverse space?",
+          "answer": "Log into your universe eye account through our platform using your registered email and password. Navigate to your dashboard, and select your metaverse project."
+        },
+        "2": {
+          "question": "I’ve forgotten my password. How can I reset it?",
+          "answer": "Click on 'Forgot Password' at the login page. Enter your registered email address, and follow the reset link sent to your inbox."
+        },
+        "3": {
+          "question": "How can I report a technical issue or bug?",
+          "answer": "Submit a detailed support ticket describing the issue, including screenshots and steps to reproduce the problem."
+        },
+        "4": {
+          "question": "How do I set up my Crypto Wallet or connect it to Elchai's platform?",
+          "answer": "Follow our detailed guide here (link to crypto wallet documentation), or contact support for step-by-step assistance."
+        }
+      }
+    },
+    "docs": {
+      "title": "Documentation & Helpful Guides",
+      "description": "Explore comprehensive documentation and tutorials created by our experts:",
+      "items": [
+        "Beginners’ Guide to the Metaverse",
+        "Setting Up and Securing Your Crypto Wallet",
+        "Integrating Your Brand into the Metaverse",
+        "Understanding Real Estate Tokenization"
+      ],
+      "cta": "View All Documentation"
+    },
+    "response": {
+      "title": "Expected Response Time",
+      "description": "We aim to respond to all support inquiries swiftly:",
+      "items": [
+        "General Inquiries: Within 24 hours (business days)",
+        "Technical Support: Within 12 hours",
+        "Urgent Issues & Premium Clients: Within 4 hours"
+      ],
+      "note": "Our dedicated support team operates from Monday to Friday (9 AM to 6 PM local time)"
+    }
+  },
+  "TERMS": {
+    "title": "Terms of Use",
+    "description": "Welcome to Elchai Group. By accessing or using our website, metaverse platforms, applications, or other provided services (collectively, the “Services”), you agree to be bound by these Terms of Use Terms. Please read them carefully.",
+    "list": {
+      "1": {
+        "title": "User Obligations",
+        "h1": "By using Elchai’s Services, you agree:",
+        "items": {
+          "1": "To use the Services lawfully and responsibly.",
+          "2": "Not to misuse or interfere with the proper functioning of our platforms.",
+          "3": "To provide accurate and complete information upon registration or when requested.",
+          "4": "To maintain confidentiality and security of your account details.",
+          "5": "Not to engage in any harmful, abusive, or disruptive behavior within our platforms."
+        }
+      },
+      "2": {
+        "title": "Limitation of Liability",
+        "h1": "Elchai shall not be liable for:",
+        "items": {
+          "1": "Any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, our Services.",
+          "2": "Any unauthorized access, loss of data, or interruption of Services.",
+          "3": "Communicate updates, news, promotional materials, or other information you’ve opted into.",
+          "4": "Errors, inaccuracies, or omissions within our platforms or third-party integrations.",
+          "5": "Actions or content of other users or third parties.",
+          "6": "Elchai’s liability under these terms, where applicable, shall be limited to the fullest extent permitted by law."
+        }
+      },
+      "3": {
+        "title": "Intellectual Property",
+        "h1": "",
+        "items": {
+          "1": "All content, trademarks, logos, designs, graphics, software, and other intellectual property provided by Elchai remain the exclusive property of Elchai or respective rights holders.",
+          "2": "Users are granted a limited, revocable, non-exclusive license to access and use the Services strictly for personal or internal business purposes.",
+          "3": "You agree not to copy, reproduce, distribute, modify, or create derivative works without explicit written consent from Elchai."
+        }
+      },
+      "4": {
+        "title": "Governing Law",
+        "h1": "",
+        "items": {
+          "1": "These Terms of Use shall be governed by and interpreted according to the laws of [insert jurisdiction/country]",
+          "2": "You agree to the exclusive jurisdiction and venue of the courts located within [jurisdiction/country] for resolving any disputes arising from these Terms or your use of the Services."
+        }
+      },
+      "5": {
+        "title": "Termination of Use",
+        "h1": "",
+        "items": {
+          "1": "Elchai reserves the right to suspend or terminate your access to our Services at any time, without prior notice, if you violate these Terms.",
+          "2": "Upon termination, your right to access our platforms and related content will immediately cease.",
+          "3": "You may terminate your account or use of Services at any time by contacting support."
+        }
+      },
+      "6": {
+        "title": "Modifications to Terms",
+        "h1": "",
+        "items": {
+          "1": "Elchai reserves the right to update or modify these Terms at any time.",
+          "2": "Changes will be effective upon posting to this page, and it is your responsibility to regularly review these Terms.",
+          "3": "Continued use of our Services after modifications constitutes acceptance of updated Terms."
+        }
+      },
+      "7": {
+        "title": "Contact Information",
+        "h1": "",
+        "items": {
+          "1": "For questions, concerns, or clarifications regarding these Terms, please contact us:",
+          "2": "Email: info@elchaigroup.com",
+          "3": "Address: [Insert Official Address]"
+        }
+      }
+    }
+  },
+  "FAQ": {
+    "title": "Elchai Terms of Use",
+    "description": "Browse through commonly asked questions below. If you can't find an answer here, please feel free to contact us.",
+    "items": [
+      {
+        "question": "1. How Do I Start with Elchai's Services?",
+        "answer": "Getting started with Elchai is easy:\n• Step 1: Contact us through our website or email at info@elchaigroup.com.\n• Step 2: Our team will schedule a consultation to understand your requirements.\n• Step 3: Receive a tailored proposal and start your digital transformation journey."
+      },
+      {
+        "question": "2. What's the Difference Between AR, VR, and MR?",
+        "answer": "• AR (Augmented Reality): Enhances the real-world environment by overlaying digital content.\n• VR (Virtual Reality): Provides a fully immersive digital environment, entirely separate from the real world.\n• MR (Mixed Reality): Combines elements of AR and VR, blending real-world and digital interactions seamlessly."
+      },
+      {
+        "question": "3. How Secure Are Elchai's Blockchain Solutions?",
+        "answer": "Elchai prioritizes robust security in all blockchain solutions:\n• Employing industry-leading blockchain security protocols.\n• Regular security audits and testing.\n• Secure smart-contract development practices.\n• Institutional-grade encryption methods.\nWe ensure your blockchain solutions are secure, reliable, and transparent."
+      },
+      {
+        "question": "4. How to Access Metaverse Projects?",
+        "answer": "Accessing your metaverse projects with Elchai is straightforward:\n• Log in using credentials on the login page in universe eye.\n• Access your dashboard to manage your projects.\n• Explore and interact with your customized 3D virtual spaces and avatars.\nFor detailed guidance, refer to our Metaverse Integration Guide."
+      },
+      {
+        "question": "5. Pricing & Delivery Timelines",
+        "answer": "Pricing and delivery timelines depend on project complexity and requirements:\n• Typical project timelines range from 20 to 28 weeks.\n• Pricing is provided transparently during initial consultation, based on your specific needs.\nFor detailed quotes and timelines, please request a consultation."
+      }
+    ],
+    "footerTitle": "Still Have Questions?",
+    "footerDescription": "If your question is not listed above or you require additional support, please feel free to Contact Our Support Team."
+  }
 }
