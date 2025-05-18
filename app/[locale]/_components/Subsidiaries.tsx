@@ -1,4 +1,5 @@
 import { cn } from "@/lib/utils"
+import { useTranslations } from "next-intl"
 import Image from "next/image"
 import Link from "next/link"
 
@@ -66,18 +67,19 @@ export function SubsidiaryCard({ subsidiary }: { subsidiary: Subsidiary }) {
 }
 
 export function SubsidiariesSection() {
+    const t = useTranslations("HOME.subsidiaries")
     const subsidiaries: Subsidiary[] = [{
         id: "nfc-rent",
         title: 'NFC',
         url: 'https://nfcrent.com',
-        description: 'Revolutionizing digital asset management with NFT & blockchain technology',
+        description: t("nfcText"),
         imageUrl: '/images/nfc-car.png',
         logoUrl: '/images/nfc-rent.svg',
     }, {
         id: "The Universe Eye",
         title: 'The Universe Eye',
         url: 'https://theuniverseye.com',
-        description: 'Crafting immersive worlds through advanced AR, VR, MR and AI-driven environments',
+        description: t("universeText"),
         imageUrl: '/images/universe-eye.png',
         logoUrl: '/images/the-universe-eye.svg',
     }]
@@ -85,9 +87,10 @@ export function SubsidiariesSection() {
     return (
         <div className="py-8 lg:py-16 cursor-pointer">
             <div className="main-container">
-                <p className="text-center max-w-[782px] font-bold uppercase mx-auto mb-8">Elchai is a team of dedicated developers specializing in al, metaverse, blockchain, and web3 technologies-passionate about crafting extraordinary, intelligent digital solutions that redefine what's possible</p>
-
-                <h2 className="main-title mb-12 text-center lg:text-left">Explore Our <span>Innovative Subsidiaries</span></h2>
+                <p className="text-center max-w-[782px] font-bold uppercase mx-auto mb-8">{t("description")}</p>
+                <h2 className="main-title mb-12 text-center lg:text-left"
+                    dangerouslySetInnerHTML={{ __html: t.raw("title") }}
+                />
                 <div className="grid sm:grid-cols-2 gap-8">
                     {subsidiaries.map((subsidiary) => (
                         <SubsidiaryCard key={subsidiary.id} subsidiary={subsidiary} />
