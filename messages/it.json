@@ -1,1141 +1,1199 @@
 {
-    "HOME": {
-        "hero": {
-            "t1": "Costruendo il futuro di",
-            "t2": "Intelligenza Artificiale",
-            "t3": "Metaverso",
-            "t4": "e Web3",
-            "description": "Elchai è un team di sviluppatori dedicati specializzati in tecnologie di intelligenza artificiale, metaverso, blockchain e Web3, appassionati nel creare soluzioni digitali straordinarie e intelligenti che ridefiniscono ciò che è possibile.",
-            "cta": "Contattaci",
-            "ai": "Intelligenza Artificiale",
-            "metaverse": "Metaverso",
-            "blockchain": "Blockchain",
-            "web3": "Web3"
-        },
-        "subsidiaries": {
-            "title": "Esplora le nostre <span>filiali innovative</span>",
-            "description": "Elchai è un team di sviluppatori dedicati specializzati in intelligenza artificiale, metaverso, blockchain e tecnologie Web3, appassionati nel creare soluzioni digitali straordinarie e intelligenti che ridefiniscono ciò che è possibile.",
-            "nfcText": "Rivoluzionando la gestione degli asset digitali con tecnologie NFT e blockchain",
-            "universeText": "Creando mondi immersivi attraverso ambienti avanzati di AR, VR, MR e guidati dall'intelligenza artificiale"
-        },
-        "section3": {
-            "title": "Chi <span>siamo?</span>",
-            "description": "Elchai è un team visionario di sviluppatori, ingegneri di intelligenza artificiale ed esperti di blockchain che costruiscono esperienze digitali di nuova generazione. Con un focus centrale su intelligenza artificiale, metaverso, Web3 e IoT, combiniamo tecnologie immersive con soluzioni per il mondo reale. La nostra missione: potenziare le aziende attraverso innovazione, decentramento e trasformazione intelligente.",
-            "list": [
-                "Pionieri in tecnologie di intelligenza artificiale, blockchain e immersive",
-                "Oltre 10 anni di progetti globali di successo"
-            ]
-        },
-        "section4": {
-            "title": "Soluzioni complete su misura <span>per il futuro digitale</span>",
-            "metaverse": "Sviluppo del metaverso",
-            "web3": "Sviluppo Web3",
-            "blockchain": "Sviluppo blockchain",
-            "ai": "Integrazione e sviluppo di intelligenza artificiale",
-            "smart": "Sviluppo di smart contract",
-            "ar": "Esperienze AR/VR/MR",
-            "vr": "Esperienze AR/VR/MR",
-            "iot": "Soluzioni IoT"
-        },
-        "section5": {
-            "title": "Plasmare il futuro con intelligenza artificiale e <span>tecnologie intelligenti</span>",
-            "description": "In Elchai, l'intelligenza artificiale non è solo uno strumento: è al centro della nostra innovazione. Dall'automazione intelligente all'analisi avanzata, le nostre soluzioni basate su intelligenza artificiale guidano decisioni più intelligenti ed esperienze digitali futuristiche in diversi settori.",
-            "solutionsTitle": "Soluzioni basate su intelligenza artificiale che offriamo",
-            "solutionsList": [
-                "Analisi predittiva e intelligenza dei dati",
-                "Intelligenza artificiale generativa e automazione dei contenuti",
-                "Chatbot intelligenti e assistenti virtuali",
-                "Soluzioni di cybersicurezza basate su intelligenza artificiale",
-                "Intelligenza artificiale per applicazioni blockchain e Web3"
-            ],
-            "whyAITitle": "Perché l'intelligenza artificiale è importante per le aziende?",
-            "whyAIDescription": "L'intelligenza artificiale consente risultati più intelligenti, rapidi e scalabili. In Elchai, aiutiamo le organizzazioni a sfruttare l'intelligenza artificiale per un vantaggio competitivo, migliorando l'engagement, ottimizzando le operazioni e sbloccando l'innovazione.",
-            "aiCTA": "Scopri le nostre capacità di intelligenza artificiale"
-        },
-        "section6": {
-            "title": "Perché le aziende <span>scelgono Elchai</span>",
-            "list": [
-                "Oltre 10 anni di sviluppo guidato da blockchain e intelligenza artificiale.",
-                "Strategie digitali personalizzate per il successo nel mondo reale",
-                "Profonda competenza in ambienti di intelligenza artificiale, metaverso e Web3",
-                "Esperti in piattaforme decentralizzate ed ecosistemi tecnologici intelligenti",
-                "Scelti da aziende Fortune 500 e startup",
-                "Approccio orientato al mercato e all'innovazione"
-            ]
-        },
-        "section7": {
-            "title": "Scopri i nostri progetti distintivi <span>nel metaverso</span>",
-            "real": "Soluzioni per il metaverso immobiliare",
-            "dubai": "Repliche virtuali della città di Dubai",
-            "virtual": "Club automobilistico virtuale",
-            "3d": "Sviluppo di avatar 3D"
-        },
-        "section8": {
-            "title": "Collaborazione con The Rob Rockefeller <span>SC per costruire il futuro digitale</span>",
-            "description": "Elchai ha unito le forze con il visionario globale Rob Rockefeller SC per co-sviluppare ecosistemi digitali che cambiano il mondo, alimentati da intelligenza artificiale, blockchain e tecnologie per la sostenibilità.",
-            "solutionsTitle": "Soluzioni basate su intelligenza artificiale che offriamo",
-            "solutionsList": [
-                "Robotica con intelligenza artificiale",
-                "Sistemi di crediti di carbonio basati su blockchain",
-                "Ricerca in cybersicurezza e tecnologie avanzate",
-                "Sviluppo del metaverso e trasformazione digitale"
-            ],
-            "collabTitle": "Una collaborazione globale",
-            "collabDescription": "Con operazioni a Dubai, Milano, Shenzhen e Nuova Delhi, questa partnership amplifica la nostra missione globale di guidare con innovazione basata sull'intelligenza artificiale."
-        },
-        "section9": {
-            "title": "Il nostro stack tecnologico all'<span>avanguardia</span>"
-        },
-        "section10": {
-            "title": "Unisciti alla rivoluzione <span>dell'innovazione digitale</span>",
-            "description": "Collabora con Elchai per costruire piattaforme digitali intelligenti e immersive in metaverso, intelligenza artificiale, blockchain e Web3. La tua visione, alimentata dall'innovazione.",
-            "cta": {
-                "explore": "Esplora i nostri servizi",
-                "contact": "Contattaci"
-            }
-        }
+  "HOME": {
+    "hero": {
+      "t1": "Costruendo il futuro di",
+      "t2": "Intelligenza Artificiale",
+      "t3": "Metaverso",
+      "t4": "e Web3",
+      "description": "Elchai è un team di sviluppatori dedicati specializzati in tecnologie di intelligenza artificiale, metaverso, blockchain e Web3, appassionati nel creare soluzioni digitali straordinarie e intelligenti che ridefiniscono ciò che è possibile.",
+      "cta": "Contattaci",
+      "ai": "Intelligenza Artificiale",
+      "metaverse": "Metaverso",
+      "blockchain": "Blockchain",
+      "web3": "Web3"
     },
-    "ABOUT": {
-        "hero": {
-            "t1": "Potenziare l'innovazione",
-            "t2": "Plasmare",
-            "t3": "il",
-            "t4": "Futuro"
-        },
-        "intro": {
-            "p1": "In Elchai, non siamo solo esperti di tecnologia: siamo visionari dedicati a pionierizzare soluzioni rivoluzionarie nel metaverso, blockchain e Web3. Spinti da passione, esperienza e un impegno per l'eccellenza, la nostra missione è ridefinire le esperienze digitali e sbloccare possibilità illimitate per le aziende in tutto il mondo.",
-            "h2": "Potenziare l'innovazione nel metaverso",
-            "h2_span": "Blockchain e Web3",
-            "p2": "Elchai è un team appassionato e visionario di sviluppatori dedicato a creare esperienze digitali eccezionali attraverso tecnologie all'avanguardia. Specializzati in metaverso, blockchain e Web3, costruiamo soluzioni innovative e straordinarie utilizzando capacità avanzate come IoT, intelligenza artificiale, apprendimento automatico, AR, VR e MR. Il nostro obiettivo è ridefinire il panorama digitale, consentendo alle aziende globali di sbloccare il loro pieno potenziale."
-        },
-        "message": {
-            "h2": "Messaggio dal nostro",
-            "h2_span": "Presidente e Fondatore",
-            "quote": "In Elchai, l'innovazione ci guida. La nostra visione non è solo costruire mondi digitali, ma ridefinire il modo in cui le aziende si relazionano e prosperano nell'era del decentramento. Il nostro team dedicato lavora instancabilmente per pionierizzare soluzioni che ispirano, potenziano e stabiliscono nuovi standard in tutti i settori. Unisciti a noi mentre continuiamo a trasformare idee visionarie in realtà rivoluzionarie.",
-            "name": "Flavio Elia",
-            "title": "Presidente e Fondatore, Elchai Group"
-        },
-        "whyChoose": {
-            "h2": "Perché i leader globali",
-            "h2_span": "scelgono Elchai",
-            "items": {
-                "stayAhead": {
-                    "title": "Rimanere all'avanguardia",
-                    "desc": "Esecuzione strategica che garantisce ai nostri clienti di superare costantemente i concorrenti"
-                },
-                "decentralization": {
-                    "title": "Decentramento",
-                    "desc": "Capacità comprovata nell'integrare applicazioni decentralizzate (dApps) per maggiore trasparenza, automazione ed efficienza"
-                },
-                "gettingViral": {
-                    "title": "Diventare virale",
-                    "desc": "Strategie di marketing innovative su misura per aumentare la visibilità dei prodotti Web3"
-                },
-                "reputation": {
-                    "title": "Reputazione",
-                    "desc": "Oltre 10 anni di fornitura di soluzioni blockchain e metaverso eccezionali"
-                },
-                "productDelivery": {
-                    "title": "Consegna del prodotto",
-                    "desc": "Competenza specializzata nella creazione di soluzioni blockchain di standard globale"
-                },
-                "advancedDevelopment": {
-                    "title": "Sviluppo avanzato",
-                    "desc": "Competenza che spazia dalle soluzioni aziendali allo sviluppo complesso del metaverso"
-                }
-            }
-        },
-        "journey": {
-            "h2": "Dalla visione alla realtà",
-            "h2_span": "Il nostro fantastico viaggio",
-            "items": {
-                "visionaryIdea": {
-                    "title": "Idea visionaria",
-                    "desc": "Iniziato con l'ambizione di ridefinire le interazioni digitali attraverso soluzioni rivoluzionarie per metaverso e Web3"
-                },
-                "coreValues": {
-                    "title": "Valori fondamentali",
-                    "desc": "Priorità data alla personalizzazione, proprietà e componibilità per esperienze digitali coinvolgenti."
-                },
-                "metaverseEcosystem": {
-                    "title": "Ecosistema del metaverso",
-                    "desc": "Sviluppato con successo un ecosistema del metaverso completo e scalabile, integrato con blockchain e tecnologie avanzate"
-                },
-                "digitalImpact": {
-                    "title": "Impatto digitale",
-                    "desc": "Cresciuto fino a diventare un'azienda esperta riconosciuta, influenzando significativamente il panorama digitale globale."
-                }
-            }
-        },
-        "expertise": {
-            "h2": "Decenni di innovazione",
-            "h2_span": "ed esperienza",
-            "desc": "Gli sviluppatori dedicati di Elchai vantano decenni di esperienza combinata nella fornitura di soluzioni blockchain, metaverso e Web3 all'avanguardia. I nostri team esperti gestiscono i progetti senza soluzione di continuità, dal concetto iniziale alla piena implementazione, offrendo soluzioni su misura apprezzate da startup e aziende Fortune 500.",
-            "bullets": [
-                "Track record comprovato in soluzioni tecnologiche di nuova generazione",
-                "Gestione end-to-end di progetti innovativi.",
-                "Soluzioni di trasformazione digitale su misura per diversi settori"
-            ]
-        },
-        "partners": {
-            "h2": "I nostri stimati",
-            "h2_span": "partner"
-        },
-        "cta": {
-            "h2": "Unisciti alla rivoluzione",
-            "h2_span": "nell'innovazione digitale",
-            "desc": "Collabora con Elchai per costruire piattaforme digitali intelligenti e immersive in metaverso, intelligenza artificiale, blockchain e Web3. La tua visione, alimentata dall'innovazione.",
-            "services": "Esplora i nostri servizi",
-            "contact": "Contattaci"
-        },
-        "leadership": {
-            "CEO": "Presidente e Fondatore",
-            "CTO": "Direttore Tecnologico",
-            "CFO": "Direttore Finanziario",
-            "CMO": "Direttore Marketing",
-            "ITLead": "Responsabile IT"
-        },
-        "team": {
-            "tabs": {
-                "skills": "Distribuzione delle competenze",
-                "leadership": "Leadership"
-            },
-            "skills": {
-                "backend": "Sviluppatori Backend",
-                "frontend": "Sviluppatori Frontend",
-                "uiux": "Designer UI/UX",
-                "blockchain": "Sviluppatori Blockchain",
-                "unity": "Sviluppatori Unity 3D/UR",
-                "devops": "Ingegneri DevOps",
-                "pm": "Project Manager",
-                "artists": "Artisti 3D"
-            }
-        }
+    "subsidiaries": {
+      "title": "Esplora le nostre <span>filiali innovative</span>",
+      "description": "Elchai è un team di sviluppatori dedicati specializzati in intelligenza artificiale, metaverso, blockchain e tecnologie Web3, appassionati nel creare soluzioni digitali straordinarie e intelligenti che ridefiniscono ciò che è possibile.",
+      "nfcText": "Rivoluzionando la gestione degli asset digitali con tecnologie NFT e blockchain",
+      "universeText": "Creando mondi immersivi attraverso ambienti avanzati di AR, VR, MR e guidati dall'intelligenza artificiale"
     },
-    "SERVICES": {
-        "title": "Soluzioni digitali innovative costruite per il domani",
-        "t1": "Digitali innovative",
-        "t2": "Soluzioni costruite",
-        "t3": "per il domani",
-        "description": "",
-        "intro": {
-            "title": "I nostri <span>servizi</span>",
-            "description": "Elchai offre soluzioni digitali avanzate e complete che posizionano la tua azienda all'avanguardia dell'innovazione in ambienti guidati da intelligenza artificiale, metaverso, blockchain, Web3 e oltre.",
-            "cta": "Esplora i nostri numerosi servizi qui sotto:"
-        },
-        "cta": {
-            "title": "Pronto <span>a iniziare?</span>",
-            "subtitle": "Contatta il nostro team oggi stesso e diamo vita alla tua visione.",
-            "button": "Contatta i nostri esperti"
-        },
-        "all": "Tutti i servizi",
-        "metaverse": {
-            "title": "Soluzioni di integrazione nel metaverso",
-            "slug": "soluzioni-integrazione-metaverso",
-            "description": {
-                "p": "Integra il tuo marchio in ambienti metaversali immersivi, creando esperienze interattive e coinvolgenti accessibili su tutte le piattaforme.",
-                "items": [
-                    "Eventi ed esperienze virtuali",
-                    "Integrazione metaversale multipiattaforma",
-                    "Soluzioni interattive personalizzate"
-                ]
-            },
-            "hero": {
-                "strong": "Porta il tuo marchio nel",
-                "s1": "mondo del",
-                "s2": "Metaverso",
-                "s3": ""
-            },
-            "intro": "Elchai integra con competenza la tua azienda in piattaforme metaversali immersive, connettendoti con un pubblico globale in modi potenti e innovativi. Dalle conferenze virtuali agli showroom digitali, garantiamo una transizione fluida e di impatto nel metaverso.",
-            "content": {
-                "title": "Soluzioni di integrazione nel <span>metaverso</span>",
-                "subtitle": "Ambienti metaversali personalizzati",
-                "description": "I nostri sviluppatori esperti creano spazi metaversali personalizzati e interattivi, progettati esclusivamente per rappresentare il tuo marchio. Migliora l'engagement degli utenti con ambienti che incoraggiano esplorazione, interazione e connessioni significative. Che si tratti di eventi, riunioni o retail, diamo vita alle tue idee in modo vivido.",
-                "footer": {
-                    "t1": "Compatibilità multipiattaforma",
-                    "t2": "Soluzioni per eventi nel metaverso",
-                    "d1": "Garantiamo che i tuoi mondi virtuali siano facilmente accessibili e offrano un'esperienza coerente su vari dispositivi, inclusi desktop, telefoni cellulari e visori VR. Gli utenti possono interagire senza sforzo con i tuoi contenuti, assicurando la massima portata e coinvolgimento.",
-                    "d2": "Ospita eventi virtuali accattivanti, lanci di prodotti o opportunità di networking che offrono esperienze immersive a partecipanti in tutto il mondo. Progettiamo spazi per facilitare interazioni in tempo reale, networking digitale e comunicazioni fluide tra gli utenti."
-                }
-            },
-            "cta": "Prenota un incontro per iniziare il tuo viaggio nel metaverso ora"
-        },
-        "realEstateMetaverse": {
-            "title": "Sviluppo del metaverso immobiliare",
-            "slug": "sviluppo-metaverso-immobiliare",
-            "description": {
-                "p": "Trasforma il settore immobiliare tradizionale con esperienze virtuali immersive, vetrine interattive di proprietà e investimenti immobiliari basati su blockchain.",
-                "items": [
-                    "Vetrine virtuali di proprietà",
-                    "Investimenti immobiliari tokenizzati",
-                    "Repliche virtuali di città (es. Dubai)"
-                ]
-            },
-            "hero": {
-                "strong": "Soluzioni immobiliari",
-                "s1": "virtuali",
-                "s2": "ridefinite",
-                "s3": ""
-            },
-            "intro": "Elchai trasforma il settore immobiliare tradizionale creando esperienze virtuali di proprietà immersive. Dai tour virtuali realistici agli investimenti tokenizzati basati su blockchain, le nostre soluzioni metaversali stabiliscono un nuovo standard per il marketing e le transazioni immobiliari.",
-            "content": {
-                "title": "Sviluppo del metaverso <span>immobiliare</span>",
-                "subtitle": "Tour virtuali di proprietà",
-                "description": "Creiamo tour 3D immersivi di proprietà che consentono ai potenziali acquirenti di esplorare progetti immobiliari da qualsiasi parte del mondo. Mostra interni dettagliati, servizi e percorsi interattivi, migliorando significativamente l'engagement dei clienti e accelerando i processi di vendita.",
-                "footer": {
-                    "t1": "Investimenti immobiliari tokenizzati",
-                    "t2": "Repliche dettagliate di città",
-                    "d1": "I nostri esperti di blockchain sviluppano piattaforme sicure per la proprietà frazionata di immobili attraverso la tokenizzazione, consentendo un accesso più ampio al mercato. Gli investitori possono acquistare, vendere e gestire token immobiliari senza problemi, aumentando la liquidità, riducendo l'attrito nelle transazioni e promuovendo la trasparenza.",
-                    "d2": "Elchai è specializzata in repliche virtuali meticolosamente realizzate di località iconiche, come Palm Jumeirah e Bluewaters Island di Dubai. Questi paesaggi urbani offrono opportunità uniche per sviluppatori immobiliari, investitori e settori turistici, ridefinendo l'esplorazione e il coinvolgimento virtuale."
-                }
-            },
-            "cta": "Prenota un incontro per esplorare le soluzioni del metaverso immobiliare"
-        },
-        "metaverseAvatar": {
-            "title": "Sviluppo di avatar 3D e spazi nel metaverso",
-            "slug": "sviluppo-avatar-3d-e-spazi-metaverso",
-            "description": {
-                "p": "Crea identità digitali personalizzate (avatar) e spazi 3D immersivi su misura per elevare l'engagement e l'interazione del marchio nei mondi virtuali.",
-                "items": [
-                    "Avatar 3D personalizzati",
-                    "Spazi virtuali interattivi",
-                    "Ambienti metaversali brandizzati"
-                ]
-            },
-            "hero": {
-                "strong": "Avatar personalizzati",
-                "s1": "e",
-                "s2": "spazi",
-                "s3": "immersivi"
-            },
-            "intro": "In Elchai, potenziamo la tua presenza digitale con avatar costruiti su misura e ambienti virtuali personalizzati. Migliora le interazioni degli utenti, la presenza del marchio e le esperienze immersive attraverso avatar e spazi 3D progettati con competenza.",
-            "content": {
-                "title": "Sviluppo di avatar 3D e <span>spazi nel metaverso</span>",
-                "subtitle": "Creazione di avatar 3D personalizzati",
-                "description": "Progettiamo avatar unici e dettagliati che riflettono l'identità del marchio o lo stile personale. Ogni avatar è realizzato con cura per migliorare l'interazione, l'engagement sociale e la personalizzazione nelle esperienze digitali, offrendo una connessione più profonda con il tuo pubblico.",
-                "footer": {
-                    "t1": "Spazi virtuali interattivi",
-                    "t2": "Engagement guidato dagli avatar",
-                    "d1": "Creiamo ambienti virtuali mozzafiato su misura per la tua visione di marchio, capaci di ospitare eventi, vetrine digitali o spazi collaborativi. Ogni spazio che progettiamo garantisce interattività ottimale, navigazione intuitiva ed esperienze immersive per i tuoi utenti.",
-                    "d2": "Integriamo avatar interattivi all'interno di spazi immersivi, consentendo un engagement significativo degli utenti, interazioni dal vivo e una comunicazione migliorata. Questo promuove una partecipazione attiva e una fedeltà a lungo termine del pubblico all'interno della tua comunità virtuale."
-                }
-            },
-            "cta": "Prenota un incontro per lo sviluppo di avatar e spazi 3D"
-        },
-        "blockchain": {
-            "title": "Sviluppo blockchain",
-            "slug": "sviluppo-blockchain",
-            "description": {
-                "p": "Sfrutta soluzioni blockchain robuste progettate specificamente per la tua azienda per migliorare trasparenza, sicurezza ed efficienza operativa.",
-                "items": [
-                    "Piattaforme blockchain personalizzate",
-                    "Sviluppo di smart contract",
-                    "Soluzioni blockchain aziendali",
-                    "Soluzioni blockchain per la supply chain"
-                ]
-            },
-            "hero": {
-                "strong": "Soluzioni blockchain avanzate",
-                "s1": "su misura",
-                "s2": "per la tua",
-                "s3": "azienda"
-            },
-            "intro": "Elchai sviluppa soluzioni blockchain robuste progettate per migliorare la trasparenza, la sicurezza e l'efficienza operativa della tua azienda. Dalle reti blockchain personalizzate agli smart contract, potenziamo le tue operazioni attraverso la tecnologia decentralizzata.",
-            "content": {
-                "title": "Sviluppo <span>blockchain</span>",
-                "subtitle": "Piattaforme blockchain personalizzate",
-                "description": "Costruiamo piattaforme blockchain scalabili, sicure e su misura, specificamente allineate ai tuoi obiettivi aziendali. Le nostre soluzioni ottimizzano i flussi di lavoro, migliorano la sicurezza e facilitano la trasparenza in tutte le tue operazioni.",
-                "footer": {
-                    "t1": "Sviluppo di smart contract",
-                    "t2": "Soluzioni aziendali e per la supply chain",
-                    "d1": "Automatizza i processi in modo sicuro ed efficiente con i nostri servizi di sviluppo di smart contract personalizzati. Creiamo smart contract robusti che riducono i rischi operativi, eliminano gli intermediari e migliorano la conformità nei tuoi processi aziendali.",
-                    "d2": "Implementa soluzioni blockchain per ottimizzare le operazioni della supply chain, garantire l'integrità dei dati e facilitare transazioni fluide. Le nostre soluzioni blockchain di livello aziendale offrono trasparenza e tracciabilità senza pari in ecosistemi aziendali complessi."
-                }
-            },
-            "cta": "Prenota un incontro per soluzioni blockchain personalizzate"
-        },
-        "coin": {
-            "title": "Sviluppo di monete crittografiche",
-            "slug": "sviluppo-monete-crittografiche",
-            "description": {
-                "p": "Soluzioni di sviluppo di monete crittografiche sicure, conformi e innovative progettate per soddisfare le esigenze e gli obiettivi specifici della tua azienda.",
-                "items": [
-                    "Sviluppo ICO/IDO",
-                    "Tokenizzazione di asset",
-                    "Sviluppo di stablecoin e security token",
-                    "Gestione di asset crittografici"
-                ]
-            },
-            "hero": {
-                "strong": "Soluzioni crittografiche personalizzate",
-                "s1": "costruite",
-                "s2": "per la tua",
-                "s3": "azienda"
-            },
-            "intro": "Elchai offre soluzioni complete di sviluppo di monete e token progettate per una gestione sicura, conforme ed efficiente delle criptovalute. Dal lancio di ICO alla tokenizzazione degli asset, consentiamo alla tua azienda di integrare valute digitali senza problemi.",
-            "content": {
-                "title": "Sviluppo di <span>monete crittografiche</span>",
-                "subtitle": "Soluzioni per il lancio di ICO e IDO",
-                "description": "Assistiamo le aziende nella pianificazione, sviluppo e lancio di campagne ICO e IDO sicure. I nostri esperti garantiscono conformità normativa, robusta sicurezza e strategie di marketing efficaci, aiutandoti ad attrarre investitori e raccogliere capitale in modo efficace.",
-                "footer": {
-                    "t1": "Tokenizzazione di asset",
-                    "t2": "Sviluppo di stablecoin e security token",
-                    "d1": "Converti asset tradizionali come immobili, arte o materie prime in token digitali basati su blockchain. La tokenizzazione migliora la liquidità, facilita la proprietà frazionata e fornisce una gestione trasparente e sicura di asset preziosi.",
-                    "d2": "Sviluppiamo criptovalute sicure e stabili ancorate a valute fiat o materie prime, ideali per ridurre la volatilità. Inoltre, i nostri security token soddisfano i requisiti normativi, fornendo strumenti di investimento sicuri, conformi e trasparenti."
-                }
-            },
-            "cta": "Prenota un incontro per sviluppare la tua moneta o token"
-        },
-        "cryptoWallet": {
-            "title": "Sviluppo di wallet crittografici",
-            "slug": "sviluppo-wallet-crittografici",
-            "description": {
-                "p": "Fornisci un'archiviazione sicura e una gestione fluida degli asset digitali attraverso wallet crittografici costruiti su misura per aziende e utenti finali.",
-                "items": [
-                    "Soluzioni per wallet hot e cold",
-                    "Wallet centralizzati e decentralizzati",
-                    "Sviluppo di wallet multicurrency"
-                ]
-            },
-            "hero": {
-                "strong": "Proteggi i tuoi asset digitali",
-                "s1": "con",
-                "s2": "wallet",
-                "s3": "avanzati"
-            },
-            "intro": "Elchai progetta e sviluppa wallet crittografici avanzati che offrono sicurezza senza pari e una gestione fluida degli asset. Le nostre soluzioni di wallet includono wallet hot, cold, centralizzati, decentralizzati e multicurrency, adattati alle esigenze degli utenti.",
-            "content": {
-                "title": "Sviluppo di wallet <span>crittografici</span>",
-                "subtitle": "Soluzioni di wallet sicure",
-                "description": "Costruiamo wallet crittografici leader del settore con crittografia multistrato, gestione sicura delle chiavi e audit di sicurezza regolari. Proteggi i tuoi asset da attacchi informatici e furti, garantendo al contempo un facile accesso e usabilità.",
-                "footer": {
-                    "t1": "Wallet centralizzati e decentralizzati",
-                    "t2": "Integrazione multicurrency",
-                    "d1": "Scegli tra wallet centralizzati con robusti servizi di custodia o wallet decentralizzati che danno il pieno controllo direttamente agli utenti. Le nostre soluzioni decentralizzate privilegiano l'autonomia, la privacy e la sicurezza degli utenti.",
-                    "d2": "I nostri wallet supportano un'ampia gamma di criptovalute, garantendo una gestione senza sforzo e transazioni fluide attraverso molteplici reti blockchain da un'unica piattaforma sicura."
-                }
-            },
-            "cta": "Prenota un incontro per lo sviluppo di wallet crittografici personalizzati"
-        },
-        "aiDevelopment": {
-            "title": "Servizi di sviluppo di intelligenza artificiale",
-            "slug": "servizi-sviluppo-intelligenza-artificiale",
-            "description": {
-                "p": "Incorpora potenti soluzioni guidate dall'intelligenza artificiale per decisioni più intelligenti, operazioni ottimizzate e automazione intelligente.",
-                "items": [
-                    "Apprendimento automatico e analisi predittiva",
-                    "Sviluppo di intelligenza artificiale generativa",
-                    "Automazione dei processi robotici (RPA)",
-                    "Soluzioni e integrazioni di intelligenza artificiale personalizzate"
-                ]
-            },
-            "hero": {
-                "strong": "Potenziare le aziende attraverso",
-                "s1": "soluzioni di",
-                "s2": "intelligenza artificiale",
-                "s3": "intelligenti"
-            },
-            "intro": "Elchai sfrutta l'intelligenza artificiale per ottimizzare le tue operazioni, migliorare il processo decisionale e guidare l'innovazione. Le nostre soluzioni di intelligenza artificiale personalizzate consentono automazione intelligente, approfondimenti predittivi e crescita basata sui dati.",
-            "content": {
-                "title": "Servizi di sviluppo di <span>intelligenza artificiale</span>",
-                "subtitle": "Apprendimento automatico e analisi predittiva",
-                "description": "Le nostre soluzioni di apprendimento automatico analizzano vasti set di dati per fornire approfondimenti utilizzabili, aiutandoti a prevedere tendenze, migliorare l'efficienza e prendere decisioni strategiche aziendali con sicurezza.",
-                "footer": {
-                    "t1": "Intelligenza artificiale generativa e automazione",
-                    "t2": "Integrazioni di intelligenza artificiale personalizzate",
-                    "d1": "Automatizza i processi aziendali con l'intelligenza artificiale generativa, ottimizzando la creazione di contenuti, le interazioni con i clienti e le attività di routine. Le nostre soluzioni di automazione aumentano la produttività e l'efficienza operativa in tutta la tua organizzazione.",
-                    "d2": "Integriamo tecnologie avanzate di intelligenza artificiale senza problemi all'interno della tua infrastruttura esistente, migliorando i flussi di lavoro, la gestione dei dati e l'intelligenza aziendale per dare alla tua organizzazione un vantaggio competitivo."
-                }
-            },
-            "cta": "Prenota un incontro per soluzioni aziendali guidate dall'intelligenza artificiale"
-        },
-        "decentralizedIdentifiers": {
-            "title": "Identificatori decentralizzati (DID)",
-            "slug": "identificatori-decentralizzati-did",
-            "description": {
-                "p": "Potenzia una gestione dell'identità sicura e decentralizzata, dando agli utenti il controllo delle loro identità digitali senza compromettere la sicurezza.",
-                "items": [
-                    "Gestione dell'identità decentralizzata",
-                    "DID basati su blockchain",
-                    "Verifica e autenticazione dell'identità"
-                ]
-            },
-            "hero": {
-                "strong": "Identità digitali sicure",
-                "s1": "con",
-                "s2": "soluzioni",
-                "s3": "decentralizzate"
-            },
-            "intro": "Elchai consente identità digitali sicure e controllate dagli utenti attraverso identificatori decentralizzati (DID), potenziando gli individui con privacy e una gestione dell'identità fluida utilizzando la tecnologia blockchain.",
-            "content": {
-                "title": "Identificatori decentralizzati <span>(DID)</span>",
-                "subtitle": "Gestione dell'identità decentralizzata",
-                "description": "Le nostre soluzioni decentralizzate danno agli utenti la completa proprietà e controllo delle loro identità digitali, migliorando privacy, sicurezza e fiducia attraverso piattaforme e transazioni digitali.",
-                "footer": {
-                    "t1": "Autenticazione basata su blockchain",
-                    "t2": "Privacy degli utenti e conformità",
-                    "d1": "Implementa sistemi di autenticazione basati su blockchain che verificano le identità in modo sicuro e trasparente, riducendo le frodi e aumentando la fiducia per aziende e consumatori.",
-                    "d2": "Forniamo soluzioni DID che garantiscono la conformità con le normative globali sulla privacy (es. GDPR), consentendo alle aziende di gestire in modo sicuro i processi di verifica dell'identità senza compromettere la privacy degli utenti."
-                }
-            },
-            "cta": "Prenota un incontro per soluzioni di identità decentralizzate"
-        },
-        "cbdc": {
-            "title": "Valute digitali delle banche centrali (CBDC)",
-            "slug": "valute-digitali-banche-centrali-cbdc",
-            "description": {
-                "p": "Supporta le banche centrali e le istituzioni finanziarie con soluzioni di valuta digitale sicure ed efficienti utilizzando la tecnologia blockchain avanzata.",
-                "items": [
-                    "Sviluppo dell'infrastruttura CBDC",
-                    "Piattaforme di gestione delle valute digitali",
-                    "Soluzioni CBDC sicure e conformi"
-                ]
-            },
-            "hero": {
-                "strong": "Innovative e",
-                "s1": "conformi",
-                "s2": "soluzioni",
-                "s3": "CBDC"
-            },
-            "intro": "Elchai supporta le istituzioni finanziarie con soluzioni di valuta digitale delle banche centrali sicure, efficienti e conformi. Dall'emissione alla gestione, le nostre piattaforme garantiscono un'integrazione fluida e una sicurezza robusta.",
-            "content": {
-                "title": "Valute digitali delle banche centrali <span>(CBDC)</span>",
-                "subtitle": "Sviluppo dell'infrastruttura CBDC",
-                "description": "Sviluppiamo piattaforme CBDC basate su blockchain avanzate che garantiscono un'emissione di valuta sicura, transazioni trasparenti e una gestione efficiente allineata agli standard normativi.",
-                "footer": {
-                    "t1": "Piattaforme di transazione sicure",
-                    "t2": "Conformità normativa e gestione",
-                    "d1": "Forniamo piattaforme sicure e trasparenti che facilitano transazioni CBDC fluide, supportando la stabilità finanziaria, una tracciabilità migliorata e una maggiore fiducia pubblica.",
-                    "d2": "Le nostre soluzioni garantiscono la piena conformità con le normative finanziarie pertinenti, consentendo alle banche centrali di gestire con sicurezza le valute digitali all'interno dei quadri monetari esistenti."
-                }
-            },
-            "cta": "Prenota un incontro per lo sviluppo di CBDC"
-        },
-        "defiCefi": {
-            "title": "Soluzioni DeFi/CeFi/CeDeFi",
-            "slug": "soluzioni-defi-cefi-cedefi",
-            "description": {
-                "p": "Offri soluzioni finanziarie decentralizzate e ibride rivoluzionarie che collegano in modo efficace e sicuro la finanza tradizionale e digitale.",
-                "items": [
-                    "Piattaforme di finanza decentralizzata (DeFi)",
-                    "Integrazione della finanza centralizzata (CeFi)",
-                    "Soluzioni ibride CeDeFi",
-                    "Soluzioni di prestito crittografico e P2P"
-                ]
-            },
-            "hero": {
-                "strong": "Collegare la finanza",
-                "s1": "e",
-                "s2": "decentralizzata",
-                "s3": "tradizionale"
-            },
-            "intro": "Elchai fornisce soluzioni complete di finanza decentralizzata (DeFi), finanza centralizzata (CeFi) e ibrida (CeDeFi), consentendo alle aziende di beneficiare dei vantaggi della blockchain mantenendo facilità d'uso e conformità normativa.",
-            "content": {
-                "title": "Soluzioni <span>DeFi/CeFi/CeDeFi</span>",
-                "subtitle": "Finanza decentralizzata (DeFi)",
-                "description": "Costruiamo piattaforme decentralizzate trasparenti e sicure per il prestito peer-to-peer, il yield farming, gli scambi decentralizzati (DEX) e i market maker automatici (AMM), rivoluzionando le operazioni finanziarie tradizionali.",
-                "footer": {
-                    "t1": "Integrazione della finanza centralizzata (CeFi)",
-                    "t2": "Soluzioni ibride CeDeFi",
-                    "d1": "Integriamo la tecnologia blockchain nei sistemi finanziari centralizzati tradizionali senza problemi, migliorando l'efficienza operativa, la sicurezza e l'accessibilità per gli utenti abituati ai prodotti finanziari convenzionali.",
-                    "d2": "Le nostre piattaforme ibride CeDeFi innovative combinano la trasparenza e l'efficienza decentralizzata con l'usabilità, la conformità e la familiarità centralizzata, creando un ecosistema finanziario equilibrato e user-friendly."
-                }
-            },
-            "cta": "Prenota un incontro per le tue soluzioni finanziarie"
-        }
+    "section3": {
+      "title": "Chi <span>siamo?</span>",
+      "description": "Elchai è un team visionario di sviluppatori, ingegneri di intelligenza artificiale ed esperti di blockchain che costruiscono esperienze digitali di nuova generazione. Con un focus centrale su intelligenza artificiale, metaverso, Web3 e IoT, combiniamo tecnologie immersive con soluzioni per il mondo reale. La nostra missione: potenziare le aziende attraverso innovazione, decentramento e trasformazione intelligente.",
+      "list": [
+        "Pionieri in tecnologie di intelligenza artificiale, blockchain e immersive",
+        "Oltre 10 anni di progetti globali di successo"
+      ]
     },
-    "CONTACT": {
-        "hero": {
-            "titleBold": "Contattaci",
-            "titleRest": "Elchai"
-        },
-        "intro": {
-            "quote": "Da soli possiamo fare così poco; insieme possiamo fare così tanto",
-            "message": "In Elchai, crediamo nel potere della collaborazione. Che tu stia cercando di innovare nel metaverso, esplorare le possibilità della blockchain o semplicemente voglia discutere delle tue idee di trasformazione digitale, il nostro team è pronto a connettersi, ascoltare e aiutarti a raggiungere il successo."
-        },
-        "collaboration": {
-            "heading": "Collaboriamo",
-            "headingSpan": "Insieme",
-            "text": "Invitiamo visionari, innovatori e aziende a collaborare con noi per plasmare il futuro dell'innovazione digitale. Dalle esperienze nel metaverso alle soluzioni blockchain, esploriamo insieme il potenziale del tuo progetto.",
-            "support": "Supporto",
-            "call": "Chiamaci",
-            "email": "Scrivici",
-            "website": "Sito web",
-            "stayConnected": "Resta in contatto con noi per le ultime notizie, aggiornamenti e approfondimenti"
-        },
-        "form": {
-            "heading": "Compila il modulo qui sotto e il nostro team ti contatterà",
-            "name": "Nome",
-            "email": "Indirizzo email",
-            "phone": "Numero di telefono",
-            "company": "Azienda",
-            "message": "Descrizione del progetto / Messaggio",
-            "submit": "Invia qui"
-        },
-        "cta": {
-            "title": "Pronto a discutere",
-            "titleSpan": "del tuo progetto",
-            "text": "Contattaci oggi stesso e insieme sbloccheremo il pieno potenziale della tua visione digitale",
-            "button": "Prenota il tuo incontro ora"
-        }
+    "section4": {
+      "title": "Soluzioni complete su misura <span>per il futuro digitale</span>",
+      "metaverse": "Sviluppo del metaverso",
+      "web3": "Sviluppo Web3",
+      "blockchain": "Sviluppo blockchain",
+      "ai": "Integrazione e sviluppo di intelligenza artificiale",
+      "smart": "Sviluppo di smart contract",
+      "ar": "Esperienze AR/VR/MR",
+      "vr": "Esperienze AR/VR/MR",
+      "iot": "Soluzioni IoT"
     },
-    "MENU": {
-        "home": "Home",
-        "contact": {
-            "email": "Email",
-            "phone": "Telefono",
-            "address": "Indirizzo"
+    "section5": {
+      "title": "Plasmare il futuro con intelligenza artificiale e <span>tecnologie intelligenti</span>",
+      "description": "In Elchai, l'intelligenza artificiale non è solo uno strumento: è al centro della nostra innovazione. Dall'automazione intelligente all'analisi avanzata, le nostre soluzioni basate su intelligenza artificiale guidano decisioni più intelligenti ed esperienze digitali futuristiche in diversi settori.",
+      "solutionsTitle": "Soluzioni basate su intelligenza artificiale che offriamo",
+      "solutionsList": [
+        "Analisi predittiva e intelligenza dei dati",
+        "Intelligenza artificiale generativa e automazione dei contenuti",
+        "Chatbot intelligenti e assistenti virtuali",
+        "Soluzioni di cybersicurezza basate su intelligenza artificiale",
+        "Intelligenza artificiale per applicazioni blockchain e Web3"
+      ],
+      "whyAITitle": "Perché l'intelligenza artificiale è importante per le aziende?",
+      "whyAIDescription": "L'intelligenza artificiale consente risultati più intelligenti, rapidi e scalabili. In Elchai, aiutiamo le organizzazioni a sfruttare l'intelligenza artificiale per un vantaggio competitivo, migliorando l'engagement, ottimizzando le operazioni e sbloccando l'innovazione.",
+      "aiCTA": "Scopri le nostre capacità di intelligenza artificiale"
+    },
+    "section6": {
+      "title": "Perché le aziende <span>scelgono Elchai</span>",
+      "list": [
+        "Oltre 10 anni di sviluppo guidato da blockchain e intelligenza artificiale.",
+        "Strategie digitali personalizzate per il successo nel mondo reale",
+        "Profonda competenza in ambienti di intelligenza artificiale, metaverso e Web3",
+        "Esperti in piattaforme decentralizzate ed ecosistemi tecnologici intelligenti",
+        "Scelti da aziende Fortune 500 e startup",
+        "Approccio orientato al mercato e all'innovazione"
+      ]
+    },
+    "section7": {
+      "title": "Scopri i nostri progetti distintivi <span>nel metaverso</span>",
+      "real": "Soluzioni per il metaverso immobiliare",
+      "dubai": "Repliche virtuali della città di Dubai",
+      "virtual": "Club automobilistico virtuale",
+      "3d": "Sviluppo di avatar 3D"
+    },
+    "section8": {
+      "title": "Collaborazione con The Rob Rockefeller <span>SC per costruire il futuro digitale</span>",
+      "description": "Elchai ha unito le forze con il visionario globale Rob Rockefeller SC per co-sviluppare ecosistemi digitali che cambiano il mondo, alimentati da intelligenza artificiale, blockchain e tecnologie per la sostenibilità.",
+      "solutionsTitle": "Soluzioni basate su intelligenza artificiale che offriamo",
+      "solutionsList": [
+        "Robotica con intelligenza artificiale",
+        "Sistemi di crediti di carbonio basati su blockchain",
+        "Ricerca in cybersicurezza e tecnologie avanzate",
+        "Sviluppo del metaverso e trasformazione digitale"
+      ],
+      "collabTitle": "Una collaborazione globale",
+      "collabDescription": "Con operazioni a Dubai, Milano, Shenzhen e Nuova Delhi, questa partnership amplifica la nostra missione globale di guidare con innovazione basata sull'intelligenza artificiale."
+    },
+    "section9": {
+      "title": "Il nostro stack tecnologico all'<span>avanguardia</span>"
+    },
+    "section10": {
+      "title": "Unisciti alla rivoluzione <span>dell'innovazione digitale</span>",
+      "description": "Collabora con Elchai per costruire piattaforme digitali intelligenti e immersive in metaverso, intelligenza artificiale, blockchain e Web3. La tua visione, alimentata dall'innovazione.",
+      "cta": {
+        "explore": "Esplora i nostri servizi",
+        "contact": "Contattaci"
+      }
+    }
+  },
+  "ABOUT": {
+    "hero": {
+      "t1": "Potenziare l'innovazione",
+      "t2": "Plasmare",
+      "t3": "il",
+      "t4": "Futuro"
+    },
+    "intro": {
+      "p1": "In Elchai, non siamo solo esperti di tecnologia: siamo visionari dedicati a pionierizzare soluzioni rivoluzionarie nel metaverso, blockchain e Web3. Spinti da passione, esperienza e un impegno per l'eccellenza, la nostra missione è ridefinire le esperienze digitali e sbloccare possibilità illimitate per le aziende in tutto il mondo.",
+      "h2": "Potenziare l'innovazione nel metaverso",
+      "h2_span": "Blockchain e Web3",
+      "p2": "Elchai è un team appassionato e visionario di sviluppatori dedicato a creare esperienze digitali eccezionali attraverso tecnologie all'avanguardia. Specializzati in metaverso, blockchain e Web3, costruiamo soluzioni innovative e straordinarie utilizzando capacità avanzate come IoT, intelligenza artificiale, apprendimento automatico, AR, VR e MR. Il nostro obiettivo è ridefinire il panorama digitale, consentendo alle aziende globali di sbloccare il loro pieno potenziale."
+    },
+    "message": {
+      "h2": "Messaggio dal nostro",
+      "h2_span": "Presidente e Fondatore",
+      "quote": "In Elchai, l'innovazione ci guida. La nostra visione non è solo costruire mondi digitali, ma ridefinire il modo in cui le aziende si relazionano e prosperano nell'era del decentramento. Il nostro team dedicato lavora instancabilmente per pionierizzare soluzioni che ispirano, potenziano e stabiliscono nuovi standard in tutti i settori. Unisciti a noi mentre continuiamo a trasformare idee visionarie in realtà rivoluzionarie.",
+      "name": "Flavio Elia",
+      "title": "Presidente e Fondatore, Elchai Group"
+    },
+    "whyChoose": {
+      "h2": "Perché i leader globali",
+      "h2_span": "scelgono Elchai",
+      "items": {
+        "stayAhead": {
+          "title": "Rimanere all'avanguardia",
+          "desc": "Esecuzione strategica che garantisce ai nostri clienti di superare costantemente i concorrenti"
         },
-        "resources": {
-            "faq": "Domande frequenti",
-            "communityRules": "Regole della community",
-            "privacyPolicy": "Informativa sulla privacy",
-            "termsOfUse": "Termini di utilizzo",
-            "supportCenter": "Centro di supporto"
+        "decentralization": {
+          "title": "Decentramento",
+          "desc": "Capacità comprovata nell'integrare applicazioni decentralizzate (dApps) per maggiore trasparenza, automazione ed efficienza"
         },
-        "about": {
-            "aboutUs": "Chi siamo",
-            "ourTeam": "Il nostro team",
-            "elchaiGuides": "Guide Elchai",
-            "caseStudies": "Casi di studio",
-            "techStack": "Stack tecnologico"
+        "gettingViral": {
+          "title": "Diventare virale",
+          "desc": "Strategie di marketing innovative su misura per aumentare la visibilità dei prodotti Web3"
         },
+        "reputation": {
+          "title": "Reputazione",
+          "desc": "Oltre 10 anni di fornitura di soluzioni blockchain e metaverso eccezionali"
+        },
+        "productDelivery": {
+          "title": "Consegna del prodotto",
+          "desc": "Competenza specializzata nella creazione di soluzioni blockchain di standard globale"
+        },
+        "advancedDevelopment": {
+          "title": "Sviluppo avanzato",
+          "desc": "Competenza che spazia dalle soluzioni aziendali allo sviluppo complesso del metaverso"
+        }
+      }
+    },
+    "journey": {
+      "h2": "Dalla visione alla realtà",
+      "h2_span": "Il nostro fantastico viaggio",
+      "items": {
+        "visionaryIdea": {
+          "title": "Idea visionaria",
+          "desc": "Iniziato con l'ambizione di ridefinire le interazioni digitali attraverso soluzioni rivoluzionarie per metaverso e Web3"
+        },
+        "coreValues": {
+          "title": "Valori fondamentali",
+          "desc": "Priorità data alla personalizzazione, proprietà e componibilità per esperienze digitali coinvolgenti."
+        },
+        "metaverseEcosystem": {
+          "title": "Ecosistema del metaverso",
+          "desc": "Sviluppato con successo un ecosistema del metaverso completo e scalabile, integrato con blockchain e tecnologie avanzate"
+        },
+        "digitalImpact": {
+          "title": "Impatto digitale",
+          "desc": "Cresciuto fino a diventare un'azienda esperta riconosciuta, influenzando significativamente il panorama digitale globale."
+        }
+      }
+    },
+    "expertise": {
+      "h2": "Decenni di innovazione",
+      "h2_span": "ed esperienza",
+      "desc": "Gli sviluppatori dedicati di Elchai vantano decenni di esperienza combinata nella fornitura di soluzioni blockchain, metaverso e Web3 all'avanguardia. I nostri team esperti gestiscono i progetti senza soluzione di continuità, dal concetto iniziale alla piena implementazione, offrendo soluzioni su misura apprezzate da startup e aziende Fortune 500.",
+      "bullets": [
+        "Track record comprovato in soluzioni tecnologiche di nuova generazione",
+        "Gestione end-to-end di progetti innovativi.",
+        "Soluzioni di trasformazione digitale su misura per diversi settori"
+      ]
+    },
+    "partners": {
+      "h2": "I nostri stimati",
+      "h2_span": "partner"
+    },
+    "cta": {
+      "h2": "Unisciti alla rivoluzione",
+      "h2_span": "nell'innovazione digitale",
+      "desc": "Collabora con Elchai per costruire piattaforme digitali intelligenti e immersive in metaverso, intelligenza artificiale, blockchain e Web3. La tua visione, alimentata dall'innovazione.",
+      "services": "Esplora i nostri servizi",
+      "contact": "Contattaci"
+    },
+    "leadership": {
+      "CEO": "Presidente e Fondatore",
+      "CTO": "Direttore Tecnologico",
+      "CFO": "Direttore Finanziario",
+      "CMO": "Direttore Marketing",
+      "ITLead": "Responsabile IT"
+    },
+    "team": {
+      "tabs": {
+        "skills": "Distribuzione delle competenze",
+        "leadership": "Leadership"
+      },
+      "skills": {
+        "backend": "Sviluppatori Backend",
+        "frontend": "Sviluppatori Frontend",
+        "uiux": "Designer UI/UX",
+        "blockchain": "Sviluppatori Blockchain",
+        "unity": "Sviluppatori Unity 3D/UR",
+        "devops": "Ingegneri DevOps",
+        "pm": "Project Manager",
+        "artists": "Artisti 3D"
+      }
+    }
+  },
+  "SERVICES": {
+    "title": "Soluzioni digitali innovative costruite per il domani",
+    "t1": "Digitali innovative",
+    "t2": "Soluzioni costruite",
+    "t3": "per il domani",
+    "description": "",
+    "intro": {
+      "title": "I nostri <span>servizi</span>",
+      "description": "Elchai offre soluzioni digitali avanzate e complete che posizionano la tua azienda all'avanguardia dell'innovazione in ambienti guidati da intelligenza artificiale, metaverso, blockchain, Web3 e oltre.",
+      "cta": "Esplora i nostri numerosi servizi qui sotto:"
+    },
+    "cta": {
+      "title": "Pronto <span>a iniziare?</span>",
+      "subtitle": "Contatta il nostro team oggi stesso e diamo vita alla tua visione.",
+      "button": "Contatta i nostri esperti"
+    },
+    "all": "Tutti i servizi",
+    "metaverse": {
+      "title": "Soluzioni di integrazione nel metaverso",
+      "slug": "soluzioni-integrazione-metaverso",
+      "description": {
+        "p": "Integra il tuo marchio in ambienti metaversali immersivi, creando esperienze interattive e coinvolgenti accessibili su tutte le piattaforme.",
+        "items": [
+          "Eventi ed esperienze virtuali",
+          "Integrazione metaversale multipiattaforma",
+          "Soluzioni interattive personalizzate"
+        ]
+      },
+      "hero": {
+        "strong": "Porta il tuo marchio nel",
+        "s1": "mondo del",
+        "s2": "Metaverso",
+        "s3": ""
+      },
+      "intro": "Elchai integra con competenza la tua azienda in piattaforme metaversali immersive, connettendoti con un pubblico globale in modi potenti e innovativi. Dalle conferenze virtuali agli showroom digitali, garantiamo una transizione fluida e di impatto nel metaverso.",
+      "content": {
+        "title": "Soluzioni di integrazione nel <span>metaverso</span>",
+        "subtitle": "Ambienti metaversali personalizzati",
+        "description": "I nostri sviluppatori esperti creano spazi metaversali personalizzati e interattivi, progettati esclusivamente per rappresentare il tuo marchio. Migliora l'engagement degli utenti con ambienti che incoraggiano esplorazione, interazione e connessioni significative. Che si tratti di eventi, riunioni o retail, diamo vita alle tue idee in modo vivido.",
         "footer": {
-            "about": "Chi siamo",
-            "services": "Servizi",
-            "resources": "Risorse",
-            "contact": "Contattaci",
-            "copyright": "Tutti i diritti riservati"
+          "t1": "Compatibilità multipiattaforma",
+          "t2": "Soluzioni per eventi nel metaverso",
+          "d1": "Garantiamo che i tuoi mondi virtuali siano facilmente accessibili e offrano un'esperienza coerente su vari dispositivi, inclusi desktop, telefoni cellulari e visori VR. Gli utenti possono interagire senza sforzo con i tuoi contenuti, assicurando la massima portata e coinvolgimento.",
+          "d2": "Ospita eventi virtuali accattivanti, lanci di prodotti o opportunità di networking che offrono esperienze immersive a partecipanti in tutto il mondo. Progettiamo spazi per facilitare interazioni in tempo reale, networking digitale e comunicazioni fluide tra gli utenti."
         }
+      },
+      "cta": "Prenota un incontro per iniziare il tuo viaggio nel metaverso ora"
     },
-    "CASESTUDIES": {
-        "title": "",
-        "description": "Scopri come le soluzioni innovative di Elchai in blockchain, metaverso e tecnologie avanzate hanno potenziato aziende a livello globale. Ogni caso di studio dimostra la nostra capacità di ottenere risultati tangibili, ottimizzare i processi aziendali e creare esperienze digitali straordinarie.",
-        "hero": {
-            "t1": "Storie di successo",
-            "t2": "Alimentate dall'",
-            "t3": "Innovazione"
-        },
-        "details": {
-            "hero": {
-                "t1": "Casi",
-                "t2": "di studio"
-            },
-            "stack": "Stack tecnologico",
-            "card": {
-                "title": "Rimani all'avanguardia nel <span>mondo digitale</span>",
-                "description": "Iscriviti alle Guide Elchai per ricevere approfondimenti continui, consigli esperti e le ultime tendenze direttamente nella tua casella di posta.",
-                "cta": "Iscriviti ora"
-            }
-        },
-        "tarality": {
-            "title": "Tarality",
-            "subtitle": "Ecosistema crittografico completo e piattaforma di scambio",
-            "description": "Tarality offre un robusto ecosistema blockchain che include scambio di criptovalute, trading, soluzioni di investimento e servizi bancari crittografici. Scopri come Elchai ha sviluppato un'infrastruttura crittografica sicura, conforme e versatile, rafforzando la posizione di Tarality nel mercato globale della blockchain.",
-            "content": {
-                "heading": "Ecosistema crittografico completo e piattaforma di scambio",
-                "overview": "Tarality mirava a fornire un ecosistema crittografico completo con funzionalità di trading, investimento e banca crittografica, alimentato dalla sua criptovaluta nativa, Taral.",
-                "challenges": "Elchai ha progettato un'infrastruttura blockchain sicura e scalabile che consente trading fluido, gestione sicura degli asset e integrazioni bancarie crittografiche conformi.",
-                "results": "Il lancio di successo dell'ecosistema crittografico di Tarality ha portato a un aumento dell'adozione sul mercato, un'esperienza utente ottimizzata e una maggiore fiducia nel marchio tra gli investitori globali."
-            },
-            "action": "Visualizza il caso di studio",
-            "actioninner": "Prenota un incontro per sviluppare il tuo progetto crittografico"
-        },
-        "blyncc": {
-            "title": "Blyncc",
-            "subtitle": "Soluzione di pagamento B2B avanzata basata su blockchain",
-            "description": "Blyncc ha rivoluzionato i pagamenti transfrontalieri implementando la tecnologia blockchain sicura di Elchai, risultando in transazioni B2B istantanee, trasparenti ed economiche. Scopri come abbiamo migliorato le interazioni finanziarie globali attraverso l'innovazione decentralizzata.",
-            "content": {
-                "heading": "Pagamenti B2B transfrontalieri basati su blockchain",
-                "overview": "Blyncc mirava a trasformare i tradizionali pagamenti B2B transfrontalieri, rendendoli più veloci, trasparenti e sicuri attraverso la tecnologia blockchain.",
-                "challenges": "Elchai ha sviluppato una piattaforma di pagamento decentralizzata con sicurezza blockchain integrata, riducendo significativamente le commissioni e i ritardi delle transazioni.",
-                "results": "Una maggiore trasparenza dei pagamenti, una velocità di transazione aumentata e notevoli risparmi sui costi hanno reso Blyncc una scelta preferita per le aziende B2B globali."
-            },
-            "action": "Visualizza il caso di studio",
-            "actioninner": "Prenota un incontro per trasformare le tue soluzioni di pagamento"
-        },
-        "bbEstate": {
-            "title": "BB-Estate",
-            "subtitle": "Trasformare il settore immobiliare attraverso la tokenizzazione",
-            "description": "BB-Estate ha collaborato con Elchai per tokenizzare gli asset immobiliari, consentendo proprietà frazionata, liquidità e trasparenza negli investimenti immobiliari. Scopri come abbiamo reso il settore immobiliare più accessibile e attraente per gli investitori globali.",
-            "content": {
-                "heading": "Digitalizzazione degli investimenti immobiliari attraverso la tokenizzazione",
-                "overview": "BB-Estate cercava soluzioni innovative per migliorare liquidità, accessibilità e trasparenza negli investimenti immobiliari.",
-                "challenges": "Elchai ha sviluppato la tokenizzazione immobiliare basata su blockchain, consentendo investimenti frazionati e una gestione sicura dei token di proprietà digitali.",
-                "results": "Una maggiore liquidità, accessibilità per gli investitori globali e una gestione sicura e trasparente degli asset hanno migliorato significativamente il portafoglio di investimenti immobiliari di BB-Estate."
-            },
-            "action": "Visualizza il caso di studio",
-            "actioninner": "Prenota un incontro per la tokenizzazione immobiliare"
-        },
-        "cryptoEtrade": {
-            "title": "Crypto eTrade",
-            "subtitle": "Trasformazione digitale basata su blockchain per le PMI",
-            "description": "Crypto eTrade consente alle piccole e medie imprese (PMI) di abbracciare la trasformazione digitale tramite blockchain. Elchai ha sviluppato soluzioni che facilitano la tokenizzazione degli asset, migliorano la trasparenza operativa e creano opportunità di crescita per le PMI in tutto il mondo.",
-            "content": {
-                "heading": "Potenziare le PMI con l'innovazione blockchain",
-                "overview": "Crypto eTrade mirava ad assistere le PMI nella loro trasformazione digitale, utilizzando la tecnologia blockchain per tokenizzare gli asset e aumentare la trasparenza.",
-                "challenges": "Elchai ha fornito soluzioni blockchain che hanno permesso una tokenizzazione degli asset fluida e un monitoraggio sicuro e trasparente per le PMI a livello globale.",
-                "results": "Una maggiore trasparenza, efficienza operativa e prontezza digitale hanno permesso a numerose PMI di prosperare nell'economia digitale."
-            },
-            "action": "Visualizza il caso di studio",
-            "actioninner": "Prenota un incontro per digitalizzare la tua azienda"
-        },
-        "fintex": {
-            "title": "Fintex",
-            "subtitle": "Sviluppo di wallet crittografici multi-catena sicuri",
-            "description": "Fintex è un wallet crittografico multi-catena sicuro che consente agli utenti di archiviare, gestire ed effettuare transazioni su varie criptovalute senza problemi. Lo sviluppo esperto di wallet di Elchai ha garantito sicurezza, facilità d'uso e prestazioni robuste, migliorando la competitività di Fintex nel mercato.",
-            "content": {
-                "heading": "Protezione degli asset digitali con wallet multi-catena",
-                "overview": "Fintex richiedeva wallet sicuri e facili da usare che supportassero più blockchain per una gestione efficace delle criptovalute.",
-                "challenges": "Elchai ha sviluppato soluzioni di wallet avanzate che incorporano misure di sicurezza robuste, integrazione multi-catena fluida e design UI/UX intuitivi.",
-                "results": "Una significativa crescita nell'adozione degli utenti, una maggiore fiducia degli utenti e un'esperienza utente migliorata hanno elevato la posizione di Fintex nel mercato dei wallet crittografici."
-            },
-            "action": "Visualizza il caso di studio",
-            "actioninner": "Prenota un incontro per lo sviluppo di wallet crittografici"
-        },
-        "flexcube": {
-            "title": "Flexcube",
-            "subtitle": "Esperienze AR immersive per l'engagement sportivo",
-            "description": "Flexcube ha sfruttato l'expertise di Elchai in realtà aumentata (AR) per creare esperienze sportive coinvolgenti e immersive. Scopri come le nostre soluzioni AR hanno potenziato l'engagement dei fan, la fedeltà e l'interazione nelle comunità sportive.",
-            "content": {
-                "heading": "Innovazione AR che migliora le esperienze dei fan sportivi",
-                "overview": "Flexcube mirava a costruire esperienze per i fan immersive attraverso interazioni innovative basate su realtà aumentata.",
-                "challenges": "Elchai ha fornito una piattaforma AR personalizzabile, creando engagement dei fan in tempo reale, contenuti interattivi ed esperienze sportive immersive.",
-                "results": "Un maggiore engagement dei fan, fedeltà e visibilità del marchio hanno posizionato Flexcube come leader innovatore nell'intrattenimento sportivo guidato dalla realtà aumentata."
-            },
-            "action": "Visualizza il caso di studio",
-            "actioninner": "Prenota un incontro per soluzioni di sviluppo AR"
-        }
-    },
-    "TECHSTACK": {
-        "title": "Sfruttare tecnologie all'avanguardia",
-        "h2": "per costruire il domani",
-        "description": "In Elchai, l'innovazione continua guida il nostro successo. Sfruttiamo un'ampia gamma di linguaggi di programmazione moderni, piattaforme blockchain, framework di sviluppo e tecnologie cloud per offrire soluzioni digitali senza pari, garantendo che i nostri clienti rimangano sempre all'avanguardia in un panorama tecnologico in rapida evoluzione.",
-        "items": {
-            "blockchain": {
-                "title": "Piattaforme blockchain",
-                "description": "Costruiamo soluzioni blockchain robuste, sicure e scalabili utilizzando piattaforme blockchain leader del settore che garantiscono sicurezza, decentramento e prestazioni ottimali:"
-            },
-            "languages": {
-                "title": "Linguaggi di programmazione e framework",
-                "description": "Il nostro team di sviluppatori qualificati utilizza linguaggi di programmazione e framework potenti e versatili per creare applicazioni reattive, efficienti e scalabili:"
-            },
-            "metaverse": {
-                "title": "Strumenti di sviluppo per metaverso, AR, VR, MR e 3D",
-                "description": "Utilizziamo gli strumenti e i software più recenti per creare esperienze metaversali e 3D immersive, interattive e di alta qualità, spingendo i confini dell'interazione digitale:"
-            },
-            "ai": {
-                "title": "Intelligenza artificiale e apprendimento automatico",
-                "description": "I nostri esperti di intelligenza artificiale sfruttano framework e piattaforme leader del settore, garantendo automazione intelligente, analisi predittive e soluzioni AI di nuova generazione:"
-            },
-            "iot": {
-                "title": "Tecnologie e piattaforme IoT",
-                "description": "Elchai integra soluzioni IoT avanzate per connettere dispositivi senza soluzione di continuità, migliorare la raccolta dati e guidare ecosistemi intelligenti e connessi:"
-            },
-            "cloud": {
-                "title": "Tecnologie cloud e DevOps",
-                "description": "I nostri ingegneri cloud ed esperti DevOps garantiscono soluzioni scalabili, sicure e ad alte prestazioni, utilizzando strumenti cloud e DevOps leader:"
-            },
-            "security": {
-                "title": "Sicurezza e conformità",
-                "description": "La sicurezza rimane la nostra priorità in ogni soluzione che sviluppiamo. Utilizziamo framework di sicurezza avanzati e pratiche di conformità:"
-            }
-        },
+    "realEstateMetaverse": {
+      "title": "Sviluppo del metaverso immobiliare",
+      "slug": "sviluppo-metaverso-immobiliare",
+      "description": {
+        "p": "Trasforma il settore immobiliare tradizionale con esperienze virtuali immersive, vetrine interattive di proprietà e investimenti immobiliari basati su blockchain.",
+        "items": [
+          "Vetrine virtuali di proprietà",
+          "Investimenti immobiliari tokenizzati",
+          "Repliche virtuali di città (es. Dubai)"
+        ]
+      },
+      "hero": {
+        "strong": "Soluzioni immobiliari",
+        "s1": "virtuali",
+        "s2": "ridefinite",
+        "s3": ""
+      },
+      "intro": "Elchai trasforma il settore immobiliare tradizionale creando esperienze virtuali di proprietà immersive. Dai tour virtuali realistici agli investimenti tokenizzati basati su blockchain, le nostre soluzioni metaversali stabiliscono un nuovo standard per il marketing e le transazioni immobiliari.",
+      "content": {
+        "title": "Sviluppo del metaverso <span>immobiliare</span>",
+        "subtitle": "Tour virtuali di proprietà",
+        "description": "Creiamo tour 3D immersivi di proprietà che consentono ai potenziali acquirenti di esplorare progetti immobiliari da qualsiasi parte del mondo. Mostra interni dettagliati, servizi e percorsi interattivi, migliorando significativamente l'engagement dei clienti e accelerando i processi di vendita.",
         "footer": {
-            "title": "Apprendimento continuo <span>ed innovazione</span>",
-            "description": "In Elchai, diamo priorità all'apprendimento continuo e al miglioramento delle competenze. Il nostro team partecipa attivamente a corsi di formazione, workshop e certificazioni, garantendo che sfruttiamo sempre le tecnologie più innovative e rimaniamo all'avanguardia in settori in rapida evoluzione.",
-            "footerCard": {
-                "title": "Pronto a sfruttare <span>la nostra esperienza?</span>",
-                "description": "Scopri come il nostro stack tecnologico avanzato può potenziare il tuo prossimo progetto digitale. Pianifica una consulenza con gli esperti di Elchai oggi stesso.",
-                "link": "Prenota il tuo incontro ora"
-            }
+          "t1": "Investimenti immobiliari tokenizzati",
+          "t2": "Repliche dettagliate di città",
+          "d1": "I nostri esperti di blockchain sviluppano piattaforme sicure per la proprietà frazionata di immobili attraverso la tokenizzazione, consentendo un accesso più ampio al mercato. Gli investitori possono acquistare, vendere e gestire token immobiliari senza problemi, aumentando la liquidità, riducendo l'attrito nelle transazioni e promuovendo la trasparenza.",
+          "d2": "Elchai è specializzata in repliche virtuali meticolosamente realizzate di località iconiche, come Palm Jumeirah e Bluewaters Island di Dubai. Questi paesaggi urbani offrono opportunità uniche per sviluppatori immobiliari, investitori e settori turistici, ridefinendo l'esplorazione e il coinvolgimento virtuale."
         }
+      },
+      "cta": "Prenota un incontro per esplorare le soluzioni del metaverso immobiliare"
     },
-    "PRIVACYPOLICY": {
-        "title": "Informativa sulla privacy",
-        "lastUpdated": "Ultimo aggiornamento: [Insert Date]",
-        "intro": "Elchai (\"noi\", \"ci\" o \"nostro\") valuta la tua privacy ed è impegnata a proteggere le tue informazioni personali. Questa Informativa sulla privacy descrive come raccogliamo, utilizziamo e proteggiamo i tuoi dati quando visiti il nostro sito web o utilizzi i nostri servizi.",
-        "sections": {
-            "infoCollected": {
-                "title": "1. Informazioni raccolte",
-                "description": "Possiamo raccogliere i seguenti tipi di informazioni:",
-                "personal": {
-                    "title": "Informazioni personali:",
-                    "items": [
-                        "Nome",
-                        "Indirizzo email",
-                        "Numero di contatto",
-                        "Dettagli aziendali (se forniti)"
-                    ]
-                },
-                "usage": {
-                    "title": "Informazioni sull'utilizzo:",
-                    "items": [
-                        "Tipo e versione del browser",
-                        "Tipo di dispositivo",
-                        "Indirizzo IP",
-                        "Pagine visitate sul nostro sito web",
-                        "Data e ora delle visite"
-                    ]
-                },
-                "voluntary": {
-                    "title": "Informazioni fornite volontariamente:",
-                    "items": [
-                        "Dati inviati tramite moduli di contatto o iscrizioni.",
-                        "Informazioni fornite durante richieste, richieste di supporto o feedback."
-                    ]
-                }
-            },
-            "usage": {
-                "title": "2. Come vengono utilizzati i dati",
-                "description": "Utilizziamo le informazioni raccolte per:",
-                "items": [
-                    "Fornire e migliorare i nostri servizi.",
-                    "Rispondere alle tue richieste e alle richieste di assistenza clienti.",
-                    "Comunicare aggiornamenti, notizie, materiali promozionali o altre informazioni a cui hai aderito.",
-                    "Analizzare l'utilizzo del sito web per migliorare l'esperienza utente.",
-                    "Garantire la conformità alle leggi e regolamenti applicabili."
-                ]
-            },
-            "cookies": {
-                "title": "3. Cookie e tecnologie di tracciamento",
-                "description": "Il nostro sito web utilizza cookie e tecnologie di tracciamento simili per migliorare la tua esperienza di navigazione, analizzare il traffico del sito web e comprendere le interazioni degli utenti.",
-                "typesTitle": "Tipi di cookie che utilizziamo:",
-                "items": [
-                    "Cookie necessari: Essenziali per il funzionamento del sito web.",
-                    "Cookie analitici: Ci aiutano a comprendere le interazioni degli utenti per migliorare il nostro sito web.",
-                    "Cookie di preferenza: Ricordano le tue impostazioni e preferenze."
-                ],
-                "note": "Puoi controllare le impostazioni dei cookie attraverso le preferenze del tuo browser. La disabilitazione dei cookie potrebbe influire sulla tua esperienza utente."
-            },
-            "rights": {
-                "title": "4. Diritti dell'utente",
-                "description": "Hai i seguenti diritti riguardo ai tuoi dati:",
-                "items": [
-                    "Accesso: Richiedere l'accesso ai tuoi dati personali.",
-                    "Rettifica: Richiedere la correzione di dati inaccurati o incompleti.",
-                    "Cancellazione: Richiedere la cancellazione dei tuoi dati personali.",
-                    "Opposizione: Opporsi al trattamento o all'uso dei tuoi dati.",
-                    "Revoca: Revocare il tuo consenso al trattamento dei dati in qualsiasi momento."
-                ],
-                "note": "Per esercitare uno di questi diritti, contattaci all'indirizzo [privacy@elchaigroup.com]."
-            },
-            "retention": {
-                "title": "5. Conservazione dei dati",
-                "description": "Conserviamo le tue informazioni personali solo per il tempo necessario a fornire i nostri servizi o ad adempiere agli scopi descritti in questa informativa. Inoltre, potremmo conservare e utilizzare le tue informazioni per rispettare obblighi legali, risolvere controversie o far rispettare accordi."
-            },
-            "security": {
-                "title": "6. Sicurezza dei tuoi dati",
-                "description": "Implementiamo misure di sicurezza robuste progettate per proteggere le tue informazioni personali da accessi non autorizzati, divulgazione, alterazione o distruzione. Aggiorniamo regolarmente i nostri protocolli di sicurezza per garantire la conformità agli standard del settore."
-            },
-            "thirdParty": {
-                "title": "7. Link a terze parti",
-                "description": "Il nostro sito web potrebbe includere link a siti esterni non gestiti da noi. Non siamo responsabili delle pratiche sulla privacy di terze parti. Ti consigliamo di rivedere le informative sulla privacy di qualsiasi sito web esterno che visiti."
-            },
-            "changes": {
-                "title": "8. Modifiche a questa Informativa sulla privacy",
-                "description": "Ci riserviamo il diritto di aggiornare o modificare questa Informativa sulla privacy in qualsiasi momento. Ti informeremo di modifiche significative tramite email o pubblicando un avviso ben visibile sul nostro sito web. Ti incoraggiamo a rivedere regolarmente questa informativa per le ultime informazioni sulle nostre pratiche di privacy."
-            },
-            "contact": {
-                "title": "9. Contatti per domande sulla privacy",
-                "description": "Se hai domande, preoccupazioni o richieste riguardanti la nostra Informativa sulla privacy o la gestione dei tuoi dati, contattaci all'indirizzo:",
-                "email": "info@elchaigroup.com",
-                "address": "[Insert Elchai’s Official Business Address]"
-            }
+    "metaverseAvatar": {
+      "title": "Sviluppo di avatar 3D e spazi nel metaverso",
+      "slug": "sviluppo-avatar-3d-e-spazi-metaverso",
+      "description": {
+        "p": "Crea identità digitali personalizzate (avatar) e spazi 3D immersivi su misura per elevare l'engagement e l'interazione del marchio nei mondi virtuali.",
+        "items": [
+          "Avatar 3D personalizzati",
+          "Spazi virtuali interattivi",
+          "Ambienti metaversali brandizzati"
+        ]
+      },
+      "hero": {
+        "strong": "Avatar personalizzati",
+        "s1": "e",
+        "s2": "spazi",
+        "s3": "immersivi"
+      },
+      "intro": "In Elchai, potenziamo la tua presenza digitale con avatar costruiti su misura e ambienti virtuali personalizzati. Migliora le interazioni degli utenti, la presenza del marchio e le esperienze immersive attraverso avatar e spazi 3D progettati con competenza.",
+      "content": {
+        "title": "Sviluppo di avatar 3D e <span>spazi nel metaverso</span>",
+        "subtitle": "Creazione di avatar 3D personalizzati",
+        "description": "Progettiamo avatar unici e dettagliati che riflettono l'identità del marchio o lo stile personale. Ogni avatar è realizzato con cura per migliorare l'interazione, l'engagement sociale e la personalizzazione nelle esperienze digitali, offrendo una connessione più profonda con il tuo pubblico.",
+        "footer": {
+          "t1": "Spazi virtuali interattivi",
+          "t2": "Engagement guidato dagli avatar",
+          "d1": "Creiamo ambienti virtuali mozzafiato su misura per la tua visione di marchio, capaci di ospitare eventi, vetrine digitali o spazi collaborativi. Ogni spazio che progettiamo garantisce interattività ottimale, navigazione intuitiva ed esperienze immersive per i tuoi utenti.",
+          "d2": "Integriamo avatar interattivi all'interno di spazi immersivi, consentendo un engagement significativo degli utenti, interazioni dal vivo e una comunicazione migliorata. Questo promuove una partecipazione attiva e una fedeltà a lungo termine del pubblico all'interno della tua comunità virtuale."
         }
+      },
+      "cta": "Prenota un incontro per lo sviluppo di avatar e spazi 3D"
     },
-    "COMMUNITYRULES": {
-        "title": "Regole e linee guida della community Elchai",
-        "intro": "Benvenuto nella vivace community di Elchai! Incoraggiamo la collaborazione, la creatività e le interazioni rispettose tra i membri della nostra community. Ti invitiamo a familiarizzare con le nostre linee guida della community qui sotto.",
-        "sections": {
-            "positive": {
-                "title": "Interazione positiva e rispetto",
-                "description": "Valutiamo un ambiente inclusivo e accogliente per tutti. Quando interagisci all'interno della nostra community:",
-                "list": [
-                    "Tratta gli altri con gentilezza, rispetto e cortesia.",
-                    "Promuovi conversazioni e feedback costruttivi.",
-                    "Accogli e supporta i nuovi membri.",
-                    "Incoraggia la diversità, la tolleranza e l'inclusione.",
-                    "Rispetta la proprietà intellettuale e i diritti d'autore."
-                ]
-            },
-            "prohibited": {
-                "title": "Comportamenti proibiti",
-                "description": "Per mantenere una community sicura e sana, i seguenti comportamenti sono rigorosamente vietati:",
-                "list": [
-                    "Molestie, bullismo, minacce o linguaggio offensivo.",
-                    "Discriminazione basata su razza, etnia, identità di genere, orientamento sessuale, religione, disabilità, età o nazionalità.",
-                    "Spam o inondazione dei canali con contenuti irrilevanti o pubblicità.",
-                    "Condivisione di materiali inappropriati o offensivi (ad esempio, contenuti espliciti, violenza, discorsi d'odio).",
-                    "Tentativi di interrompere, hackerare o sfruttare le piattaforme della community.",
-                    "Falsa rappresentazione, impersonificazione o pratiche ingannevoli."
-                ],
-                "note": "La violazione di queste linee guida può comportare avvertimenti, sospensione o rimozione permanente dalla community."
-            },
-            "moderation": {
-                "title": "Politiche di moderazione",
-                "description": "I nostri moderatori della community lavorano diligentemente per garantire un ambiente rispettoso:",
-                "list": [
-                    "I moderatori possono modificare, rimuovere o bloccare post o discussioni che violano le linee guida.",
-                    "I moderatori possono emettere avvertimenti per violazioni minori ed escalare a sospensioni o ban per infrazioni ripetute o gravi.",
-                    "Le decisioni prese dai moderatori sono definitive; tuttavia, puoi appellarti rispettosamente o richiedere chiarimenti sulle decisioni di moderazione contattandoci direttamente."
-                ]
-            },
-            "reporting": {
-                "title": "Come segnalare problemi",
-                "description": "Se assisti a comportamenti inappropriati, violazioni o hai preoccupazioni per la sicurezza:",
-                "list": [
-                    "Segnala immediatamente il problema al nostro team di moderazione o ai gestori della community.",
-                    "Fornisci dettagli chiari e screenshot (se possibile) dell'incidente.",
-                    "Segnala tramite messaggi diretti ai moderatori o via email a"
-                ],
-                "note": "Prendiamo tutte le segnalazioni seriamente e indagheremo prontamente,采取适当措施。"
-            }
+    "blockchain": {
+      "title": "Sviluppo blockchain",
+      "slug": "sviluppo-blockchain",
+      "description": {
+        "p": "Sfrutta soluzioni blockchain robuste progettate specificamente per la tua azienda per migliorare trasparenza, sicurezza ed efficienza operativa.",
+        "items": [
+          "Piattaforme blockchain personalizzate",
+          "Sviluppo di smart contract",
+          "Soluzioni blockchain aziendali",
+          "Soluzioni blockchain per la supply chain"
+        ]
+      },
+      "hero": {
+        "strong": "Soluzioni blockchain avanzate",
+        "s1": "su misura",
+        "s2": "per la tua",
+        "s3": "azienda"
+      },
+      "intro": "Elchai sviluppa soluzioni blockchain robuste progettate per migliorare la trasparenza, la sicurezza e l'efficienza operativa della tua azienda. Dalle reti blockchain personalizzate agli smart contract, potenziamo le tue operazioni attraverso la tecnologia decentralizzata.",
+      "content": {
+        "title": "Sviluppo <span>blockchain</span>",
+        "subtitle": "Piattaforme blockchain personalizzate",
+        "description": "Costruiamo piattaforme blockchain scalabili, sicure e su misura, specificamente allineate ai tuoi obiettivi aziendali. Le nostre soluzioni ottimizzano i flussi di lavoro, migliorano la sicurezza e facilitano la trasparenza in tutte le tue operazioni.",
+        "footer": {
+          "t1": "Sviluppo di smart contract",
+          "t2": "Soluzioni aziendali e per la supply chain",
+          "d1": "Automatizza i processi in modo sicuro ed efficiente con i nostri servizi di sviluppo di smart contract personalizzati. Creiamo smart contract robusti che riducono i rischi operativi, eliminano gli intermediari e migliorano la conformità nei tuoi processi aziendali.",
+          "d2": "Implementa soluzioni blockchain per ottimizzare le operazioni della supply chain, garantire l'integrità dei dati e facilitare transazioni fluide. Le nostre soluzioni blockchain di livello aziendale offrono trasparenza e tracciabilità senza pari in ecosistemi aziendali complessi."
         }
+      },
+      "cta": "Prenota un incontro per soluzioni blockchain personalizzate"
     },
-    "GUIDES": {
-        "title": "<strong>Esplora, impara e padroneggia</strong> il futuro dell'innovazione digitale",
-        "description": "Elchai è un team di sviluppatori dedicati specializzati in intelligenza artificiale, metaverso, blockchain e tecnologie Web3, appassionati nel creare soluzioni digitali straordinarie e intelligenti che ridefiniscono ciò che è possibile.",
-        "footerCard": {
-            "title": "Rimani all'avanguardia nel <span>mondo digitale</span>",
-            "description": "Iscriviti alle Guide Elchai per ricevere approfondimenti continui, consigli esperti e le ultime tendenze direttamente nella tua casella di posta.",
-            "link": "Iscriviti ora"
+    "coin": {
+      "title": "Sviluppo di monete crittografiche",
+      "slug": "sviluppo-monete-crittografiche",
+      "description": {
+        "p": "Soluzioni di sviluppo di monete crittografiche sicure, conformi e innovative progettate per soddisfare le esigenze e gli obiettivi specifici della tua azienda.",
+        "items": [
+          "Sviluppo ICO/IDO",
+          "Tokenizzazione di asset",
+          "Sviluppo di stablecoin e security token",
+          "Gestione di asset crittografici"
+        ]
+      },
+      "hero": {
+        "strong": "Soluzioni crittografiche personalizzate",
+        "s1": "costruite",
+        "s2": "per la tua",
+        "s3": "azienda"
+      },
+      "intro": "Elchai offre soluzioni complete di sviluppo di monete e token progettate per una gestione sicura, conforme ed efficiente delle criptovalute. Dal lancio di ICO alla tokenizzazione degli asset, consentiamo alla tua azienda di integrare valute digitali senza problemi.",
+      "content": {
+        "title": "Sviluppo di <span>monete crittografiche</span>",
+        "subtitle": "Soluzioni per il lancio di ICO e IDO",
+        "description": "Assistiamo le aziende nella pianificazione, sviluppo e lancio di campagne ICO e IDO sicure. I nostri esperti garantiscono conformità normativa, robusta sicurezza e strategie di marketing efficaci, aiutandoti ad attrarre investitori e raccogliere capitale in modo efficace.",
+        "footer": {
+          "t1": "Tokenizzazione di asset",
+          "t2": "Sviluppo di stablecoin e security token",
+          "d1": "Converti asset tradizionali come immobili, arte o materie prime in token digitali basati su blockchain. La tokenizzazione migliora la liquidità, facilita la proprietà frazionata e fornisce una gestione trasparente e sicura di asset preziosi.",
+          "d2": "Sviluppiamo criptovalute sicure e stabili ancorate a valute fiat o materie prime, ideali per ridurre la volatilità. Inoltre, i nostri security token soddisfano i requisiti normativi, fornendo strumenti di investimento sicuri, conformi e trasparenti."
+        }
+      },
+      "cta": "Prenota un incontro per sviluppare la tua moneta o token"
+    },
+    "cryptoWallet": {
+      "title": "Sviluppo di wallet crittografici",
+      "slug": "sviluppo-wallet-crittografici",
+      "description": {
+        "p": "Fornisci un'archiviazione sicura e una gestione fluida degli asset digitali attraverso wallet crittografici costruiti su misura per aziende e utenti finali.",
+        "items": [
+          "Soluzioni per wallet hot e cold",
+          "Wallet centralizzati e decentralizzati",
+          "Sviluppo di wallet multicurrency"
+        ]
+      },
+      "hero": {
+        "strong": "Proteggi i tuoi asset digitali",
+        "s1": "con",
+        "s2": "wallet",
+        "s3": "avanzati"
+      },
+      "intro": "Elchai progetta e sviluppa wallet crittografici avanzati che offrono sicurezza senza pari e una gestione fluida degli asset. Le nostre soluzioni di wallet includono wallet hot, cold, centralizzati, decentralizzati e multicurrency, adattati alle esigenze degli utenti.",
+      "content": {
+        "title": "Sviluppo di wallet <span>crittografici</span>",
+        "subtitle": "Soluzioni di wallet sicure",
+        "description": "Costruiamo wallet crittografici leader del settore con crittografia multistrato, gestione sicura delle chiavi e audit di sicurezza regolari. Proteggi i tuoi asset da attacchi informatici e furti, garantendo al contempo un facile accesso e usabilità.",
+        "footer": {
+          "t1": "Wallet centralizzati e decentralizzati",
+          "t2": "Integrazione multicurrency",
+          "d1": "Scegli tra wallet centralizzati con robusti servizi di custodia o wallet decentralizzati che danno il pieno controllo direttamente agli utenti. Le nostre soluzioni decentralizzate privilegiano l'autonomia, la privacy e la sicurezza degli utenti.",
+          "d2": "I nostri wallet supportano un'ampia gamma di criptovalute, garantendo una gestione senza sforzo e transazioni fluide attraverso molteplici reti blockchain da un'unica piattaforma sicura."
+        }
+      },
+      "cta": "Prenota un incontro per lo sviluppo di wallet crittografici personalizzati"
+    },
+    "aiDevelopment": {
+      "title": "Servizi di sviluppo di intelligenza artificiale",
+      "slug": "servizi-sviluppo-intelligenza-artificiale",
+      "description": {
+        "p": "Incorpora potenti soluzioni guidate dall'intelligenza artificiale per decisioni più intelligenti, operazioni ottimizzate e automazione intelligente.",
+        "items": [
+          "Apprendimento automatico e analisi predittiva",
+          "Sviluppo di intelligenza artificiale generativa",
+          "Automazione dei processi robotici (RPA)",
+          "Soluzioni e integrazioni di intelligenza artificiale personalizzate"
+        ]
+      },
+      "hero": {
+        "strong": "Potenziare le aziende attraverso",
+        "s1": "soluzioni di",
+        "s2": "intelligenza artificiale",
+        "s3": "intelligenti"
+      },
+      "intro": "Elchai sfrutta l'intelligenza artificiale per ottimizzare le tue operazioni, migliorare il processo decisionale e guidare l'innovazione. Le nostre soluzioni di intelligenza artificiale personalizzate consentono automazione intelligente, approfondimenti predittivi e crescita basata sui dati.",
+      "content": {
+        "title": "Servizi di sviluppo di <span>intelligenza artificiale</span>",
+        "subtitle": "Apprendimento automatico e analisi predittiva",
+        "description": "Le nostre soluzioni di apprendimento automatico analizzano vasti set di dati per fornire approfondimenti utilizzabili, aiutandoti a prevedere tendenze, migliorare l'efficienza e prendere decisioni strategiche aziendali con sicurezza.",
+        "footer": {
+          "t1": "Intelligenza artificiale generativa e automazione",
+          "t2": "Integrazioni di intelligenza artificiale personalizzate",
+          "d1": "Automatizza i processi aziendali con l'intelligenza artificiale generativa, ottimizzando la creazione di contenuti, le interazioni con i clienti e le attività di routine. Le nostre soluzioni di automazione aumentano la produttività e l'efficienza operativa in tutta la tua organizzazione.",
+          "d2": "Integriamo tecnologie avanzate di intelligenza artificiale senza problemi all'interno della tua infrastruttura esistente, migliorando i flussi di lavoro, la gestione dei dati e l'intelligenza aziendale per dare alla tua organizzazione un vantaggio competitivo."
+        }
+      },
+      "cta": "Prenota un incontro per soluzioni aziendali guidate dall'intelligenza artificiale"
+    },
+    "decentralizedIdentifiers": {
+      "title": "Identificatori decentralizzati (DID)",
+      "slug": "identificatori-decentralizzati-did",
+      "description": {
+        "p": "Potenzia una gestione dell'identità sicura e decentralizzata, dando agli utenti il controllo delle loro identità digitali senza compromettere la sicurezza.",
+        "items": [
+          "Gestione dell'identità decentralizzata",
+          "DID basati su blockchain",
+          "Verifica e autenticazione dell'identità"
+        ]
+      },
+      "hero": {
+        "strong": "Identità digitali sicure",
+        "s1": "con",
+        "s2": "soluzioni",
+        "s3": "decentralizzate"
+      },
+      "intro": "Elchai consente identità digitali sicure e controllate dagli utenti attraverso identificatori decentralizzati (DID), potenziando gli individui con privacy e una gestione dell'identità fluida utilizzando la tecnologia blockchain.",
+      "content": {
+        "title": "Identificatori decentralizzati <span>(DID)</span>",
+        "subtitle": "Gestione dell'identità decentralizzata",
+        "description": "Le nostre soluzioni decentralizzate danno agli utenti la completa proprietà e controllo delle loro identità digitali, migliorando privacy, sicurezza e fiducia attraverso piattaforme e transazioni digitali.",
+        "footer": {
+          "t1": "Autenticazione basata su blockchain",
+          "t2": "Privacy degli utenti e conformità",
+          "d1": "Implementa sistemi di autenticazione basati su blockchain che verificano le identità in modo sicuro e trasparente, riducendo le frodi e aumentando la fiducia per aziende e consumatori.",
+          "d2": "Forniamo soluzioni DID che garantiscono la conformità con le normative globali sulla privacy (es. GDPR), consentendo alle aziende di gestire in modo sicuro i processi di verifica dell'identità senza compromettere la privacy degli utenti."
+        }
+      },
+      "cta": "Prenota un incontro per soluzioni di identità decentralizzate"
+    },
+    "cbdc": {
+      "title": "Valute digitali delle banche centrali (CBDC)",
+      "slug": "valute-digitali-banche-centrali-cbdc",
+      "description": {
+        "p": "Supporta le banche centrali e le istituzioni finanziarie con soluzioni di valuta digitale sicure ed efficienti utilizzando la tecnologia blockchain avanzata.",
+        "items": [
+          "Sviluppo dell'infrastruttura CBDC",
+          "Piattaforme di gestione delle valute digitali",
+          "Soluzioni CBDC sicure e conformi"
+        ]
+      },
+      "hero": {
+        "strong": "Innovative e",
+        "s1": "conformi",
+        "s2": "soluzioni",
+        "s3": "CBDC"
+      },
+      "intro": "Elchai supporta le istituzioni finanziarie con soluzioni di valuta digitale delle banche centrali sicure, efficienti e conformi. Dall'emissione alla gestione, le nostre piattaforme garantiscono un'integrazione fluida e una sicurezza robusta.",
+      "content": {
+        "title": "Valute digitali delle banche centrali <span>(CBDC)</span>",
+        "subtitle": "Sviluppo dell'infrastruttura CBDC",
+        "description": "Sviluppiamo piattaforme CBDC basate su blockchain avanzate che garantiscono un'emissione di valuta sicura, transazioni trasparenti e una gestione efficiente allineata agli standard normativi.",
+        "footer": {
+          "t1": "Piattaforme di transazione sicure",
+          "t2": "Conformità normativa e gestione",
+          "d1": "Forniamo piattaforme sicure e trasparenti che facilitano transazioni CBDC fluide, supportando la stabilità finanziaria, una tracciabilità migliorata e una maggiore fiducia pubblica.",
+          "d2": "Le nostre soluzioni garantiscono la piena conformità con le normative finanziarie pertinenti, consentendo alle banche centrali di gestire con sicurezza le valute digitali all'interno dei quadri monetari esistenti."
+        }
+      },
+      "cta": "Prenota un incontro per lo sviluppo di CBDC"
+    },
+    "defiCefi": {
+      "title": "Soluzioni DeFi/CeFi/CeDeFi",
+      "slug": "soluzioni-defi-cefi-cedefi",
+      "description": {
+        "p": "Offri soluzioni finanziarie decentralizzate e ibride rivoluzionarie che collegano in modo efficace e sicuro la finanza tradizionale e digitale.",
+        "items": [
+          "Piattaforme di finanza decentralizzata (DeFi)",
+          "Integrazione della finanza centralizzata (CeFi)",
+          "Soluzioni ibride CeDeFi",
+          "Soluzioni di prestito crittografico e P2P"
+        ]
+      },
+      "hero": {
+        "strong": "Collegare la finanza",
+        "s1": "e",
+        "s2": "decentralizzata",
+        "s3": "tradizionale"
+      },
+      "intro": "Elchai fornisce soluzioni complete di finanza decentralizzata (DeFi), finanza centralizzata (CeFi) e ibrida (CeDeFi), consentendo alle aziende di beneficiare dei vantaggi della blockchain mantenendo facilità d'uso e conformità normativa.",
+      "content": {
+        "title": "Soluzioni <span>DeFi/CeFi/CeDeFi</span>",
+        "subtitle": "Finanza decentralizzata (DeFi)",
+        "description": "Costruiamo piattaforme decentralizzate trasparenti e sicure per il prestito peer-to-peer, il yield farming, gli scambi decentralizzati (DEX) e i market maker automatici (AMM), rivoluzionando le operazioni finanziarie tradizionali.",
+        "footer": {
+          "t1": "Integrazione della finanza centralizzata (CeFi)",
+          "t2": "Soluzioni ibride CeDeFi",
+          "d1": "Integriamo la tecnologia blockchain nei sistemi finanziari centralizzati tradizionali senza problemi, migliorando l'efficienza operativa, la sicurezza e l'accessibilità per gli utenti abituati ai prodotti finanziari convenzionali.",
+          "d2": "Le nostre piattaforme ibride CeDeFi innovative combinano la trasparenza e l'efficienza decentralizzata con l'usabilità, la conformità e la familiarità centralizzata, creando un ecosistema finanziario equilibrato e user-friendly."
+        }
+      },
+      "cta": "Prenota un incontro per le tue soluzioni finanziarie"
+    }
+  },
+  "CONTACT": {
+    "hero": {
+      "titleBold": "Contattaci",
+      "titleRest": "Elchai"
+    },
+    "intro": {
+      "quote": "Da soli possiamo fare così poco; insieme possiamo fare così tanto",
+      "message": "In Elchai, crediamo nel potere della collaborazione. Che tu stia cercando di innovare nel metaverso, esplorare le possibilità della blockchain o semplicemente voglia discutere delle tue idee di trasformazione digitale, il nostro team è pronto a connettersi, ascoltare e aiutarti a raggiungere il successo."
+    },
+    "collaboration": {
+      "heading": "Collaboriamo",
+      "headingSpan": "Insieme",
+      "text": "Invitiamo visionari, innovatori e aziende a collaborare con noi per plasmare il futuro dell'innovazione digitale. Dalle esperienze nel metaverso alle soluzioni blockchain, esploriamo insieme il potenziale del tuo progetto.",
+      "support": "Supporto",
+      "call": "Chiamaci",
+      "email": "Scrivici",
+      "website": "Sito web",
+      "stayConnected": "Resta in contatto con noi per le ultime notizie, aggiornamenti e approfondimenti"
+    },
+    "form": {
+      "heading": "Compila il modulo qui sotto e il nostro team ti contatterà",
+      "name": "Nome",
+      "email": "Indirizzo email",
+      "phone": "Numero di telefono",
+      "company": "Azienda",
+      "message": "Descrizione del progetto / Messaggio",
+      "submit": "Invia qui"
+    },
+    "cta": {
+      "title": "Pronto a discutere",
+      "titleSpan": "del tuo progetto",
+      "text": "Contattaci oggi stesso e insieme sbloccheremo il pieno potenziale della tua visione digitale",
+      "button": "Prenota il tuo incontro ora"
+    }
+  },
+  "MENU": {
+    "home": "Home",
+    "contact": {
+      "email": "Email",
+      "phone": "Telefono",
+      "address": "Indirizzo"
+    },
+    "resources": {
+      "faq": "Domande frequenti",
+      "communityRules": "Regole della community",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfUse": "Termini di utilizzo",
+      "supportCenter": "Centro di supporto"
+    },
+    "about": {
+      "aboutUs": "Chi siamo",
+      "ourTeam": "Il nostro team",
+      "elchaiGuides": "Guide Elchai",
+      "caseStudies": "Casi di studio",
+      "techStack": "Stack tecnologico"
+    },
+    "footer": {
+      "about": "Chi siamo",
+      "services": "Servizi",
+      "resources": "Risorse",
+      "contact": "Contattaci",
+      "copyright": "Tutti i diritti riservati"
+    }
+  },
+  "CASESTUDIES": {
+    "title": "",
+    "description": "Scopri come le soluzioni innovative di Elchai in blockchain, metaverso e tecnologie avanzate hanno potenziato aziende a livello globale. Ogni caso di studio dimostra la nostra capacità di ottenere risultati tangibili, ottimizzare i processi aziendali e creare esperienze digitali straordinarie.",
+    "hero": {
+      "t1": "Storie di successo",
+      "t2": "Alimentate dall'",
+      "t3": "Innovazione"
+    },
+    "details": {
+      "hero": {
+        "t1": "Casi",
+        "t2": "di studio"
+      },
+      "stack": "Stack tecnologico",
+      "card": {
+        "title": "Rimani all'avanguardia nel <span>mondo digitale</span>",
+        "description": "Iscriviti alle Guide Elchai per ricevere approfondimenti continui, consigli esperti e le ultime tendenze direttamente nella tua casella di posta.",
+        "cta": "Iscriviti ora"
+      }
+    },
+    "tarality": {
+      "title": "Tarality",
+      "subtitle": "Ecosistema crittografico completo e piattaforma di scambio",
+      "description": "Tarality offre un robusto ecosistema blockchain che include scambio di criptovalute, trading, soluzioni di investimento e servizi bancari crittografici. Scopri come Elchai ha sviluppato un'infrastruttura crittografica sicura, conforme e versatile, rafforzando la posizione di Tarality nel mercato globale della blockchain.",
+      "content": {
+        "heading": "Ecosistema crittografico completo e piattaforma di scambio",
+        "overview": "Tarality mirava a fornire un ecosistema crittografico completo con funzionalità di trading, investimento e banca crittografica, alimentato dalla sua criptovaluta nativa, Taral.",
+        "challenges": "Elchai ha progettato un'infrastruttura blockchain sicura e scalabile che consente trading fluido, gestione sicura degli asset e integrazioni bancarie crittografiche conformi.",
+        "results": "Il lancio di successo dell'ecosistema crittografico di Tarality ha portato a un aumento dell'adozione sul mercato, un'esperienza utente ottimizzata e una maggiore fiducia nel marchio tra gli investitori globali."
+      },
+      "action": "Visualizza il caso di studio",
+      "actioninner": "Prenota un incontro per sviluppare il tuo progetto crittografico"
+    },
+    "blyncc": {
+      "title": "Blyncc",
+      "subtitle": "Soluzione di pagamento B2B avanzata basata su blockchain",
+      "description": "Blyncc ha rivoluzionato i pagamenti transfrontalieri implementando la tecnologia blockchain sicura di Elchai, risultando in transazioni B2B istantanee, trasparenti ed economiche. Scopri come abbiamo migliorato le interazioni finanziarie globali attraverso l'innovazione decentralizzata.",
+      "content": {
+        "heading": "Pagamenti B2B transfrontalieri basati su blockchain",
+        "overview": "Blyncc mirava a trasformare i tradizionali pagamenti B2B transfrontalieri, rendendoli più veloci, trasparenti e sicuri attraverso la tecnologia blockchain.",
+        "challenges": "Elchai ha sviluppato una piattaforma di pagamento decentralizzata con sicurezza blockchain integrata, riducendo significativamente le commissioni e i ritardi delle transazioni.",
+        "results": "Una maggiore trasparenza dei pagamenti, una velocità di transazione aumentata e notevoli risparmi sui costi hanno reso Blyncc una scelta preferita per le aziende B2B globali."
+      },
+      "action": "Visualizza il caso di studio",
+      "actioninner": "Prenota un incontro per trasformare le tue soluzioni di pagamento"
+    },
+    "bbEstate": {
+      "title": "BB-Estate",
+      "subtitle": "Trasformare il settore immobiliare attraverso la tokenizzazione",
+      "description": "BB-Estate ha collaborato con Elchai per tokenizzare gli asset immobiliari, consentendo proprietà frazionata, liquidità e trasparenza negli investimenti immobiliari. Scopri come abbiamo reso il settore immobiliare più accessibile e attraente per gli investitori globali.",
+      "content": {
+        "heading": "Digitalizzazione degli investimenti immobiliari attraverso la tokenizzazione",
+        "overview": "BB-Estate cercava soluzioni innovative per migliorare liquidità, accessibilità e trasparenza negli investimenti immobiliari.",
+        "challenges": "Elchai ha sviluppato la tokenizzazione immobiliare basata su blockchain, consentendo investimenti frazionati e una gestione sicura dei token di proprietà digitali.",
+        "results": "Una maggiore liquidità, accessibilità per gli investitori globali e una gestione sicura e trasparente degli asset hanno migliorato significativamente il portafoglio di investimenti immobiliari di BB-Estate."
+      },
+      "action": "Visualizza il caso di studio",
+      "actioninner": "Prenota un incontro per la tokenizzazione immobiliare"
+    },
+    "cryptoEtrade": {
+      "title": "Crypto eTrade",
+      "subtitle": "Trasformazione digitale basata su blockchain per le PMI",
+      "description": "Crypto eTrade consente alle piccole e medie imprese (PMI) di abbracciare la trasformazione digitale tramite blockchain. Elchai ha sviluppato soluzioni che facilitano la tokenizzazione degli asset, migliorano la trasparenza operativa e creano opportunità di crescita per le PMI in tutto il mondo.",
+      "content": {
+        "heading": "Potenziare le PMI con l'innovazione blockchain",
+        "overview": "Crypto eTrade mirava ad assistere le PMI nella loro trasformazione digitale, utilizzando la tecnologia blockchain per tokenizzare gli asset e aumentare la trasparenza.",
+        "challenges": "Elchai ha fornito soluzioni blockchain che hanno permesso una tokenizzazione degli asset fluida e un monitoraggio sicuro e trasparente per le PMI a livello globale.",
+        "results": "Una maggiore trasparenza, efficienza operativa e prontezza digitale hanno permesso a numerose PMI di prosperare nell'economia digitale."
+      },
+      "action": "Visualizza il caso di studio",
+      "actioninner": "Prenota un incontro per digitalizzare la tua azienda"
+    },
+    "fintex": {
+      "title": "Fintex",
+      "subtitle": "Sviluppo di wallet crittografici multi-catena sicuri",
+      "description": "Fintex è un wallet crittografico multi-catena sicuro che consente agli utenti di archiviare, gestire ed effettuare transazioni su varie criptovalute senza problemi. Lo sviluppo esperto di wallet di Elchai ha garantito sicurezza, facilità d'uso e prestazioni robuste, migliorando la competitività di Fintex nel mercato.",
+      "content": {
+        "heading": "Protezione degli asset digitali con wallet multi-catena",
+        "overview": "Fintex richiedeva wallet sicuri e facili da usare che supportassero più blockchain per una gestione efficace delle criptovalute.",
+        "challenges": "Elchai ha sviluppato soluzioni di wallet avanzate che incorporano misure di sicurezza robuste, integrazione multi-catena fluida e design UI/UX intuitivi.",
+        "results": "Una significativa crescita nell'adozione degli utenti, una maggiore fiducia degli utenti e un'esperienza utente migliorata hanno elevato la posizione di Fintex nel mercato dei wallet crittografici."
+      },
+      "action": "Visualizza il caso di studio",
+      "actioninner": "Prenota un incontro per lo sviluppo di wallet crittografici"
+    },
+    "flexcube": {
+      "title": "Flexcube",
+      "subtitle": "Esperienze AR immersive per l'engagement sportivo",
+      "description": "Flexcube ha sfruttato l'expertise di Elchai in realtà aumentata (AR) per creare esperienze sportive coinvolgenti e immersive. Scopri come le nostre soluzioni AR hanno potenziato l'engagement dei fan, la fedeltà e l'interazione nelle comunità sportive.",
+      "content": {
+        "heading": "Innovazione AR che migliora le esperienze dei fan sportivi",
+        "overview": "Flexcube mirava a costruire esperienze per i fan immersive attraverso interazioni innovative basate su realtà aumentata.",
+        "challenges": "Elchai ha fornito una piattaforma AR personalizzabile, creando engagement dei fan in tempo reale, contenuti interattivi ed esperienze sportive immersive.",
+        "results": "Un maggiore engagement dei fan, fedeltà e visibilità del marchio hanno posizionato Flexcube come leader innovatore nell'intrattenimento sportivo guidato dalla realtà aumentata."
+      },
+      "action": "Visualizza il caso di studio",
+      "actioninner": "Prenota un incontro per soluzioni di sviluppo AR"
+    }
+  },
+  "TECHSTACK": {
+    "title": "Sfruttare tecnologie all'avanguardia",
+    "h2": "per costruire il domani",
+    "description": "In Elchai, l'innovazione continua guida il nostro successo. Sfruttiamo un'ampia gamma di linguaggi di programmazione moderni, piattaforme blockchain, framework di sviluppo e tecnologie cloud per offrire soluzioni digitali senza pari, garantendo che i nostri clienti rimangano sempre all'avanguardia in un panorama tecnologico in rapida evoluzione.",
+    "items": {
+      "blockchain": {
+        "title": "Piattaforme blockchain",
+        "description": "Costruiamo soluzioni blockchain robuste, sicure e scalabili utilizzando piattaforme blockchain leader del settore che garantiscono sicurezza, decentramento e prestazioni ottimali:"
+      },
+      "languages": {
+        "title": "Linguaggi di programmazione e framework",
+        "description": "Il nostro team di sviluppatori qualificati utilizza linguaggi di programmazione e framework potenti e versatili per creare applicazioni reattive, efficienti e scalabili:"
+      },
+      "metaverse": {
+        "title": "Strumenti di sviluppo per metaverso, AR, VR, MR e 3D",
+        "description": "Utilizziamo gli strumenti e i software più recenti per creare esperienze metaversali e 3D immersive, interattive e di alta qualità, spingendo i confini dell'interazione digitale:"
+      },
+      "ai": {
+        "title": "Intelligenza artificiale e apprendimento automatico",
+        "description": "I nostri esperti di intelligenza artificiale sfruttano framework e piattaforme leader del settore, garantendo automazione intelligente, analisi predittive e soluzioni AI di nuova generazione:"
+      },
+      "iot": {
+        "title": "Tecnologie e piattaforme IoT",
+        "description": "Elchai integra soluzioni IoT avanzate per connettere dispositivi senza soluzione di continuità, migliorare la raccolta dati e guidare ecosistemi intelligenti e connessi:"
+      },
+      "cloud": {
+        "title": "Tecnologie cloud e DevOps",
+        "description": "I nostri ingegneri cloud ed esperti DevOps garantiscono soluzioni scalabili, sicure e ad alte prestazioni, utilizzando strumenti cloud e DevOps leader:"
+      },
+      "security": {
+        "title": "Sicurezza e conformità",
+        "description": "La sicurezza rimane la nostra priorità in ogni soluzione che sviluppiamo. Utilizziamo framework di sicurezza avanzati e pratiche di conformità:"
+      }
+    },
+    "footer": {
+      "title": "Apprendimento continuo <span>ed innovazione</span>",
+      "description": "In Elchai, diamo priorità all'apprendimento continuo e al miglioramento delle competenze. Il nostro team partecipa attivamente a corsi di formazione, workshop e certificazioni, garantendo che sfruttiamo sempre le tecnologie più innovative e rimaniamo all'avanguardia in settori in rapida evoluzione.",
+      "footerCard": {
+        "title": "Pronto a sfruttare <span>la nostra esperienza?</span>",
+        "description": "Scopri come il nostro stack tecnologico avanzato può potenziare il tuo prossimo progetto digitale. Pianifica una consulenza con gli esperti di Elchai oggi stesso.",
+        "link": "Prenota il tuo incontro ora"
+      }
+    }
+  },
+  "PRIVACYPOLICY": {
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Ultimo aggiornamento: [Insert Date]",
+    "intro": "Elchai (\"noi\", \"ci\" o \"nostro\") valuta la tua privacy ed è impegnata a proteggere le tue informazioni personali. Questa Informativa sulla privacy descrive come raccogliamo, utilizziamo e proteggiamo i tuoi dati quando visiti il nostro sito web o utilizzi i nostri servizi.",
+    "sections": {
+      "infoCollected": {
+        "title": "1. Informazioni raccolte",
+        "description": "Possiamo raccogliere i seguenti tipi di informazioni:",
+        "personal": {
+          "title": "Informazioni personali:",
+          "items": [
+            "Nome",
+            "Indirizzo email",
+            "Numero di contatto",
+            "Dettagli aziendali (se forniti)"
+          ]
         },
+        "usage": {
+          "title": "Informazioni sull'utilizzo:",
+          "items": [
+            "Tipo e versione del browser",
+            "Tipo di dispositivo",
+            "Indirizzo IP",
+            "Pagine visitate sul nostro sito web",
+            "Data e ora delle visite"
+          ]
+        },
+        "voluntary": {
+          "title": "Informazioni fornite volontariamente:",
+          "items": [
+            "Dati inviati tramite moduli di contatto o iscrizioni.",
+            "Informazioni fornite durante richieste, richieste di supporto o feedback."
+          ]
+        }
+      },
+      "usage": {
+        "title": "2. Come vengono utilizzati i dati",
+        "description": "Utilizziamo le informazioni raccolte per:",
+        "items": [
+          "Fornire e migliorare i nostri servizi.",
+          "Rispondere alle tue richieste e alle richieste di assistenza clienti.",
+          "Comunicare aggiornamenti, notizie, materiali promozionali o altre informazioni a cui hai aderito.",
+          "Analizzare l'utilizzo del sito web per migliorare l'esperienza utente.",
+          "Garantire la conformità alle leggi e regolamenti applicabili."
+        ]
+      },
+      "cookies": {
+        "title": "3. Cookie e tecnologie di tracciamento",
+        "description": "Il nostro sito web utilizza cookie e tecnologie di tracciamento simili per migliorare la tua esperienza di navigazione, analizzare il traffico del sito web e comprendere le interazioni degli utenti.",
+        "typesTitle": "Tipi di cookie che utilizziamo:",
+        "items": [
+          "Cookie necessari: Essenziali per il funzionamento del sito web.",
+          "Cookie analitici: Ci aiutano a comprendere le interazioni degli utenti per migliorare il nostro sito web.",
+          "Cookie di preferenza: Ricordano le tue impostazioni e preferenze."
+        ],
+        "note": "Puoi controllare le impostazioni dei cookie attraverso le preferenze del tuo browser. La disabilitazione dei cookie potrebbe influire sulla tua esperienza utente."
+      },
+      "rights": {
+        "title": "4. Diritti dell'utente",
+        "description": "Hai i seguenti diritti riguardo ai tuoi dati:",
+        "items": [
+          "Accesso: Richiedere l'accesso ai tuoi dati personali.",
+          "Rettifica: Richiedere la correzione di dati inaccurati o incompleti.",
+          "Cancellazione: Richiedere la cancellazione dei tuoi dati personali.",
+          "Opposizione: Opporsi al trattamento o all'uso dei tuoi dati.",
+          "Revoca: Revocare il tuo consenso al trattamento dei dati in qualsiasi momento."
+        ],
+        "note": "Per esercitare uno di questi diritti, contattaci all'indirizzo [privacy@elchaigroup.com]."
+      },
+      "retention": {
+        "title": "5. Conservazione dei dati",
+        "description": "Conserviamo le tue informazioni personali solo per il tempo necessario a fornire i nostri servizi o ad adempiere agli scopi descritti in questa informativa. Inoltre, potremmo conservare e utilizzare le tue informazioni per rispettare obblighi legali, risolvere controversie o far rispettare accordi."
+      },
+      "security": {
+        "title": "6. Sicurezza dei tuoi dati",
+        "description": "Implementiamo misure di sicurezza robuste progettate per proteggere le tue informazioni personali da accessi non autorizzati, divulgazione, alterazione o distruzione. Aggiorniamo regolarmente i nostri protocolli di sicurezza per garantire la conformità agli standard del settore."
+      },
+      "thirdParty": {
+        "title": "7. Link a terze parti",
+        "description": "Il nostro sito web potrebbe includere link a siti esterni non gestiti da noi. Non siamo responsabili delle pratiche sulla privacy di terze parti. Ti consigliamo di rivedere le informative sulla privacy di qualsiasi sito web esterno che visiti."
+      },
+      "changes": {
+        "title": "8. Modifiche a questa Informativa sulla privacy",
+        "description": "Ci riserviamo il diritto di aggiornare o modificare questa Informativa sulla privacy in qualsiasi momento. Ti informeremo di modifiche significative tramite email o pubblicando un avviso ben visibile sul nostro sito web. Ti incoraggiamo a rivedere regolarmente questa informativa per le ultime informazioni sulle nostre pratiche di privacy."
+      },
+      "contact": {
+        "title": "9. Contatti per domande sulla privacy",
+        "description": "Se hai domande, preoccupazioni o richieste riguardanti la nostra Informativa sulla privacy o la gestione dei tuoi dati, contattaci all'indirizzo:",
+        "email": "info@elchaigroup.com",
+        "address": "[Insert Elchai’s Official Business Address]"
+      }
+    }
+  },
+  "COMMUNITYRULES": {
+    "title": "Regole e linee guida della community Elchai",
+    "intro": "Benvenuto nella vivace community di Elchai! Incoraggiamo la collaborazione, la creatività e le interazioni rispettose tra i membri della nostra community. Ti invitiamo a familiarizzare con le nostre linee guida della community qui sotto.",
+    "sections": {
+      "positive": {
+        "title": "Interazione positiva e rispetto",
+        "description": "Valutiamo un ambiente inclusivo e accogliente per tutti. Quando interagisci all'interno della nostra community:",
+        "list": [
+          "Tratta gli altri con gentilezza, rispetto e cortesia.",
+          "Promuovi conversazioni e feedback costruttivi.",
+          "Accogli e supporta i nuovi membri.",
+          "Incoraggia la diversità, la tolleranza e l'inclusione.",
+          "Rispetta la proprietà intellettuale e i diritti d'autore."
+        ]
+      },
+      "prohibited": {
+        "title": "Comportamenti proibiti",
+        "description": "Per mantenere una community sicura e sana, i seguenti comportamenti sono rigorosamente vietati:",
+        "list": [
+          "Molestie, bullismo, minacce o linguaggio offensivo.",
+          "Discriminazione basata su razza, etnia, identità di genere, orientamento sessuale, religione, disabilità, età o nazionalità.",
+          "Spam o inondazione dei canali con contenuti irrilevanti o pubblicità.",
+          "Condivisione di materiali inappropriati o offensivi (ad esempio, contenuti espliciti, violenza, discorsi d'odio).",
+          "Tentativi di interrompere, hackerare o sfruttare le piattaforme della community.",
+          "Falsa rappresentazione, impersonificazione o pratiche ingannevoli."
+        ],
+        "note": "La violazione di queste linee guida può comportare avvertimenti, sospensione o rimozione permanente dalla community."
+      },
+      "moderation": {
+        "title": "Politiche di moderazione",
+        "description": "I nostri moderatori della community lavorano diligentemente per garantire un ambiente rispettoso:",
+        "list": [
+          "I moderatori possono modificare, rimuovere o bloccare post o discussioni che violano le linee guida.",
+          "I moderatori possono emettere avvertimenti per violazioni minori ed escalare a sospensioni o ban per infrazioni ripetute o gravi.",
+          "Le decisioni prese dai moderatori sono definitive; tuttavia, puoi appellarti rispettosamente o richiedere chiarimenti sulle decisioni di moderazione contattandoci direttamente."
+        ]
+      },
+      "reporting": {
+        "title": "Come segnalare problemi",
+        "description": "Se assisti a comportamenti inappropriati, violazioni o hai preoccupazioni per la sicurezza:",
+        "list": [
+          "Segnala immediatamente il problema al nostro team di moderazione o ai gestori della community.",
+          "Fornisci dettagli chiari e screenshot (se possibile) dell'incidente.",
+          "Segnala tramite messaggi diretti ai moderatori o via email a"
+        ],
+        "note": "Prendiamo tutte le segnalazioni seriamente e indagheremo prontamente,采取适当措施。"
+      }
+    }
+  },
+  "GUIDES": {
+    "title": "<strong>Esplora, impara e padroneggia</strong> il futuro dell'innovazione digitale",
+    "description": "Elchai è un team di sviluppatori dedicati specializzati in intelligenza artificiale, metaverso, blockchain e tecnologie Web3, appassionati nel creare soluzioni digitali straordinarie e intelligenti che ridefiniscono ciò che è possibile.",
+    "footerCard": {
+      "title": "Rimani all'avanguardia nel <span>mondo digitale</span>",
+      "description": "Iscriviti alle Guide Elchai per ricevere approfondimenti continui, consigli esperti e le ultime tendenze direttamente nella tua casella di posta.",
+      "link": "Iscriviti ora"
+    },
+    "items": {
+      "beginners-guide-to-the-metaverse": {
+        "title": "Guida per principianti al metaverso",
+        "description": "Comprendi le basi del metaverso, il suo potenziale e come entrare e prosperare in questo universo digitale in evoluzione.",
+        "image": "/images/beginners-guide-to-the-metaverse.webp",
+        "content": {
+          "intro": "Il termine metaverso è sempre più popolare, ma cosa significa esattamente? In parole semplici, il metaverso è uno spazio virtuale condiviso collettivo, una convergenza di realtà fisica migliorata virtualmente e ambienti virtuali persistenti. Pensalo come la prossima evoluzione di Internet, dove gli utenti interagiscono in mondi digitali 3D immersivi utilizzando avatar personalizzati.",
+          "whyCare": {
+            "heading": "Perché dovresti interessarti al metaverso?",
+            "text": "Il metaverso offre possibilità infinite: riunioni virtuali, eventi digitali, gaming, immobiliare, applicazioni aziendali, istruzione e molto altro. Rappresenta una frontiera entusiasmante per creatori, investitori e aziende."
+          },
+          "gettingStarted": {
+            "heading": "Come iniziare nel metaverso:",
+            "platform": "<strong>Scegli la tua piattaforma:</strong> Opzioni popolari includono Decentraland, Sandbox, Meta Horizon Worlds e altre.",
+            "avatar": "<strong>Crea il tuo avatar:</strong> Personalizza la tua identità digitale ed esprimiti in modo unico.",
+            "explore": "<strong>Esplora e interagisci:</strong> Partecipa a eventi virtuali, esplora terreni digitali, connettiti socialmente e persino acquista immobili virtuali."
+          },
+          "business": {
+            "heading": "Opportunità di business nel metaverso:",
+            "text": "Aziende in tutto il mondo stanno già sfruttando il metaverso per creare esperienze di marca immersive, vetrine virtuali e prodotti digitali."
+          },
+          "invest": {
+            "heading": "Investire nel metaverso:",
+            "realEstate": "<strong>Immobili virtuali:</strong> Lotti di terreno digitali e proprietà virtuali offrono opportunità di investimento redditizie.",
+            "collectibles": "<strong>Collezionabili Digitali:</strong> Investi in oggetti digitali unici, come arte virtuale o asset di gioco, scambiati come NFT.",
+            "nfts": "<strong>NFT (Token Non Fungibili):</strong> Compra, vendi e crea asset digitali unici all'interno del metaverso."
+          },
+          "conclusion": {
+            "heading": "Conclusione:",
+            "text": "Il metaverso non è solo un concetto: è una realtà in crescita che ridefinirà come viviamo, lavoriamo e interagiamo. Abbraccialo ora e posizionati all'avanguardia dell'innovazione digitale."
+          }
+        }
+      },
+      "dubai-real-estate-tokenization-explained": {
+        "title": "Tokenizzazione immobiliare a Dubai spiegata",
+        "description": "Immergiti nel mondo della tokenizzazione immobiliare a Dubai: scopri come la blockchain sta trasformando l'investimento, la proprietà e la gestione immobiliare.",
+        "image": "/images/dubai-real-estate-tokenization-explained.webp",
+        "content": {
+          "intro": "La tokenizzazione immobiliare a Dubai consiste nel convertire i diritti di proprietà in token digitali archiviati in modo sicuro sulla tecnologia blockchain. Questa innovazione aumenta drasticamente la trasparenza, la liquidità e l'accessibilità nel mercato immobiliare.",
+          "tokenization": {
+            "heading": "Cosa è esattamente la tokenizzazione?",
+            "text": "La tokenizzazione divide la proprietà immobiliare in quote digitali più piccole, supportate da blockchain, o 'token', consentendo un acquisto, una vendita e un trading più facili, anche con capitali di investimento limitati."
+          },
+          "whyDubai": {
+            "heading": "Perché Dubai?",
+            "text": "Dubai si è affermata come leader globale nell'adozione della blockchain, creando quadri normativi che rendono la tokenizzazione immobiliare fluida e favorevole agli investitori."
+          },
+          "benefits": {
+            "heading": "Vantaggi della tokenizzazione immobiliare a Dubai:",
+            "accessibility": "<strong>Accessibilità:</strong> Barriere d'ingresso più basse, che consentono la partecipazione globale.",
+            "liquidity": "<strong>Liquidità:</strong> Acquisto, vendita o trading di token immobiliari più facile e veloce.",
+            "transparency": "<strong>Trasparenza e sicurezza:</strong> La blockchain garantisce registri immutabili, transazioni sicure e proprietà trasparente."
+          },
+          "how": {
+            "heading": "Come funziona?",
+            "step1": "Valutazione della proprietà e due diligence",
+            "step2": "Emissione di token digitali su piattaforme blockchain",
+            "step3": "Investimento in immobili tokenizzati e guadagno di rendimenti"
+          },
+          "risks": {
+            "heading": "Rischi e ricompense:",
+            "text": "Sebbene altamente vantaggiosa, gli investitori dovrebbero considerare anche la volatilità del mercato, le regolamentazioni e la conformità legale."
+          },
+          "conclusion": {
+            "heading": "Conclusione:",
+            "text": "Il mercato immobiliare di Dubai si sta trasformando attraverso la tokenizzazione, offrendo opportunità rivoluzionarie per gli investitori di tutto il mondo. La tokenizzazione sta rivoluzionando il mercato immobiliare, rendendo Dubai la destinazione definitiva per gli investimenti immobiliari digitali."
+          }
+        }
+      },
+      "setting-up-a-crypto-wallet": {
+        "title": "Configurazione di un wallet crittografico",
+        "description": "Guida passo-passo su come configurare e gestire in modo sicuro il tuo wallet crittografico, proteggendo i tuoi asset digitali.",
+        "image": "/images/setting-up-a-crypto-wallet.webp",
+        "content": {
+          "intro": "Un wallet crittografico ti consente di archiviare, gestire ed effettuare transazioni con criptovalute come Bitcoin, Ethereum e NFT in modo sicuro.",
+          "why": {
+            "heading": "Perché hai bisogno di un wallet crittografico?",
+            "storage": "Archiviazione sicura degli asset digitali.",
+            "manage": "Invia, ricevi e gestisci criptovalute facilmente.",
+            "dapps": "Interagisci con applicazioni decentralizzate (dApp)."
+          },
+          "setup": {
+            "heading": "Configurazione passo-passo:",
+            "step1": {
+              "heading": "Scegli un tipo di wallet:",
+              "hot": "<strong>Hot Wallet (Software):</strong> Accessibile online (es. MetaMask, Trust Wallet).",
+              "cold": "<strong>Cold Wallet (Hardware):</strong> Dispositivi fisici, più sicuri (es. Ledger, Trezor)."
+            },
+            "step2": {
+              "heading": "Scarica e installa:",
+              "text": "Visita il sito web ufficiale, scarica l'app/software e crea un nuovo wallet."
+            },
+            "step3": {
+              "heading": "Esegui il backup e proteggi il tuo wallet:",
+              "seed": "Annota la tua frase di recupero. Non condividerla mai con nessuno.",
+              "2fa": "Abilita l'autenticazione a due fattori (2FA) se disponibile."
+            },
+            "step4": {
+              "heading": "Finanziare il tuo wallet:",
+              "address": "Ricevi criptovalute condividendo l'indirizzo del tuo wallet.",
+              "exchange": "Acquista criptovalute tramite exchange e trasferiscile nel tuo wallet."
+            }
+          },
+          "security": {
+            "heading": "Migliori pratiche di sicurezza:",
+            "update": "Aggiorna regolarmente il software del tuo wallet.",
+            "phishing": "Fai attenzione alle truffe di phishing e ai link sospetti.",
+            "doublecheck": "Controlla sempre due volte gli indirizzi prima di inviare criptovalute."
+          },
+          "conclusion": {
+            "heading": "Conclusione:",
+            "text": "Avere un wallet crittografico sicuro è essenziale per partecipare in modo sicuro agli ecosistemi blockchain. Seguendo questi semplici passaggi, proteggerai i tuoi asset digitali mentre navighi con facilità nel mondo delle criptovalute."
+          }
+        }
+      },
+      "metaverse-integration-and-3d-space-development": {
+        "title": "Integrazione nel metaverso e sviluppo di spazi 3D",
+        "description": "Scopri le migliori pratiche per un'integrazione fluida nel metaverso, inclusi gli elementi essenziali per progettare spazi 3D immersivi e interattivi.",
+        "image": "/images/metaverse-integration-and-3d-space-development.webp",
+        "content": {
+          "intro": "Costruire spazi virtuali coinvolgenti all'interno del metaverso può trasformare le esperienze degli utenti, elevare la presenza del marchio e favorire interazioni aziendali innovative.",
+          "definition": {
+            "heading": "Cos'è l'integrazione nel metaverso?",
+            "text": "L'integrazione consiste nell'inserire la tua azienda, prodotto o evento in modo fluido in spazi virtuali accessibili da qualsiasi luogo. Questo processo include la costruzione di ambienti 3D interattivi che gli utenti possono esplorare, con cui possono interagire e che possono apprezzare."
+          },
+          "importance": {
+            "heading": "L'importanza dello sviluppo di spazi 3D:",
+            "text": "Un efficace sviluppo di spazi 3D migliora l'immersione e l'engagement degli utenti, aumentando la visibilità del marchio e creando esperienze memorabili."
+          },
+          "steps": {
+            "heading": "Passaggi per un'integrazione di successo nel metaverso:",
+            "step1": {
+              "heading": "Definisci i tuoi obiettivi:",
+              "text": "Delinea chiaramente i tuoi obiettivi: consapevolezza del marchio, costruzione della community, eventi virtuali, ecc."
+            },
+            "step2": {
+              "heading": "Seleziona la tua piattaforma metaversale:",
+              "text": "Valuta piattaforme popolari come Decentraland, The Sandbox, Spatial o soluzioni aziendali personalizzate."
+            },
+            "step3": {
+              "heading": "Progettazione del tuo spazio 3D:",
+              "text1": "Utilizza software professionali come Unity, Blender o Unreal Engine per visuals di alta qualità.",
+              "text2": "Assicurati che il tuo spazio sia allineato con l'identità del marchio e gli obiettivi di engagement degli utenti."
+            },
+            "step4": {
+              "heading": "Elementi interattivi e personalizzazione:",
+              "text": "Crea funzionalità interattive (avatar, asset digitali, eventi virtuali) per esperienze immersive."
+            },
+            "step5": {
+              "heading": "Lancio e promozione:",
+              "text": "Promuovi il tuo spazio metaversale attraverso social media, campagne mirate e partnership con influencer."
+            }
+          },
+          "useCases": {
+            "heading": "Casi d'uso pratici:",
+            "events": "Eventi virtuali e lanci di prodotti",
+            "showrooms": "Showroom digitali ed esperienze di marca immersive",
+            "realEstate": "Tour virtuali immobiliari",
+            "education": "Simulazioni per istruzione e formazione"
+          },
+          "conclusion": {
+            "heading": "Conclusione:",
+            "text": "L'integrazione nel metaverso e lo sviluppo di spazi 3D offrono straordinarie opportunità per la crescita e l'innovazione aziendale. Inizia oggi la tua trasformazione digitale e ridefinisci l'esperienza del tuo pubblico in ambienti virtuali immersivi."
+          }
+        }
+      }
+    }
+  },
+  "SUPPORT": {
+    "title": "Contatta il supporto",
+    "description": "Se riscontri problemi tecnici, hai bisogno di assistenza o hai domande sui nostri servizi, contattaci direttamente.",
+    "contact": {
+      "email": "Supporto via email",
+      "hotline": "Linea diretta di supporto: [+ (country code) (phone number)] (se applicabile)"
+    },
+    "faq": {
+      "title": "Risoluzione dei problemi e FAQ",
+      "description": "Di seguito trovi le risposte alle domande frequenti per aiutarti a risolvere rapidamente i problemi più comuni:",
+      "accordion": {
+        "1": {
+          "question": "Come accedo al mio spazio metaverso Elchai?",
+          "answer": "Accedi al tuo account universe eye tramite la nostra piattaforma utilizzando l'email e la password registrate. Vai al tuo pannello di controllo e seleziona il tuo progetto metaverso."
+        },
+        "2": {
+          "question": "Ho dimenticato la password. Come posso reimpostarla?",
+          "answer": "Clicca su 'Password dimenticata' nella pagina di login. Inserisci il tuo indirizzo email registrato e segui il link di reimpostazione inviato alla tua casella di posta."
+        },
+        "3": {
+          "question": "Come posso segnalare un problema tecnico o un bug?",
+          "answer": "Invia un ticket di supporto dettagliato descrivendo il problema, includendo screenshot e i passaggi per riprodurre l'errore."
+        },
+        "4": {
+          "question": "Come posso configurare il mio wallet crittografico o collegarlo alla piattaforma Elchai?",
+          "answer": "Segui la nostra guida dettagliata qui (link alla documentazione sul wallet crittografico), oppure contatta il supporto per assistenza passo-passo."
+        }
+      }
+    },
+    "docs": {
+      "title": "Documentazione e guide utili",
+      "description": "Esplora documentazione completa e tutorial creati dai nostri esperti:",
+      "items": [
+        "Guida per principianti al metaverso",
+        "Configurazione e protezione del tuo wallet crittografico",
+        "Integrazione del tuo marchio nel metaverso",
+        "Comprendere la tokenizzazione immobiliare"
+      ],
+      "cta": "Visualizza tutta la documentazione"
+    },
+    "response": {
+      "title": "Tempo di risposta previsto",
+      "description": "Puntiamo a rispondere a tutte le richieste di supporto rapidamente:",
+      "items": [
+        "Richieste generali: Entro 24 ore (giorni lavorativi)",
+        "Supporto tecnico: Entro 12 ore",
+        "Problemi urgenti e clienti premium: Entro 4 ore"
+      ],
+      "note": "Il nostro team di supporto dedicato opera dal lunedì al venerdì (dalle 9:00 alle 18:00, ora locale)"
+    }
+  },
+  "TERMS": {
+    "title": "Termini di utilizzo",
+    "description": "Benvenuto in Elchai Group. Accedendo o utilizzando il nostro sito web, le piattaforme metaversali, le applicazioni o altri servizi forniti (collettivamente, i “Servizi”), accetti di essere vincolato da questi Termini di utilizzo. Ti invitiamo a leggerli attentamente.",
+    "list": {
+      "1": {
+        "title": "Obblighi dell'utente",
+        "h1": "Utilizzando i Servizi di Elchai, accetti:",
         "items": {
-            "beginners-guide-to-the-metaverse": {
-                "title": "Guida per principianti al metaverso",
-                "description": "Comprendi le basi del metaverso, il suo potenziale e come entrare e prosperare in questo universo digitale in evoluzione.",
-                "image": "/images/beginners-guide-to-the-metaverse.webp",
-                "content": {
-                    "intro": "Il termine metaverso è sempre più popolare, ma cosa significa esattamente? In parole semplici, il metaverso è uno spazio virtuale condiviso collettivo, una convergenza di realtà fisica migliorata virtualmente e ambienti virtuali persistenti. Pensalo come la prossima evoluzione di Internet, dove gli utenti interagiscono in mondi digitali 3D immersivi utilizzando avatar personalizzati.",
-                    "whyCare.heading": "Perché dovresti interessarti al metaverso?",
-                    "whyCare.text": "Il metaverso offre possibilità infinite: riunioni virtuali, eventi digitali, gaming, immobiliare, applicazioni aziendali, istruzione e molto altro. Rappresenta una frontiera entusiasmante per creatori, investitori e aziende.",
-                    "gettingStarted.heading": "Come iniziare nel metaverso:",
-                    "gettingStarted.platform": "<strong>Scegli la tua piattaforma:</strong> Opzioni popolari includono Decentraland, Sandbox, Meta Horizon Worlds e altre.",
-                    "gettingStarted.avatar": "<strong>Crea il tuo avatar:</strong> Personalizza la tua identità digitale ed esprimiti in modo unico.",
-                    "gettingStarted.explore": "<strong>Esplora e interagisci:</strong> Partecipa a eventi virtuali, esplora terreni digitali, connettiti socialmente e persino acquista immobili virtuali.",
-                    "business.heading": "Opportunità di business nel metaverso:",
-                    "business.text": "Aziende in tutto il mondo stanno già sfruttando il metaverso per creare esperienze di marca immersive, vetrine virtuali e prodotti digitali.",
-                    "invest.heading": "Investire nel metaverso:",
-                    "invest.realEstate": "<strong>Immobili virtuali:</strong> Lotti di terreno digitali e proprietà virtuali offrono opportunità di investimento redditizie.",
-                    "invest.avatar": "<strong>Crea il tuo avatar:</strong> Personalizza la tua identità digitale ed esprimiti in modo unico.",
-                    "invest.nfts": "<strong>NFT (Token Non Fungibili):</strong> Compra, vendi e crea asset digitali unici all'interno del metaverso.",
-                    "conclusion.heading": "Conclusione:",
-                    "conclusion.text": "Il metaverso non è solo un concetto: è una realtà in crescita che ridefinirà come viviamo, lavoriamo e interagiamo. Abbraccialo ora e posizionati all'avanguardia dell'innovazione digitale."
-                }
-            },
-            "dubai-real-estate-tokenization-explained": {
-                "title": "Tokenizzazione immobiliare a Dubai spiegata",
-                "description": "Immergiti nel mondo della tokenizzazione immobiliare a Dubai: scopri come la blockchain sta trasformando l'investimento, la proprietà e la gestione immobiliare.",
-                "image": "/images/dubai-real-estate-tokenization-explained.webp",
-                "content": {
-                    "intro": "La tokenizzazione immobiliare a Dubai consiste nel convertire i diritti di proprietà in token digitali archiviati in modo sicuro sulla tecnologia blockchain. Questa innovazione aumenta drasticamente la trasparenza, la liquidità e l'accessibilità nel mercato immobiliare.",
-                    "tokenization.heading": "Cosa è esattamente la tokenizzazione?",
-                    "tokenization.text": "La tokenizzazione divide la proprietà immobiliare in quote digitali più piccole, supportate da blockchain, o 'token', consentendo un acquisto, una vendita e un trading più facili, anche con capitali di investimento limitati.",
-                    "whyDubai.heading": "Perché Dubai?",
-                    "whyDubai.text": "Dubai si è affermata come leader globale nell'adozione della blockchain, creando quadri normativi che rendono la tokenizzazione immobiliare fluida e favorevole agli investitori.",
-                    "benefits.heading": "Vantaggi della tokenizzazione immobiliare a Dubai:",
-                    "benefits.accessibility": "<strong>Accessibilità:</strong> Barriere d'ingresso più basse, che consentono la partecipazione globale.",
-                    "benefits.liquidity": "<strong>Liquidità:</strong> Acquisto, vendita o trading di token immobiliari più facile e veloce.",
-                    "benefits.transparency": "<strong>Trasparenza e sicurezza:</strong> La blockchain garantisce registri immutabili, transazioni sicure e proprietà trasparente.",
-                    "how.heading": "Come funziona?",
-                    "how.step1": "Valutazione della proprietà e due diligence",
-                    "how.step2": "Emissione di token digitali su piattaforme blockchain",
-                    "how.step3": "Investimento in immobili tokenizzati e guadagno di rendimenti",
-                    "risks.heading": "Rischi e ricompense:",
-                    "risks.text": "Sebbene altamente vantaggiosa, gli investitori dovrebbero considerare anche la volatilità del mercato, le regolamentazioni e la conformità legale.",
-                    "conclusion.heading": "Conclusione:",
-                    "conclusion.text": "Il mercato immobiliare di Dubai si sta trasformando attraverso la tokenizzazione, offrendo opportunità rivoluzionarie per gli investitori di tutto il mondo. La tokenizzazione sta rivoluzionando il mercato immobiliare, rendendo Dubai la destinazione definitiva per gli investimenti immobiliari digitali."
-                }
-            },
-            "setting-up-a-crypto-wallet": {
-                "title": "Configurazione di un wallet crittografico",
-                "description": "Guida passo-passo su come configurare e gestire in modo sicuro il tuo wallet crittografico, proteggendo i tuoi asset digitali.",
-                "image": "/images/setting-up-a-crypto-wallet.webp",
-                "content": {
-                    "intro": "Un wallet crittografico ti consente di archiviare, gestire ed effettuare transazioni con criptovalute come Bitcoin, Ethereum e NFT in modo sicuro.",
-                    "why.heading": "Perché hai bisogno di un wallet crittografico?",
-                    "why.storage": "Archiviazione sicura degli asset digitali.",
-                    "why.manage": "Invia, ricevi e gestisci criptovalute facilmente.",
-                    "why.dapps": "Interagisci con applicazioni decentralizzate (dApp).",
-                    "setup.heading": "Configurazione passo-passo:",
-                    "setup.step1.heading": "Scegli un tipo di wallet:",
-                    "setup.step1.hot": "<strong>Hot Wallet (Software):</strong> Accessibile online (es. MetaMask, Trust Wallet).",
-                    "setup.step1.cold": "<strong>Cold Wallet (Hardware):</strong> Dispositivi fisici, più sicuri (es. Ledger, Trezor).",
-                    "setup.step2.heading": "Scarica e installa:",
-                    "setup.step2.text": "Visita il sito web ufficiale, scarica l'app/software e crea un nuovo wallet.",
-                    "setup.step3.heading": "Esegui il backup e proteggi il tuo wallet:",
-                    "setup.step3.seed": "Annota la tua frase di recupero. Non condividerla mai con nessuno.",
-                    "setup.step3.2fa": "Abilita l'autenticazione a due fattori (2FA) se disponibile.",
-                    "setup.step4.heading": "Finanziare il tuo wallet:",
-                    "setup.step4.address": "Ricevi criptovalute condividendo l'indirizzo del tuo wallet.",
-                    "setup.step4.exchange": "Acquista criptovalute tramite exchange e trasferiscile nel tuo wallet.",
-                    "security.heading": "Migliori pratiche di sicurezza:",
-                    "security.update": "Aggiorna regolarmente il software del tuo wallet.",
-                    "security.phishing": "Fai attenzione alle truffe di phishing e ai link sospetti.",
-                    "security.doublecheck": "Controlla sempre due volte gli indirizzi prima di inviare criptovalute.",
-                    "conclusion.heading": "Conclusione:",
-                    "conclusion.text": "Avere un wallet crittografico sicuro è essenziale per partecipare in modo sicuro agli ecosistemi blockchain. Seguendo questi semplici passaggi, proteggerai i tuoi asset digitali mentre navighi con facilità nel mondo delle criptovalute."
-                }
-            },
-            "metaverse-integration-and-3d-space-development": {
-                "title": "Integrazione nel metaverso e sviluppo di spazi 3D",
-                "description": "Scopri le migliori pratiche per un'integrazione fluida nel metaverso, inclusi gli elementi essenziali per progettare spazi 3D immersivi e interattivi.",
-                "image": "/images/metaverse-integration-and-3d-space-development.webp",
-                "content": {
-                    "intro": "Costruire spazi virtuali coinvolgenti all'interno del metaverso può trasformare le esperienze degli utenti, elevare la presenza del marchio e favorire interazioni aziendali innovative.",
-                    "definition.heading": "Cos'è l'integrazione nel metaverso?",
-                    "definition.text": "L'integrazione consiste nell'inserire la tua azienda, prodotto o evento in modo fluido in spazi virtuali accessibili da qualsiasi luogo. Questo processo include la costruzione di ambienti 3D interattivi che gli utenti possono esplorare, con cui possono interagire e che possono apprezzare.",
-                    "importance.heading": "L'importanza dello sviluppo di spazi 3D:",
-                    "importance.text": "Un efficace sviluppo di spazi 3D migliora l'immersione e l'engagement degli utenti, aumentando la visibilità del marchio e creando esperienze memorabili.",
-                    "steps.heading": "Passaggi per un'integrazione di successo nel metaverso:",
-                    "steps.step1.heading": "Definisci i tuoi obiettivi:",
-                    "steps.step1.text": "Delinea chiaramente i tuoi obiettivi: consapevolezza del marchio, costruzione della community, eventi virtuali, ecc.",
-                    "steps.step2.heading": "Seleziona la tua piattaforma metaversale:",
-                    "steps.step2.text": "Valuta piattaforme popolari come Decentraland, The Sandbox, Spatial o soluzioni aziendali personalizzate.",
-                    "steps.step3.heading": "Progettazione del tuo spazio 3D:",
-                    "steps.step3.text1": "Utilizza software professionali come Unity, Blender o Unreal Engine per visuals di alta qualità.",
-                    "steps.step3.text2": "Assicurati che il tuo spazio sia allineato con l'identità del marchio e gli obiettivi di engagement degli utenti.",
-                    "steps.step4.heading": "Elementi interattivi e personalizzazione:",
-                    "steps.step4.text": "Crea funzionalità interattive (avatar, asset digitali, eventi virtuali) per esperienze immersive.",
-                    "steps.step5.heading": "Lancio e promozione:",
-                    "steps.step5.text": "Promuovi il tuo spazio metaversale attraverso social media, campagne mirate e partnership con influencer.",
-                    "useCases.heading": "Casi d'uso pratici:",
-                    "useCases.events": "Eventi virtuali e lanci di prodotti",
-                    "useCases.showrooms": "Showroom digitali ed esperienze di marca immersive",
-                    "useCases.realEstate": "Tour virtuali immobiliari",
-                    "useCases.education": "Simulazioni per istruzione e formazione",
-                    "conclusion.heading": "Conclusione:",
-                    "conclusion.text": "L'integrazione nel metaverso e lo sviluppo di spazi 3D offrono straordinarie opportunità per la crescita e l'innovazione aziendale. Inizia oggi la tua trasformazione digitale e ridefinisci l'esperienza del tuo pubblico in ambienti virtuali immersivi."
-                }
-            }
+          "1": "Di utilizzare i Servizi in modo lecito e responsabile.",
+          "2": "Di non abusare o interferire con il corretto funzionamento delle nostre piattaforme.",
+          "3": "Di fornire informazioni accurate e complete al momento della registrazione o quando richiesto.",
+          "4": "Di mantenere la riservatezza e la sicurezza dei dettagli del tuo account.",
+          "5": "Di non intraprendere comportamenti dannosi, abusivi o di disturbo all'interno delle nostre piattaforme."
         }
-    },
-    "SUPPORT": {
-        "title": "Contatta il supporto",
-        "description": "Se riscontri problemi tecnici, hai bisogno di assistenza o hai domande sui nostri servizi, contattaci direttamente.",
-        "contact": {
-            "email": "Supporto via email",
-            "hotline": "Linea diretta di supporto: [+ (country code) (phone number)] (se applicabile)"
-        },
-        "faq": {
-            "title": "Risoluzione dei problemi e FAQ",
-            "description": "Di seguito trovi le risposte alle domande frequenti per aiutarti a risolvere rapidamente i problemi più comuni:",
-            "accordion": {
-                "1": {
-                    "question": "Come accedo al mio spazio metaverso Elchai?",
-                    "answer": "Accedi al tuo account universe eye tramite la nostra piattaforma utilizzando l'email e la password registrate. Vai al tuo pannello di controllo e seleziona il tuo progetto metaverso."
-                },
-                "2": {
-                    "question": "Ho dimenticato la password. Come posso reimpostarla?",
-                    "answer": "Clicca su 'Password dimenticata' nella pagina di login. Inserisci il tuo indirizzo email registrato e segui il link di reimpostazione inviato alla tua casella di posta."
-                },
-                "3": {
-                    "question": "Come posso segnalare un problema tecnico o un bug?",
-                    "answer": "Invia un ticket di supporto dettagliato descrivendo il problema, includendo screenshot e i passaggi per riprodurre l'errore."
-                },
-                "4": {
-                    "question": "Come posso configurare il mio wallet crittografico o collegarlo alla piattaforma Elchai?",
-                    "answer": "Segui la nostra guida dettagliata qui (link alla documentazione sul wallet crittografico), oppure contatta il supporto per assistenza passo-passo."
-                }
-            }
-        },
-        "docs": {
-            "title": "Documentazione e guide utili",
-            "description": "Esplora documentazione completa e tutorial creati dai nostri esperti:",
-            "items": [
-                "Guida per principianti al metaverso",
-                "Configurazione e protezione del tuo wallet crittografico",
-                "Integrazione del tuo marchio nel metaverso",
-                "Comprendere la tokenizzazione immobiliare"
-            ],
-            "cta": "Visualizza tutta la documentazione"
-        },
-        "response": {
-            "title": "Tempo di risposta previsto",
-            "description": "Puntiamo a rispondere a tutte le richieste di supporto rapidamente:",
-            "items": [
-                "Richieste generali: Entro 24 ore (giorni lavorativi)",
-                "Supporto tecnico: Entro 12 ore",
-                "Problemi urgenti e clienti premium: Entro 4 ore"
-            ],
-            "note": "Il nostro team di supporto dedicato opera dal lunedì al venerdì (dalle 9:00 alle 18:00, ora locale)"
+      },
+      "2": {
+        "title": "Limitazione di responsabilità",
+        "h1": "Elchai non sarà responsabile per:",
+        "items": {
+          "1": "Eventuali danni indiretti, incidentali, speciali, consequenziali o punitivi derivanti dall'uso o dall'impossibilità di utilizzare i nostri Servizi.",
+          "2": "Accessi non autorizzati, perdita di dati o interruzioni dei Servizi.",
+          "3": "Comunicare aggiornamenti, notizie, materiali promozionali o altre informazioni a cui hai aderito.",
+          "4": "Errori, inesattezze o omissioni all'interno delle nostre piattaforme o integrazioni di terze parti.",
+          "5": "Azioni o contenuti di altri utenti o terze parti.",
+          "6": "La responsabilità di Elchai ai sensi di questi termini, ove applicabile, sarà limitata nella misura massima consentita dalla legge."
         }
-    },
-    "TERMS": {
-        "title": "Termini di utilizzo",
-        "description": "Benvenuto in Elchai Group. Accedendo o utilizzando il nostro sito web, le piattaforme metaversali, le applicazioni o altri servizi forniti (collettivamente, i “Servizi”), accetti di essere vincolato da questi Termini di utilizzo. Ti invitiamo a leggerli attentamente.",
-        "list": {
-            "1": {
-                "title": "Obblighi dell'utente",
-                "h1": "Utilizzando i Servizi di Elchai, accetti:",
-                "items": {
-                    "1": "Di utilizzare i Servizi in modo lecito e responsabile.",
-                    "2": "Di non abusare o interferire con il corretto funzionamento delle nostre piattaforme.",
-                    "3": "Di fornire informazioni accurate e complete al momento della registrazione o quando richiesto.",
-                    "4": "Di mantenere la riservatezza e la sicurezza dei dettagli del tuo account.",
-                    "5": "Di non intraprendere comportamenti dannosi, abusivi o di disturbo all'interno delle nostre piattaforme."
-                }
-            },
-            "2": {
-                "title": "Limitazione di responsabilità",
-                "h1": "Elchai non sarà responsabile per:",
-                "items": {
-                    "1": "Eventuali danni indiretti, incidentali, speciali, consequenziali o punitivi derivanti dall'uso o dall'impossibilità di utilizzare i nostri Servizi.",
-                    "2": "Accessi non autorizzati, perdita di dati o interruzioni dei Servizi.",
-                    "3": "Comunicare aggiornamenti, notizie, materiali promozionali o altre informazioni a cui hai aderito.",
-                    "4": "Errori, inesattezze o omissioni all'interno delle nostre piattaforme o integrazioni di terze parti.",
-                    "5": "Azioni o contenuti di altri utenti o terze parti.",
-                    "6": "La responsabilità di Elchai ai sensi di questi termini, ove applicabile, sarà limitata nella misura massima consentita dalla legge."
-                }
-            },
-            "3": {
-                "title": "Proprietà intellettuale",
-                "h1": "",
-                "items": {
-                    "1": "Tutti i contenuti, marchi, loghi, design, grafica, software e altra proprietà intellettuale forniti da Elchai rimangono di proprietà esclusiva di Elchai o dei rispettivi titolari dei diritti.",
-                    "2": "Agli utenti viene concessa una licenza limitata, revocabile e non esclusiva per accedere e utilizzare i Servizi esclusivamente per scopi personali o aziendali interni.",
-                    "3": "Accetti di non copiare, riprodurre, distribuire, modificare o creare opere derivate senza il consenso esplicito scritto di Elchai."
-                }
-            },
-            "4": {
-                "title": "Legge applicabile",
-                "h1": "",
-                "items": {
-                    "1": "Questi Termini di utilizzo saranno regolati e interpretati secondo le leggi di [insert jurisdiction/country].",
-                    "2": "Accetti la giurisdizione esclusiva e la competenza dei tribunali situati in [jurisdiction/country] per la risoluzione di eventuali controversie derivanti da questi Termini o dall'uso dei Servizi."
-                }
-            },
-            "5": {
-                "title": "Terminazione dell'uso",
-                "h1": "",
-                "items": {
-                    "1": "Elchai si riserva il diritto di sospendere o terminare il tuo accesso ai nostri Servizi in qualsiasi momento, senza preavviso, in caso di violazione di questi Termini.",
-                    "2": "In caso di terminazione, il tuo diritto di accedere alle nostre piattaforme e ai relativi contenuti cesserà immediatamente.",
-                    "3": "Puoi terminare il tuo account o l'uso dei Servizi in qualsiasi momento contattando il supporto."
-                }
-            },
-            "6": {
-                "title": "Modifiche ai termini",
-                "h1": "",
-                "items": {
-                    "1": "Elchai si riserva il diritto di aggiornare o modificare questi Termini in qualsiasi momento.",
-                    "2": "Le modifiche saranno effettive al momento della pubblicazione su questa pagina, ed è tua responsabilità rivedere regolarmente questi Termini.",
-                    "3": "L'uso continuato dei nostri Servizi dopo le modifiche costituisce l'accettazione dei Termini aggiornati."
-                }
-            },
-            "7": {
-                "title": "Informazioni di contatto",
-                "h1": "",
-                "items": {
-                    "1": "Per domande, preoccupazioni o chiarimenti riguardo a questi Termini, contattaci:",
-                    "2": "Email: info@elchaigroup.com",
-                    "3": "Indirizzo: [Insert Official Address]"
-                }
-            }
+      },
+      "3": {
+        "title": "Proprietà intellettuale",
+        "h1": "",
+        "items": {
+          "1": "Tutti i contenuti, marchi, loghi, design, grafica, software e altra proprietà intellettuale forniti da Elchai rimangono di proprietà esclusiva di Elchai o dei rispettivi titolari dei diritti.",
+          "2": "Agli utenti viene concessa una licenza limitata, revocabile e non esclusiva per accedere e utilizzare i Servizi esclusivamente per scopi personali o aziendali interni.",
+          "3": "Accetti di non copiare, riprodurre, distribuire, modificare o creare opere derivate senza il consenso esplicito scritto di Elchai."
         }
-    },
-     "FAQ": {
+      },
+      "4": {
+        "title": "Legge applicabile",
+        "h1": "",
+        "items": {
+          "1": "Questi Termini di utilizzo saranno regolati e interpretati secondo le leggi di [insert jurisdiction/country].",
+          "2": "Accetti la giurisdizione esclusiva e la competenza dei tribunali situati in [jurisdiction/country] per la risoluzione di eventuali controversie derivanti da questi Termini o dall'uso dei Servizi."
+        }
+      },
+      "5": {
+        "title": "Terminazione dell'uso",
+        "h1": "",
+        "items": {
+          "1": "Elchai si riserva il diritto di sospendere o terminare il tuo accesso ai nostri Servizi in qualsiasi momento, senza preavviso, in caso di violazione di questi Termini.",
+          "2": "In caso di terminazione, il tuo diritto di accedere alle nostre piattaforme e ai relativi contenuti cesserà immediatamente.",
+          "3": "Puoi terminare il tuo account o l'uso dei Servizi in qualsiasi momento contattando il supporto."
+        }
+      },
+      "6": {
+        "title": "Modifiche ai termini",
+        "h1": "",
+        "items": {
+          "1": "Elchai si riserva il diritto di aggiornare o modificare questi Termini in qualsiasi momento.",
+          "2": "Le modifiche saranno effettive al momento della pubblicazione su questa pagina, ed è tua responsabilità rivedere regolarmente questi Termini.",
+          "3": "L'uso continuato dei nostri Servizi dopo le modifiche costituisce l'accettazione dei Termini aggiornati."
+        }
+      },
+      "7": {
+        "title": "Informazioni di contatto",
+        "h1": "",
+        "items": {
+          "1": "Per domande, preoccupazioni o chiarimenti riguardo a questi Termini, contattaci:",
+          "2": "Email: info@elchaigroup.com",
+          "3": "Indirizzo: [Insert Official Address]"
+        }
+      }
+    }
+  },
+  "FAQ": {
     "title": "Termini di utilizzo di Elchai",
     "description": "Sfoglia le domande frequenti qui sotto. Se non trovi una risposta, non esitare a contattarci.",
     "items": [

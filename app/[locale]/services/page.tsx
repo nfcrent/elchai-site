@@ -80,7 +80,7 @@ export default async function ServicePage() {
                     href={`/services/${service.slug}`}
                     className="text-epurple font-bold uppercase"
                   >
-                    Learn More
+                    {service.link.name}
                   </Link>
                 </div>
               </div>

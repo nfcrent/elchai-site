@@ -32,11 +32,6 @@ interface MenusI {
   submenu?: MenusI[];
 }
 
-
-
-
-
-
 export const SocialMediaMenu = () => {
   const SocialMediaData: MenusI[] = [
     {
@@ -79,7 +74,7 @@ export const SocialMediaMenu = () => {
 };
 
 export const ContactMenu = () => {
-  const t = useTranslations("MENU")
+  const t = useTranslations("MENU");
   const ContactMenuData: MenusI[] = [
     {
       name: getSiteData().contact.email,
@@ -113,7 +108,7 @@ export const ContactMenu = () => {
 };
 
 export const ResourcesMenu = () => {
-  const t = useTranslations("MENU")
+  const t = useTranslations("MENU");
   const ResourcesMenuData: MenusI[] = [
     {
       name: t("resources.faq"),
@@ -153,11 +148,11 @@ export const ResourcesMenu = () => {
 };
 
 export const ServicesMenu = () => {
-  const t = useTranslations("SERVICES")
+  const t = useTranslations("SERVICES");
   const ServicesMenuData: MenusI[] = [
-    ...getServiceData(t).map(i => ({
+    ...getServiceData(t).map((i) => ({
       name: i.title,
-      url: `/services/${i.slug}`
+      url: `/services/${i.slug}`,
     })),
     {
       name: t("all"),
@@ -181,7 +176,7 @@ export const ServicesMenu = () => {
 };
 
 export const AboutElchaiMenu = () => {
-  const t = useTranslations("MENU")
+  const t = useTranslations("MENU");
   const AboutElchaiMenuData: MenusI[] = [
     {
       name: t("about.aboutUs"),
@@ -232,7 +227,7 @@ const languages: Language[] = [
   { code: "it", name: "Italiano", flag: "🇮🇹" },
   { code: "zh", name: "中文", flag: "🇨🇳" },
   { code: "ru", name: "Русский", flag: "🇷🇺" },
-  { code: "ar", name: "العربية", flag: "🇸🇦" },
+  { code: "ar", name: "العربية", flag: "🇦🇪" },
 ].filter((lang) => supportedLanguages.includes(lang.code));
 
 export function LanguageSwitcher() {
@@ -295,9 +290,8 @@ export function LanguageSwitcher() {
 }
 
 export const MobileMenu = ({ toggleMenu }: { toggleMenu: () => void }) => {
-
-  const t = useTranslations("SERVICES")
-  const t2 = useTranslations("MENU")
+  const t = useTranslations("SERVICES");
+  const t2 = useTranslations("MENU");
 
   const MainMenuData: MenusI[] = [
     {
@@ -311,17 +305,20 @@ export const MobileMenu = ({ toggleMenu }: { toggleMenu: () => void }) => {
     {
       name: t2("footer.services"),
       url: "/services",
-      submenu: [{ name: t("all"), url: "/services" }, ...getServiceData(t).map(v => ({
-        name: v.title,
-        url: `/services/${v.slug}`,
-      }))],
+      submenu: [
+        { name: t("all"), url: "/services" },
+        ...getServiceData(t).map((v) => ({
+          name: v.title,
+          url: `/services/${v.slug}`,
+        })),
+      ],
     },
     {
       name: t2("about.elchaiGuides"),
       url: "/elchai-guides",
     },
     {
-      name: t2("about.contact"),
+      name: t2("footer.contact"),
       url: "/contact-us",
     },
   ];
@@ -393,8 +390,8 @@ export const MobileMenu = ({ toggleMenu }: { toggleMenu: () => void }) => {
 };
 
 const Menu = () => {
-  const t = useTranslations("SERVICES")
-  const t2 = useTranslations("MENU")
+  const t = useTranslations("SERVICES");
+  const t2 = useTranslations("MENU");
   const MainMenuData: MenusI[] = [
     {
       name: t2("home"),
@@ -407,10 +404,13 @@ const Menu = () => {
     {
       name: t2("footer.services"),
       url: "/services",
-      submenu: [{ name: t("all"), url: "/services" }, ...getServiceData(t).map(v => ({
-        name: v.title,
-        url: `/services/${v.slug}`,
-      }))],
+      submenu: [
+        { name: t("all"), url: "/services" },
+        ...getServiceData(t).map((v) => ({
+          name: v.title,
+          url: `/services/${v.slug}`,
+        })),
+      ],
     },
     {
       name: t2("about.elchaiGuides"),
@@ -421,7 +421,6 @@ const Menu = () => {
       url: "/contact-us",
     },
   ];
-
 
   const [openDropdown, setOpenDropdown] = useState(false);
 
