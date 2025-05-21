@@ -51,9 +51,10 @@ export default async function RootLayout({
   if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
+const dir=locale === "ar" ? "rtl" : "ltr";
 
   return (
-    <html lang="en">
+    <html lang="en" dir={dir}>
       <body
         className={`${montserrat.className} antialiased`}
       >
