@@ -4,7 +4,7 @@ import { cn, getSiteData } from "@/lib/utils";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { FaAngleDown } from "react-icons/fa6";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import {
   DropdownMenu,
@@ -231,63 +231,85 @@ const languages: Language[] = [
 ].filter((lang) => supportedLanguages.includes(lang.code));
 
 export function LanguageSwitcher() {
-  const router = useRouter();
-  const pathname = usePathname();
-  const currentLocale = useLocale();
-  const [isOpen, setIsOpen] = useState(false);
+  const router = useRouter()
+  const pathname = usePathname()
+  const currentLocale = useLocale()
+  const [isOpen, setIsOpen] = useState(false)
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null)
 
   const switchLanguage = (language: Language) => {
-    let newPath = pathname;
-    const pathParts = pathname.split("/");
+    let newPath = pathname
+    const pathParts = pathname.split("/")
 
     if (languages.some((lang) => lang.code === pathParts[1])) {
-      pathParts[1] = language.code;
-      newPath = pathParts.join("/");
+      pathParts[1] = language.code
+      newPath = pathParts.join("/")
     } else {
-      newPath = `/${language.code}${pathname}`;
+      newPath = `/${language.code}${pathname}`
     }
-    router.push(newPath);
-    setIsOpen(false);
-  };
+    router.push(newPath)
+    setIsOpen(false)
+  }
+  const closeDropdown = () => {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current)
+    }
+    timeoutRef.current = setTimeout(() => {
+      setIsOpen(false)
+    }, 150)
+  }
+
+  const cancelClose = () => {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current)
+      timeoutRef.current = null
+    }
+  }
+
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current)
+      }
+    }
+  }, [])
 
   return (
-    <DropdownMenu open={isOpen} onOpenChange={setIsOpen}>
-      <DropdownMenuTrigger
-        onMouseEnter={() => setIsOpen(true)}
-        className="outline-0 uppercase mx-1.5 text-sm flex items-center gap-2"
-      >
-        <span className="flex items-center gap-1">
-          <span className="mr-1">
-            {languages.find((l) => l.code === currentLocale)?.flag}
+    <div onMouseLeave={closeDropdown} onMouseEnter={cancelClose}>
+      <DropdownMenu open={isOpen} onOpenChange={setIsOpen}>
+        <DropdownMenuTrigger
+          onMouseEnter={() => setIsOpen(true)}
+          className="outline-0 uppercase mx-1.5 text-sm flex items-center gap-2"
+        >
+          <span className="flex items-center gap-1">
+            <span className="mr-1">{languages.find((l) => l.code === currentLocale)?.flag}</span>
+            {languages.find((l) => l.code === currentLocale)?.code}
           </span>
-          {languages.find((l) => l.code === currentLocale)?.code}
-        </span>
-        <FaAngleDown className="text-sm" />
-      </DropdownMenuTrigger>
-      <DropdownMenuContent
-        sideOffset={20}
-        className="p-4 bg-black text-white main-sub-menu"
-      >
-        {languages.map((language) => (
-          <DropdownMenuItem
-            key={language.code}
-            className={cn(
-              "p-2.5 bg-linear-to-r hover:!text-white hover:from-eblue hover:to-epurple",
-              currentLocale === language.code && "active",
-            )}
-            onClick={() => switchLanguage(language)}
-          >
-            <div className="flex items-center gap-2 w-full">
-              <span className="mr-1">{language.flag}</span>
-              <span className="flex-1">{language.name}</span>
-              {currentLocale === language.code && <Check className="h-4 w-4" />}
-            </div>
-          </DropdownMenuItem>
-        ))}
-      </DropdownMenuContent>
-    </DropdownMenu>
-  );
+          <FaAngleDown className="text-sm" />
+        </DropdownMenuTrigger>
+        <DropdownMenuContent sideOffset={20} className="p-4 bg-black text-white main-sub-menu">
+          {languages.map((language) => (
+            <DropdownMenuItem
+              key={language.code}
+              className={cn(
+                "p-2.5 bg-linear-to-r hover:!text-white hover:from-eblue hover:to-epurple",
+                currentLocale === language.code && "active",
+              )}
+              onClick={() => switchLanguage(language)}
+            >
+              <div className="flex items-center gap-2 w-full">
+                <span className="mr-1">{language.flag}</span>
+                <span className="flex-1">{language.name}</span>
+                {currentLocale === language.code && <Check className="h-4 w-4" />}
+              </div>
+            </DropdownMenuItem>
+          ))}
+        </DropdownMenuContent>
+      </DropdownMenu>
+    </div>
+  )
 }
+
 
 export const MobileMenu = ({ toggleMenu }: { toggleMenu: () => void }) => {
   const t = useTranslations("SERVICES");
@@ -422,61 +444,83 @@ const Menu = () => {
     },
   ];
 
-  const [openDropdown, setOpenDropdown] = useState(false);
 
-  const router = useRouter();
-  const pathname = usePathname();
-  const isActive = pathname.startsWith("/services");
+  const [openDropdown, setOpenDropdown] = useState(false)
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null)
+
+  const router = useRouter()
+  const pathname = usePathname()
+  const isActive = pathname.startsWith("/services")
+
+  const closeDropdown = () => {
+    // Clear any existing timeout
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current)
+    }
+
+    // Set a small timeout before closing to allow mouse movement between trigger and content
+    timeoutRef.current = setTimeout(() => {
+      setOpenDropdown(false)
+    }, 150) // 150ms delay gives enough time to move to the content
+  }
+
+  const cancelClose = () => {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current)
+      timeoutRef.current = null
+    }
+  }
+
+  // Clean up timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current)
+      }
+    }
+  }, [])
+
 
   return (
     <>
-      <ul className="main-menu">
-        {MainMenuData &&
-          MainMenuData.length > 0 &&
-          MainMenuData.map((menu, index) => (
-            <li key={index}>
-              {menu.submenu && menu.submenu.length > 0 ? (
-                <>
-                  <DropdownMenu
-                    open={openDropdown}
-                    onOpenChange={setOpenDropdown}
-                  >
-                    <DropdownMenuTrigger
-                      onMouseEnter={() => setOpenDropdown(true)}
-                      className={`outline-0 uppercase text-sm flex items-center gap-2 ${isActive ? "active" : ""}`}
-                    >
-                      {menu.name} <FaAngleDown className="text-sm" />
-                    </DropdownMenuTrigger>
-                    <DropdownMenuContent
-                      sideOffset={20}
-                      className="p-4 bg-black text-white main-sub-menu"
-                    >
-                      {menu.submenu.map((submenu, index) => (
-                        <DropdownMenuItem
-                          key={index}
-                          className={`p-2.5 bg-linear-to-r hover:!text-white hover:from-eblue hover:to-epurple ${pathname === submenu.url ? "active" : ""}`}
-                          onClick={() => router.push(submenu.url)}
-                        >
-                          {submenu.name}
-                        </DropdownMenuItem>
-                      ))}
-                    </DropdownMenuContent>
-                  </DropdownMenu>
-                </>
-              ) : (
-                <>
-                  <Link
-                    href={menu.url}
-                    className={pathname === menu.url ? "active" : ""}
-                  >
+      <>
+        <ul className="main-menu">
+          {MainMenuData &&
+            MainMenuData.length > 0 &&
+            MainMenuData.map((menu, index) => (
+              <li key={index}>
+                {menu.submenu && menu.submenu.length > 0 ? (
+                  <div onMouseLeave={closeDropdown} onMouseEnter={cancelClose}>
+                    <DropdownMenu open={openDropdown} onOpenChange={setOpenDropdown}>
+                      <DropdownMenuTrigger
+                        onMouseEnter={() => setOpenDropdown(true)}
+                        className={`outline-0 uppercase text-sm flex items-center gap-2 ${isActive ? "active" : ""}`}
+                      >
+                        {menu.name} <FaAngleDown className="text-sm" />
+                      </DropdownMenuTrigger>
+                      <DropdownMenuContent sideOffset={20} className="p-4 bg-black text-white main-sub-menu">
+                        {menu.submenu.map((submenu, index) => (
+                          <DropdownMenuItem
+                            key={index}
+                            className={`p-2.5 bg-linear-to-r hover:!text-white hover:from-eblue hover:to-epurple ${pathname === submenu.url ? "active" : ""}`}
+                            onClick={() => router.push(submenu.url)}
+                          >
+                            {submenu.name}
+                          </DropdownMenuItem>
+                        ))}
+                      </DropdownMenuContent>
+                    </DropdownMenu>
+                  </div>
+                ) : (
+                  <Link href={menu.url} className={pathname === menu.url ? "active" : ""}>
                     {menu.name}
                   </Link>
-                </>
-              )}
-            </li>
-          ))}
-        <LanguageSwitcher />
-      </ul>
+                )}
+              </li>
+            ))}
+          <LanguageSwitcher />
+        </ul>
+      </>
     </>
   );
 };
