@@ -115,6 +115,11 @@
       "name": "Flavio Elia",
       "title": "Presidente e Fondatore, Elchai Group"
     },
+    "charting": {
+      "h2": "Tracciare nuovi",
+      "h2_span": "territori digitali",
+      "p1": "Noi di Elchai ci impegniamo a esplorare territori inesplorati creando ecosistemi basati sul Web3 alimentati dalla decentralizzazione e da tecnologie avanzate come Al, NLP, ML e loT. La nostra visione mira in particolare a rivoluzionare il settore immobiliare globale, aprendo la strada alle aziende per adottare modelli decentralizzati, guidare l'innovazione e ottenere una crescita straordinaria all'interno del dominio del Web."
+    },
     "whyChoose": {
       "h2": "Perché i leader globali",
       "h2_span": "scelgono Elchai",
@@ -196,6 +201,8 @@
       "ITLead": "Responsabile IT"
     },
     "team": {
+      "h2": "Incontrare la leadership e",
+      "h2_span": "il team di Elchai Leadership",
       "tabs": {
         "skills": "Distribuzione delle competenze",
         "leadership": "Leadership"

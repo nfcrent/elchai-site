@@ -115,6 +115,11 @@
       "name": "Flavio Elia",
       "title": "Chairman & Founder, Elchai Group"
     },
+    "charting": {
+      "h2": "Charting New",
+      "h2_span": "Digital Territories",
+      "p1": "At Elchai, we are committed to exploring uncharted territories by crafting Web3-based ecosystems powered by decentralization and advanced technologies such as Al, NLP, ML, and loT. Our vision particularly aims to revolutionize the global real estate sector, paving paths for businesses to adopt decentralized models, drive innovation, and achieve extraordinary growth within the Webs domain."
+    },
     "whyChoose": {
       "h2": "Why Global Leaders",
       "h2_span": "Choose Elchai",
@@ -196,6 +201,8 @@
       "ITLead": "IT Lead"
     },
     "team": {
+      "h2": "Meet the Leadership &",
+      "h2_span": "Team Behind Elchai Leadership",
       "tabs": {
         "skills": "Skills Distribution",
         "leadership": "Leadership"
