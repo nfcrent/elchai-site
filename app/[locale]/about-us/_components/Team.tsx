@@ -11,7 +11,7 @@ interface LeaderShipData {
 }
 
 const LeaderShip = () => {
-  const t = useTranslations("About");
+  const t = useTranslations("ABOUT");
 
   const LeaderShipData = [
     {
@@ -86,7 +86,7 @@ const LeaderShip = () => {
 };
 
 const SkillsDistribution = () => {
-  const t = useTranslations("About.team.skills");
+  const t = useTranslations("ABOUT.team.skills");
 
   const skills = [
     { value: 22, label: t("backend") },
@@ -115,7 +115,7 @@ const SkillsDistribution = () => {
 
 
 const Team = () => {
-  const t = useTranslations("About.team.tabs");
+  const t = useTranslations("ABOUT.team.tabs");
 
   return (
     <div className="w-full flex flex-col gap-10">
