@@ -19,7 +19,7 @@ export function Hero() {
     }, [])
 
     return (<>
-        <HeroHeader video="/videos/main-hero-video.mp4" mheight="min-h-[90vh]" className="max-w-[666px]" title={
+        <HeroHeader video="/videos/main-hero-video.mp4" mheight="min-h-[70vh]" className="max-w-[666px]" title={
             <div className={`transition-opacity duration-700 ${visible ? 'opacity-100' : 'opacity-0'}`}>
                 <div className="mb-4 space-x-0.5">
                     <strong>{t("t1")} </strong>
