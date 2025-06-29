@@ -18,7 +18,7 @@ interface HeroHeaderProps {
 const HeroHeader = ({ image, video, overlay = "none", title, className, mheight = 'min-h-[60vh]', imgClass, containerClass, videoClass, imgHeight = 1920, imgWidth = 1920 }: HeroHeaderProps) => {
     return (
         <>
-            <div className={cn(`relative pt-28 lg:min-h-[100vh]`, `backdrop-blur-${overlay} ${mheight}`, containerClass)}>
+            <div className={cn(`relative pt-28 lg:min-h-[100vh] pb-[38vh] lg:pb-0`, `backdrop-blur-${overlay} ${mheight}`, containerClass)}>
 
                 <LightingOverLay overlay={overlay} />
 
