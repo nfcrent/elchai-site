@@ -17,33 +17,39 @@ const LeaderShip = () => {
     {
       name: "Flavio Elia",
       position: t("leadership.CEO"),
-      image: "/images/flavio-elia.webp",
-      linkedIn: "https://www.linkedin.com/in/flavio-elia/"
+      image: "/images/IMG_8725_result.webp",
+      /* linkedIn: "https://www.linkedin.com/in/flavio-elia/" */
+      linkedIn: null
     },
     {
       name: "Sukhchain Singh",
       position: t("leadership.CTO"),
-      image: "/images/human.jpg",
-      linkedIn: "https://www.linkedin.com/"
-    },
-    {
-      name: "Stefano Curzio",
-      position: t("leadership.CFO"),
-      image: "/images/human.jpg",
-      linkedIn: "https://www.linkedin.com/"
-    },
-    {
-      name: "Alessandro Benigni",
-      position: t("leadership.CMO"),
-      image: "/images/human.jpg",
-      linkedIn: "https://www.linkedin.com/"
+      image: "/images/sukhchain.webp",
+      /* linkedIn: "https://www.linkedin.com/" */
+      linkedIn: null
     },
     {
       name: "Usama Ghazanfer",
       position: t("leadership.ITLead"),
-      image: "/images/human.jpg",
-      linkedIn: "https://www.linkedin.com/"
-    }
+      image: "/images/usama.webp",
+      /* linkedIn: "https://www.linkedin.com/" */
+      linkedIn: null
+    },
+    {
+      name: "Diana",
+      position: t("leadership.CFO"),
+      image: "/images/diana.webp",
+      /* linkedIn: "https://www.linkedin.com/" */
+      linkedIn: null
+    },
+    {
+      name: "Peshwar",
+      position: t("leadership.CMO"),
+      image: "/images/peshwar.webp",
+      /* linkedIn: "https://www.linkedin.com/" */
+      linkedIn: null
+    },
+    
   ];
 
   return (
@@ -119,10 +125,10 @@ const Team = () => {
 
   return (
     <div className="w-full flex flex-col gap-10">
-      <Tabs defaultValue="skills" className="w-full teams-tabs">
+      <Tabs defaultValue="leadership" className="w-full teams-tabs">
         <TabsList className="h-auto bg-transparent mx-auto mb-8">
-          <TabsTrigger value="skills" className="btn">{t("skills")}</TabsTrigger>
           <TabsTrigger value="leadership" className="btn">{t("leadership")}</TabsTrigger>
+          <TabsTrigger value="skills" className="btn">{t("skills")}</TabsTrigger>
         </TabsList>
         <TabsContent value="skills">
           <SkillsDistribution />

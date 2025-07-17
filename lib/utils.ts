@@ -24,7 +24,7 @@ export function getSiteData() {
     contact: {
       email: "info@elchaigroup.com",
       supportEmail: "support@elchaigroup.com",
-      phone: "+971501080066",
+      phone: "+971547332211",
     },
     address: {
       street:

@@ -196,9 +196,9 @@
     "leadership": {
       "CEO": "Presidente e Fondatore",
       "CTO": "Direttore Tecnologico",
-      "CFO": "Direttore Finanziario",
-      "CMO": "Direttore Marketing",
-      "ITLead": "Responsabile IT"
+      "CFO": "Direttore commerciale",
+      "CMO": "Responsabile della sicurezza informatica",
+      "ITLead": "Responsabile di progetto IT"
     },
     "team": {
       "h2": "Incontrare la leadership e",
