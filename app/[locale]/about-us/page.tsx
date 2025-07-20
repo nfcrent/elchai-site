@@ -75,7 +75,7 @@ export default async function AboutUsPage() {
 				<div className="main-container">
 					<div className="grid lg:grid-cols-2 gap-12">
 						<div>
-							<Image src={'/images/IMG_8725_result.webp'} alt="" width={768} height={768} className="rounded-2xl" />
+							<Image src={'/images/IMG_8864.webp'} alt="" width={768} height={768} className="rounded-2xl aspect-[600/550] object-cover" />
 						</div>
 						<div className="flex flex-col justify-center">
 							<h2 className="main-title mb-4 max-w-[855px]">{t("message.h2")} <span>{t("message.h2_span")}</span></h2>
