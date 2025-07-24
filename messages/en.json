@@ -196,8 +196,10 @@
     "leadership": {
       "CEO": "Chairman & Founder",
       "CTO": "Chief Technology Officer",
-      "CFO": "Business Manager",
-      "CMO": "Cybersecurity Manager",
+      "CFO": "Chief Financial Officer",
+      "BM": "Business Manager",
+      "CM": "Cybersecurity Manager",
+      "AIM": "AI Innovation Specialist",
       "ITLead": "IT Project Manager"
     },
     "team": {

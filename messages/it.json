@@ -194,10 +194,12 @@
       "contact": "Contattaci"
     },
     "leadership": {
-      "CEO": "Presidente e Fondatore",
-      "CTO": "Direttore Tecnologico",
-      "CFO": "Direttore commerciale",
-      "CMO": "Responsabile della sicurezza informatica",
+      "CEO": "Presidente e fondatore",
+      "CTO": "Direttore tecnico",
+      "CFO": "Direttore finanziario",
+      "BM": "Responsabile commerciale",
+      "CM": "Responsabile della sicurezza informatica",
+      "AIM": "Specialista in innovazione AI",
       "ITLead": "Responsabile di progetto IT"
     },
     "team": {
