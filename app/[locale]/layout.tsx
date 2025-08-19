@@ -16,6 +16,11 @@ const montserrat = Montserrat({
 export const metadata = {
   title: "Elchai | Innovating AI, Metaverse, Blockchain & Web3 Solutions",
   description: "Elchai delivers intelligent AI, metaverse, blockchain, and Web3 solutions—empowering businesses with immersive, scalable, future-ready technologies.",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
   keywords: "AI and Metaverse Development, Blockchain, Web3, AI Integration, Metaverse Solutions, AR/VR/MR, IoT, Smart Contracts",
   openGraph: {
     title: "Elchai | Innovating AI, Metaverse, Blockchain & Web3 Solutions",
