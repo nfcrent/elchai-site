@@ -11,23 +11,43 @@ const SignatureProjects = () => {
     const t = useTranslations("HOME.section7")
     const ProjectsData = [
         {
-            name: t("real"),
-            image: '/images/real-estate-metaverse.webp',
+            name: t("aussivo"),
+            image: '/images/aussivo.webp',
             url: '/'
         },
         {
-            name: t("dubai"),
-            image: '/images/dubai-virtual-city.webp',
+            name: t("bxnk"),
+            image: '/images/bxnk.webp',
             url: '/'
         },
         {
-            name: t("virtual"),
-            image: '/images/virtual-car.webp',
+            name: t("horys"),
+            image: '/images/horys.webp',
             url: '/'
         },
         {
-            name: t("3d"),
-            image: '/images/3d-avatar.webp',
+            name: t("koinbay"),
+            image: '/images/koinbay.webp',
+            url: '/'
+        },
+        {
+            name: t("layerk"),
+            image: '/images/layerk.webp',
+            url: '/'
+        },
+        {
+            name: t("oyfio"),
+            image: '/images/oyfio.webp',
+            url: '/'
+        },
+        {
+            name: t("rampstarter"),
+            image: '/images/rampstarter.webp',
+            url: '/'
+        },
+        {
+            name: t("zenitworld"),
+            image: '/images/zenitworld.webp',
             url: '/'
         },
     ]
