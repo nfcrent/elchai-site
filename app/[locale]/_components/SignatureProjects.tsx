@@ -54,7 +54,7 @@ const SignatureProjects = () => {
 
     return (
         <>
-            <Swiper
+            {/* <Swiper
                 spaceBetween={10}
                 slidesPerView={1.2}
                 breakpoints={{
@@ -73,7 +73,18 @@ const SignatureProjects = () => {
                         <h2 className="text-center font-bold">{project.name}</h2>
                     </SwiperSlide>
                 )}
-            </Swiper>
+            </Swiper> */}
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-4 gap-y-8">
+                {ProjectsData && ProjectsData.length > 0 && ProjectsData.map((project, index) => 
+                    <div key={index}>
+                        <CardStyleTwo className="mb-3">
+                            <Image src={project.image} alt="" width={768} height={768} className="aspect-square object-cover object-center w-full h-full" />
+                        </CardStyleTwo>
+                        <h2 className="text-center font-bold">{project.name}</h2>
+                    </div>
+                )}
+            </div>
         </>
     )
 }
